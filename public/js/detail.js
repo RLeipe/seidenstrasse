@@ -95,14 +95,16 @@ export function maxElevation(p) {
   return Array.isArray(p.elevation_m) ? p.elevation_m[1] : p.elevation_m;
 }
 
-export function showPlace(p, { shortlisted, onShortlist } = {}) {
+export function showPlace(p, { shortlisted, onShortlist, inside = [], partOf = [], onSelect } = {}) {
   const cat = CATEGORIES[p.category] || { label: p.category, color: '#666', icon: '📍' };
   const [lng, lat] = p.coordinates;
+  const isRegion = p.kind === 'region';
   const facts = [
     ['Elevation', elevationText(p.elevation_m)],
+    ['Overnight at', p.base_elevation_m != null ? elevationText(p.base_elevation_m) : null],
     ['Time needed', esc(p.time_needed)],
     ['Getting there', inline(p.access || '')],
-    ['Nearest station', esc(p.nearest_station)],
+    [isRegion ? 'Gateway stations' : 'Nearest station', esc(p.nearest_station)],
     ['Best for', esc(p.best_for)],
   ].filter(([, v]) => v);
 
@@ -112,10 +114,16 @@ export function showPlace(p, { shortlisted, onShortlist } = {}) {
     { label: 'OpenStreetMap', url: `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lng}#map=13/${lat}/${lng}` },
   ];
 
+  const kindLabel = { region: 'Region to explore', area: 'Protected area' }[p.kind];
+  const placeChip = (q) => {
+    const c = CATEGORIES[q.category] || { color: '#666', icon: '📍' };
+    return `<button class="place-chip" data-goto="${esc(q.id)}" style="--c:${c.color}"><span>${c.icon}</span>${esc(q.name)} <small>${'★'.repeat(q.wow)}</small></button>`;
+  };
+
   open(`
-    ${gallery(p.photos, cat.icon)}
+    ${gallery(p.photos, isRegion ? '🗺️' : cat.icon)}
     <div class="detail-body">
-      <div class="kicker" style="--c:${cat.color}"><i></i>${esc(cat.label)} · ${esc(p.region)}${p.kind === 'area' ? ' · area' : ''}</div>
+      <div class="kicker" style="--c:${cat.color}"><i></i>${kindLabel ? `<b>${kindLabel}</b> · ` : ''}${esc(cat.label)} · ${esc(p.region)}</div>
       <h2>${esc(p.name)}</h2>
       ${p.name_zh ? `<div class="zh">${esc(p.name_zh)}<button data-copy="${esc(p.name_zh)}" title="Copy Chinese name (for taxis, booking apps)">copy</button></div>` : ''}
       ${p.tagline ? `<p class="tagline">${inline(p.tagline)}</p>` : ''}
@@ -129,8 +137,14 @@ export function showPlace(p, { shortlisted, onShortlist } = {}) {
 
       ${facts.length ? `<dl class="facts">${facts.map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`).join('')}</dl>` : ''}
 
+      ${partOf.length ? `<div class="part-of">Part of ${partOf.map((r) => `<button class="link-btn" data-goto="${esc(r.id)}">🗺️ ${esc(r.name)}</button>`).join(', ')}</div>` : ''}
+
       ${md(p.description)}
-      ${p.highlights?.length ? `<h3>Highlights</h3><ul>${p.highlights.map((h) => `<li>${inline(h)}</li>`).join('')}</ul>` : ''}
+      ${inside.length ? `<h3>Spots in this ${isRegion ? 'region' : 'area'}</h3><div class="place-chips">${inside.map(placeChip).join('')}</div>` : ''}
+      ${p.highlights?.length ? `<h3>${isRegion ? 'Don\'t miss' : 'Highlights'}</h3><ul>${p.highlights.map((h) => `<li>${inline(h)}</li>`).join('')}</ul>` : ''}
+      ${p.getting_around ? `<h3>Getting around</h3>${md(p.getting_around)}` : ''}
+      ${p.stay ? `<h3>Where to stay</h3>${md(p.stay)}` : ''}
+      ${p.route_idea ? `<h3>Route idea</h3>${md(p.route_idea)}` : ''}
       ${p.crowd_tips ? `<h3>Beating the crowds</h3>${md(p.crowd_tips)}` : ''}
       ${p.april ? `<div class="callout april"><strong>In April:</strong> ${inline(p.april)}</div>` : ''}
       ${p.health ? `<div class="callout health"><strong>Health / pregnancy:</strong> ${inline(p.health)}</div>` : ''}
@@ -143,6 +157,7 @@ export function showPlace(p, { shortlisted, onShortlist } = {}) {
     navigator.clipboard?.writeText(e.target.dataset.copy);
     e.target.textContent = 'copied ✓';
   });
+  content.querySelectorAll('[data-goto]').forEach((b) => b.addEventListener('click', () => onSelect?.(b.dataset.goto)));
   content.querySelector('[data-shortlist]')?.addEventListener('click', (e) => {
     const on = onShortlist?.();
     e.target.textContent = on ? '♥ On our shortlist' : '♡ Add to shortlist';

@@ -1,9 +1,8 @@
 import { INITIAL_VIEW } from './config.js';
 import { buildStyle, GROUPS, setVisible, setBasemap } from './layers.js';
 import { initReadout, loadClimate } from './readout.js';
-import { initPlaces, setPlacesVisible } from './places.js';
+import { initPlaces, setPlacesVisible, handleMapClick } from './places.js';
 import { initHealth } from './health.js';
-import { closeDetail, isDetailOpen } from './detail.js';
 
 const $ = (id) => document.getElementById(id);
 
@@ -36,11 +35,8 @@ async function main() {
   wireStations(map);
   wireSidebar();
 
-  // click on empty map closes the detail panel
-  map.on('click', (e) => {
-    const hits = map.queryRenderedFeatures(e.point, { layers: ['place-areas-fill', 'health-fill', 'stations-hsr', 'stations-fast', 'stations-other'].filter((l) => map.getLayer(l)) });
-    if (!hits.length && isDetailOpen() && !e.originalEvent.target.closest('.place-marker')) closeDetail();
-  });
+  // one dispatcher for clicks on areas, regions and health zones (stations/markers handle their own)
+  map.on('click', handleMapClick);
 }
 
 function wireLayerToggles(map, meta) {
@@ -68,6 +64,7 @@ function wireLayerToggles(map, meta) {
   bind('lyr-disease', (on) => setVisible(map, GROUPS.disease, on));
   bind('lyr-climate', (on) => setVisible(map, GROUPS.climate, on));
   bind('lyr-places', (on) => { setVisible(map, GROUPS.places, on); setPlacesVisible(on); });
+  bind('lyr-regions', (on) => setVisible(map, GROUPS.regions, on));
 
   bind('lyr-3d', (on) => {
     if (!on && !map.getTerrain()) return; // initial state: nothing to undo

@@ -4043,6 +4043,5794 @@
     "hotpot",
     "architecture"
    ]
+  },
+  {
+   "id": "hk-wild-east",
+   "kind": "region",
+   "category": "hike",
+   "name": "Hong Kong's wild east: Sai Kung & Plover Cove",
+   "short_name": "Sai Kung wilds",
+   "name_zh": "西貢 · 船灣郊野",
+   "region": "Hong Kong",
+   "coordinates": [
+    114.3102,
+    22.4412
+   ],
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": [
+    0,
+    700
+   ],
+   "base_elevation_m": 10,
+   "tagline": "Two-thirds of Hong Kong is countryside, and this is its wildest corner: volcanic coast, empty Hakka villages, sea kayaks and kaito ferries.",
+   "time_needed": "1–3 days",
+   "nearest_station": "Hong Kong West Kowloon (HSR) → MTR to Diamond Hill / Hang Hau / University",
+   "best_for": "Coastal hikes, beaches, kayaking, abandoned-village atmosphere",
+   "description": [
+    "The Sai Kung peninsula and the Plover Cove / Double Haven country parks are a maze of geopark coastline, islands and walled Hakka villages abandoned in the 1960s–70s. Some, like **Lai Chi Wo**, are being revived with farm-stays and cafés.",
+    "On a weekday it's hard to believe you are 30 km from Central."
+   ],
+   "highlights": [
+    "MacLehose Stage 2 & the Tai Long Wan beaches",
+    "High Island East Dam hexagonal columns",
+    "Kaito ferry from Ma Liu Shui to Tap Mun / Lai Chi Wo (weekends)",
+    "Sea-kayaking among the geopark sea caves"
+   ],
+   "getting_around": "MTR + green minibuses and buses from Sai Kung town; taxis to trailheads; weekend kaito ferries to the northern villages. No car needed.",
+   "stay": "Few beds out here: Sai Kung town (seafood waterfront), a campsite at Ham Tin, or the Lai Chi Wo village homestays. Most people base in Kowloon.",
+   "route_idea": "Day 1: East Dam → MacLehose 2 → speedboat from Sai Wan. Day 2 (weekend): ferry to Lai Chi Wo, walk the Plover Cove trail.",
+   "april": "~24 °C, humid, first heavy showers; sea still fresh.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/HK_LaiChiWo_MainEntranceGateway.JPG/1280px-HK_LaiChiWo_MainEntranceGateway.JPG",
+     "credit": "Chong Fat",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:HK_LaiChiWo_MainEntranceGateway.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/HK_LCWSA_FiveFingeredCamphorTree.JPG/1280px-HK_LCWSA_FiveFingeredCamphorTree.JPG",
+     "credit": "Chong Fat",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:HK_LCWSA_FiveFingeredCamphorTree.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HK_LaiChiWoSpecialArea.JPG/1280px-HK_LaiChiWoSpecialArea.JPG",
+     "credit": "Chong Fat",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:HK_LaiChiWoSpecialArea.JPG"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lai_Chi_Wo"
+    }
+   ],
+   "tags": [
+    "hiking",
+    "beaches",
+    "Hakka villages",
+    "geopark"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       114.393,
+       22.351
+      ],
+      [
+       114.387,
+       22.344
+      ],
+      [
+       114.38,
+       22.34
+      ],
+      [
+       114.37,
+       22.339
+      ],
+      [
+       114.264,
+       22.358
+      ],
+      [
+       114.255,
+       22.362
+      ],
+      [
+       114.249,
+       22.369
+      ],
+      [
+       114.246,
+       22.379
+      ],
+      [
+       114.235,
+       22.528
+      ],
+      [
+       114.237,
+       22.535
+      ],
+      [
+       114.241,
+       22.541
+      ],
+      [
+       114.267,
+       22.566
+      ],
+      [
+       114.276,
+       22.569
+      ],
+      [
+       114.284,
+       22.569
+      ],
+      [
+       114.292,
+       22.566
+      ],
+      [
+       114.298,
+       22.562
+      ],
+      [
+       114.399,
+       22.425
+      ],
+      [
+       114.402,
+       22.413
+      ],
+      [
+       114.396,
+       22.359
+      ],
+      [
+       114.393,
+       22.351
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "lantau-south",
+   "kind": "region",
+   "category": "hike",
+   "name": "South Lantau & Tai O",
+   "short_name": "South Lantau",
+   "name_zh": "大嶼山 · 大澳",
+   "region": "Hong Kong",
+   "coordinates": [
+    113.9357,
+    22.2514
+   ],
+   "wow": 4,
+   "crowds": 3,
+   "elevation_m": [
+    0,
+    934
+   ],
+   "base_elevation_m": 10,
+   "tagline": "Hong Kong's biggest island: a 934 m peak, buffalo on the beaches, a giant Buddha and a stilt-house fishing village.",
+   "time_needed": "1–2 days",
+   "nearest_station": "Tung Chung (MTR)",
+   "best_for": "Sunrise hike, beach villages, Tai O stilt houses",
+   "description": [
+    "Ngong Ping with the Big Buddha is mobbed; the rest of South Lantau is mellow beach villages (Pui O, Cheung Sha, Mui Wo) and steep trails. **Lantau Peak** (934 m) for sunrise is one of Hong Kong's great hikes.",
+    "**Tai O**, a Tanka fishing village on stilts, is at its best early or late when the tour buses have gone."
+   ],
+   "highlights": [
+    "Lantau Peak sunrise (Lantau Trail stage 3)",
+    "Tai O stilt houses & salted-fish stalls",
+    "Water buffalo on Pui O beach",
+    "Ferry back from Mui Wo to Central"
+   ],
+   "getting_around": "Buses from Tung Chung / Mui Wo cover the whole south coast; ferries from Central to Mui Wo.",
+   "stay": "Tai O Heritage Hotel (former police station), beach guesthouses in Pui O / Cheung Sha, or Mui Wo.",
+   "april": "Clear mornings possible, often hazy; good hiking temperatures.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1_tai_o_hong_kong_2013.jpg/1280px-1_tai_o_hong_kong_2013.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_tai_o_hong_kong_2013.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/1_tai_o_aerial_panorama_2023.jpg/1280px-1_tai_o_aerial_panorama_2023.jpg",
+     "credit": "Chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_tai_o_aerial_panorama_2023.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/1_tai_o_fishing_village_hong_kong_2015_panorama.jpg/1280px-1_tai_o_fishing_village_hong_kong_2015_panorama.jpg",
+     "credit": "Chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_tai_o_fishing_village_hong_kong_2015_panorama.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tai_O"
+    }
+   ],
+   "tags": [
+    "hiking",
+    "fishing village",
+    "beaches"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       113.924,
+       22.21
+      ],
+      [
+       113.851,
+       22.236
+      ],
+      [
+       113.845,
+       22.241
+      ],
+      [
+       113.841,
+       22.248
+      ],
+      [
+       113.841,
+       22.256
+      ],
+      [
+       113.844,
+       22.263
+      ],
+      [
+       113.85,
+       22.269
+      ],
+      [
+       113.858,
+       22.272
+      ],
+      [
+       113.997,
+       22.291
+      ],
+      [
+       114.006,
+       22.291
+      ],
+      [
+       114.015,
+       22.286
+      ],
+      [
+       114.02,
+       22.277
+      ],
+      [
+       114.021,
+       22.271
+      ],
+      [
+       114.02,
+       22.266
+      ],
+      [
+       113.991,
+       22.222
+      ],
+      [
+       113.981,
+       22.217
+      ],
+      [
+       113.935,
+       22.209
+      ],
+      [
+       113.924,
+       22.21
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "dapeng-peninsula",
+   "kind": "region",
+   "category": "nature",
+   "name": "Dapeng Peninsula (Shenzhen)",
+   "short_name": "Dapeng Peninsula",
+   "name_zh": "大鹏半岛",
+   "region": "Guangdong",
+   "coordinates": [
+    114.5265,
+    22.5368
+   ],
+   "wow": 3,
+   "crowds": 3,
+   "elevation_m": [
+    0,
+    869
+   ],
+   "base_elevation_m": 10,
+   "tagline": "Shenzhen's green end: a coastal scramble, the city's best beaches, a Ming-dynasty fort and its highest mountain.",
+   "time_needed": "1–2 days",
+   "nearest_station": "Shenzhen North / Futian (HSR), then bus or Didi ~1.5 h",
+   "best_for": "Seeing how Shenzhen relaxes; coastal hiking",
+   "description": [
+    "A UNESCO-geopark peninsula east of the megacity. **Qiniangshan** (869 m) gives views over Hong Kong's Mirs Bay. The **Dongchong–Xichong coastal trek** (~8 km, rock-hopping) is a classic, and **Dapeng Fortress** is a 600-year-old walled town that still feels lived-in.",
+    "Weekends turn Xichong beach and Jiaochangwei into a party; weekdays are calm."
+   ],
+   "highlights": [
+    "Dongchong → Xichong coastal trek",
+    "Dapeng Fortress (大鹏所城)",
+    "Qiniangshan summit",
+    "Jiaochangwei B&B village"
+   ],
+   "getting_around": "Buses from Shenzhen metro terminals or Didi (~¥150 from Futian). Local buses link the beaches.",
+   "stay": "Jiaochangwei (较场尾) has dozens of boutique B&Bs; Xichong guesthouses.",
+   "april": "Warm, humid, ~25 °C; beaches quiet before the summer season.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg/1280px-%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg",
+     "credit": "Iswzo",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Civic_Center%2C_Shenzhen_Lianhuashan_Park.JPG",
+     "credit": "biny86755",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Civic_Center,_Shenzhen_Lianhuashan_Park.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Dapeng_Fortress_3.jpg/1280px-Dapeng_Fortress_3.jpg",
+     "credit": "Wishds",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Dapeng_Fortress_3.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Dapeng_Fortress"
+    }
+   ],
+   "tags": [
+    "coast",
+    "hiking",
+    "geopark",
+    "Shenzhen"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       114.563,
+       22.455
+      ],
+      [
+       114.552,
+       22.448
+      ],
+      [
+       114.539,
+       22.447
+      ],
+      [
+       114.526,
+       22.45
+      ],
+      [
+       114.519,
+       22.457
+      ],
+      [
+       114.459,
+       22.526
+      ],
+      [
+       114.457,
+       22.535
+      ],
+      [
+       114.458,
+       22.543
+      ],
+      [
+       114.478,
+       22.603
+      ],
+      [
+       114.483,
+       22.612
+      ],
+      [
+       114.494,
+       22.62
+      ],
+      [
+       114.512,
+       22.623
+      ],
+      [
+       114.527,
+       22.618
+      ],
+      [
+       114.586,
+       22.567
+      ],
+      [
+       114.593,
+       22.559
+      ],
+      [
+       114.596,
+       22.55
+      ],
+      [
+       114.595,
+       22.541
+      ],
+      [
+       114.57,
+       22.466
+      ],
+      [
+       114.563,
+       22.455
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "li-river-yulong",
+   "kind": "region",
+   "category": "nature",
+   "name": "Li River & Yulong valley karst",
+   "short_name": "Li River karst",
+   "name_zh": "漓江 · 遇龙河",
+   "region": "Guangxi",
+   "coordinates": [
+    110.4676,
+    24.9445
+   ],
+   "wow": 5,
+   "crowds": 4,
+   "elevation_m": [
+    100,
+    800
+   ],
+   "base_elevation_m": 120,
+   "tagline": "The karst towers on the 20-yuan note. Famous for good reason, and the side valleys are still pastoral if you cycle away from Yangshuo.",
+   "time_needed": "2–4 days",
+   "nearest_station": "Yangshuo (HSR), Guilin North / Guilin West (HSR)",
+   "best_for": "Cycling, bamboo rafting, climbing, karst hikes",
+   "description": [
+    "**Yangshuo** town (West Street) is a backpacker-party magnet. The magic lies in the countryside: e-bike or cycle the **Yulong River valley** between Jiuxian, Chaolong and Jima past rice paddies and karst towers. Walk the riverside path from **Yangdi to Xingping** (~4 h), the best stretch of the Li River.",
+    "Xingping's **Laozhai Hill** (300+ steps) gives the iconic sunrise view."
+   ],
+   "highlights": [
+    "Yangdi → Xingping Li River walk",
+    "Cycling the Yulong valley",
+    "Laozhai Hill sunrise above Xingping",
+    "Rock climbing (Moon Hill, Yangshuo crags)"
+   ],
+   "getting_around": "Rent bicycles or e-bikes in Yangshuo/Xingping; bamboo rafts on the Yulong; local buses and Didi. HSR Yangshuo station is ~30 min from town.",
+   "stay": "Farmhouse guesthouses along the Yulong river (Jiuxian, Chaolong) or old Xingping; avoid West Street.",
+   "route_idea": "Guilin North HSR → Daxu old town → raft/walk Yangdi–Xingping → 2 nights in a Yulong farmhouse → Yangshuo HSR onward.",
+   "crowd_tips": "The main Li River cruise and West Street are rammed; side valleys at 8 am are blissful.",
+   "april": "Rainy season begins: misty, very green, rivers fuller; 18–25 °C.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/87318-Li-River.jpg/1280px-87318-Li-River.jpg",
+     "credit": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:87318-Li-River.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/87303-Li-River.jpg/1280px-87303-Li-River.jpg",
+     "credit": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:87303-Li-River.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/87400-Li-River.jpg/1280px-87400-Li-River.jpg",
+     "credit": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:87400-Li-River.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Li_River"
+    }
+   ],
+   "tags": [
+    "karst",
+    "cycling",
+    "rafting",
+    "climbing"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       110.512,
+       24.734
+      ],
+      [
+       110.5,
+       24.735
+      ],
+      [
+       110.414,
+       24.754
+      ],
+      [
+       110.397,
+       24.765
+      ],
+      [
+       110.387,
+       24.781
+      ],
+      [
+       110.381,
+       25.187
+      ],
+      [
+       110.384,
+       25.198
+      ],
+      [
+       110.39,
+       25.208
+      ],
+      [
+       110.401,
+       25.216
+      ],
+      [
+       110.413,
+       25.22
+      ],
+      [
+       110.426,
+       25.221
+      ],
+      [
+       110.438,
+       25.218
+      ],
+      [
+       110.45,
+       25.21
+      ],
+      [
+       110.457,
+       25.2
+      ],
+      [
+       110.567,
+       24.926
+      ],
+      [
+       110.593,
+       24.796
+      ],
+      [
+       110.593,
+       24.782
+      ],
+      [
+       110.588,
+       24.771
+      ],
+      [
+       110.577,
+       24.761
+      ],
+      [
+       110.512,
+       24.734
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "longsheng-sanjiang",
+   "kind": "region",
+   "category": "village",
+   "name": "Longsheng & Sanjiang: terraces and Dong bridges",
+   "short_name": "Longsheng & Sanjiang",
+   "name_zh": "龙胜 · 三江",
+   "region": "Guangxi",
+   "coordinates": [
+    109.8432,
+    25.8047
+   ],
+   "wow": 4,
+   "crowds": 3,
+   "elevation_m": [
+    200,
+    1180
+   ],
+   "base_elevation_m": 800,
+   "tagline": "Zhuang and Yao terraces in the east, Dong drum towers and the Chengyang wind-and-rain bridge in the west, linked by mountain roads.",
+   "time_needed": "2–3 days",
+   "nearest_station": "Sanjiang South (HSR), Guilin North (HSR)",
+   "best_for": "Terrace hiking, minority villages, timber architecture",
+   "description": [
+    "Longsheng's **Longji terraces** (Ping'an, Dazhai, Tiantouzhai) climb entire mountains. West towards Sanjiang the culture switches to the **Dong**, master carpenters whose covered bridges and drum towers are built without nails. **Chengyang** has eight villages strung along a river with the most famous bridge (1912)."
+   ],
+   "highlights": [
+    "Dazhai → Tiantouzhai → Ping'an terrace hike",
+    "Chengyang Bridge & the eight villages",
+    "Red Yao long-hair village (Huangluo)"
+   ],
+   "getting_around": "HSR to Sanjiang South for the Dong side; buses or a hired car to Longji (~1.5 h). A driver for a day connects both.",
+   "stay": "Terrace-top guesthouses in Dazhai/Tiantouzhai (porters carry luggage); Chengyang village inns.",
+   "april": "Terraces being flooded and planted; rain likely; ~20 °C.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1_longsheng_ping_an_rice_terrace_2011.jpg/1280px-1_longsheng_ping_an_rice_terrace_2011.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_longsheng_ping_an_rice_terrace_2011.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1_longsheng_ping_an_rice_terrace_2011.jpg/1280px-1_longsheng_ping_an_rice_terrace_2011.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_longsheng_ping_an_rice_terrace_2011.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Longsheng-Reisterrassen-28-2012-gje.jpg/1280px-Longsheng-Reisterrassen-28-2012-gje.jpg",
+     "credit": "Gerd Eichmann",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Longsheng-Reisterrassen-28-2012-gje.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Longsheng_Various_Nationalities_Autonomous_County"
+    }
+   ],
+   "tags": [
+    "terraces",
+    "Dong",
+    "Yao",
+    "Zhuang",
+    "bridges"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       109.549,
+       25.679
+      ],
+      [
+       109.527,
+       25.693
+      ],
+      [
+       109.515,
+       25.712
+      ],
+      [
+       109.512,
+       25.736
+      ],
+      [
+       109.577,
+       25.91
+      ],
+      [
+       109.594,
+       25.93
+      ],
+      [
+       109.615,
+       25.939
+      ],
+      [
+       109.634,
+       25.941
+      ],
+      [
+       110.02,
+       25.922
+      ],
+      [
+       110.181,
+       25.857
+      ],
+      [
+       110.199,
+       25.843
+      ],
+      [
+       110.21,
+       25.824
+      ],
+      [
+       110.212,
+       25.807
+      ],
+      [
+       110.208,
+       25.79
+      ],
+      [
+       110.174,
+       25.733
+      ],
+      [
+       110.158,
+       25.716
+      ],
+      [
+       110.136,
+       25.707
+      ],
+      [
+       109.575,
+       25.675
+      ],
+      [
+       109.549,
+       25.679
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "qiandongnan",
+   "kind": "region",
+   "category": "village",
+   "name": "Southeast Guizhou: Miao & Dong heartland",
+   "short_name": "Miao & Dong heartland",
+   "name_zh": "黔东南",
+   "region": "Guizhou",
+   "coordinates": [
+    108.6029,
+    26.3423
+   ],
+   "wow": 5,
+   "crowds": 2,
+   "elevation_m": [
+    250,
+    2178
+   ],
+   "base_elevation_m": 800,
+   "tagline": "China's most intact minority heartland: hundreds of Miao and Dong villages, wooden stilt houses, rice terraces, festivals, silver and batik.",
+   "time_needed": "4–7 days",
+   "nearest_station": "Kaili South (Shanghai–Kunming HSR) in the north; Rongjiang & Congjiang (Guiyang–Guangzhou HSR) in the south",
+   "best_for": "Road-tripping between villages, festivals, crafts, homestays, our 'authentic' core",
+   "description": [
+    "Qiandongnan prefecture is the region to roam. The **Miao** north (Leishan, Taijiang, Shidong) and the **Dong** south (Rongjiang, Congjiang, Liping, Zhaoxing) are linked by winding roads through terraced valleys. Some villages are tourist showcases (Xijiang, Zhaoxing), but many more (Langde, Tang'an, Basha's hamlets, Jitang, the Leishan villages) are simply villages.",
+    "Market days rotate between towns on a fixed cycle (赶场 gǎnchǎng): ask locally which village has a market tomorrow."
+   ],
+   "highlights": [
+    "**Sisters' Meal Festival** (Miao), Shidong/Taijiang, 15th–17th day of the 3rd lunar month = **21–23 April 2027**",
+    "Langde Upper Village and the old Miao paths around Leishan",
+    "Dong grand song in Xiaohuang or Zhaoxing",
+    "Zhenyuan old town in its gorge (north edge)",
+    "Basha, the Miao 'gunmen' village near Congjiang"
+   ],
+   "getting_around": "Two HSR lines frame the region: **Kaili South** in the north (Shanghai–Kunming line) and **Rongjiang / Congjiang** in the south (Guiyang–Guangzhou line). In between, local buses are slow but cheap; the best option is **a car with driver for 3–5 days**, or self-drive with a Chinese temporary permit.",
+   "stay": "Family guesthouses in Langde, Xijiang (book a hillside room), Tang'an, Zhaoxing; boutique stays around Leishan and Zhenyuan.",
+   "route_idea": "Kaili → Shidong (festival) → Langde & Xijiang → Leishan → Rongjiang → Basha & Congjiang → Tang'an & Zhaoxing → HSR Congjiang onward to Guilin or Guiyang (5–6 days).",
+   "april": "Planting season, green, mild (18–24 °C), rain showers. The Sisters' Meal Festival falls right in your window.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Xijiang_Miao_Village.jpg/1280px-Xijiang_Miao_Village.jpg",
+     "credit": "SONG1907",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Xijiang_Miao_Village.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaili_City.jpg/1280px-Kaili_City.jpg",
+     "credit": "Zhangmoon618",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Kaili_City.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Xijiang_Miao_Village.jpg/1280px-Xijiang_Miao_Village.jpg",
+     "credit": "SONG1907",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Xijiang_Miao_Village.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Qiandongnan_Miao_and_Dong_Autonomous_Prefecture"
+    }
+   ],
+   "tags": [
+    "Miao",
+    "Dong",
+    "festivals",
+    "homestays",
+    "road trip",
+    "off the beaten track"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       108.865,
+       25.642
+      ],
+      [
+       108.82,
+       25.652
+      ],
+      [
+       108.454,
+       25.877
+      ],
+      [
+       108.003,
+       26.334
+      ],
+      [
+       107.891,
+       26.546
+      ],
+      [
+       107.888,
+       26.584
+      ],
+      [
+       107.907,
+       26.622
+      ],
+      [
+       108.338,
+       27.092
+      ],
+      [
+       108.355,
+       27.107
+      ],
+      [
+       108.381,
+       27.118
+      ],
+      [
+       108.429,
+       27.119
+      ],
+      [
+       108.455,
+       27.109
+      ],
+      [
+       108.474,
+       27.095
+      ],
+      [
+       109.201,
+       26.287
+      ],
+      [
+       109.218,
+       26.258
+      ],
+      [
+       109.301,
+       25.914
+      ],
+      [
+       109.301,
+       25.892
+      ],
+      [
+       109.293,
+       25.867
+      ],
+      [
+       109.261,
+       25.834
+      ],
+      [
+       108.91,
+       25.652
+      ],
+      [
+       108.865,
+       25.642
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "libo-maolan",
+   "kind": "region",
+   "category": "nature",
+   "name": "Libo & Maolan karst forests",
+   "short_name": "Libo karst forest",
+   "name_zh": "荔波 · 茂兰",
+   "region": "Guizhou",
+   "coordinates": [
+    107.8431,
+    25.3252
+   ],
+   "wow": 4,
+   "crowds": 3,
+   "elevation_m": [
+    350,
+    1100
+   ],
+   "base_elevation_m": 450,
+   "tagline": "UNESCO South China Karst: turquoise pools, waterfalls and the world's largest karst primary forest.",
+   "time_needed": "2 days",
+   "nearest_station": "Libo (HSR, from Guiyang ~1 h)",
+   "best_for": "Waterfalls and forest walks; a calmer alternative to Jiuzhaigou-style scenery",
+   "description": [
+    "**Xiaoqikong** is the showpiece: a series of jade pools, cascades and a seven-arch bridge, beautiful but busy. **Dakikong** and especially the **Maolan** reserve (karst cone forest with Yao and Shui villages) are quieter and wilder."
+   ],
+   "highlights": [
+    "Xiaoqikong's 68-step falls and Wolong pools",
+    "Maolan's forest-covered karst cones",
+    "Yao villages around Yaoshan"
+   ],
+   "getting_around": "HSR to Libo; shuttle buses to Xiaoqikong; a car/driver for Maolan.",
+   "stay": "Libo town or guesthouses near Xiaoqikong's gate.",
+   "april": "Water levels rising, lush; mild and showery.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Xiaoqikong.JPG/1280px-Xiaoqikong.JPG",
+     "credit": "Fanghong",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Xiaoqikong.JPG"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Libo_County"
+    }
+   ],
+   "tags": [
+    "karst",
+    "waterfalls",
+    "UNESCO",
+    "forest"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       108.028,
+       25.253
+      ],
+      [
+       108.019,
+       25.231
+      ],
+      [
+       108.001,
+       25.217
+      ],
+      [
+       107.975,
+       25.212
+      ],
+      [
+       107.729,
+       25.243
+      ],
+      [
+       107.659,
+       25.262
+      ],
+      [
+       107.645,
+       25.269
+      ],
+      [
+       107.629,
+       25.287
+      ],
+      [
+       107.625,
+       25.31
+      ],
+      [
+       107.632,
+       25.329
+      ],
+      [
+       107.648,
+       25.344
+      ],
+      [
+       107.871,
+       25.467
+      ],
+      [
+       107.884,
+       25.471
+      ],
+      [
+       107.9,
+       25.472
+      ],
+      [
+       107.921,
+       25.465
+      ],
+      [
+       107.938,
+       25.45
+      ],
+      [
+       108.024,
+       25.276
+      ],
+      [
+       108.028,
+       25.253
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "xiangxi",
+   "kind": "region",
+   "category": "village",
+   "name": "Western Hunan (Xiangxi): Fenghuang, Dehang & Furong",
+   "short_name": "Xiangxi",
+   "name_zh": "湘西",
+   "region": "Hunan",
+   "coordinates": [
+    109.7248,
+    28.3909
+   ],
+   "wow": 4,
+   "crowds": 3,
+   "elevation_m": [
+    200,
+    1000
+   ],
+   "base_elevation_m": 300,
+   "tagline": "Miao and Tujia country: riverside stilt-house towns, canyons and one of the world's most spectacular suspension bridges.",
+   "time_needed": "2–3 days",
+   "nearest_station": "Fenghuang Gucheng, Jishou East (HSR)",
+   "best_for": "Old towns at dusk, canyon hikes, Miao culture",
+   "description": [
+    "**Fenghuang** is gorgeous and heaving: stilt houses on the Tuo River, lantern-lit nights, bars. **Dehang** Miao village sits in a canyon with waterfall hikes, beneath the **Aizhai Bridge** (1,176 m span, 330 m high). **Furong town** is a waterfall-front Tujia village.",
+    "This is a natural stop if you travel Zhangjiajie → Guizhou."
+   ],
+   "highlights": [
+    "Fenghuang at blue hour and early morning",
+    "Dehang canyon & Liusha waterfall",
+    "Aizhai Bridge glass walkway",
+    "Furong waterfall town"
+   ],
+   "getting_around": "HSR (Zhangjiajie–Jishou–Fenghuang–Huaihua) plus buses; Dehang 30 min from Jishou.",
+   "stay": "Fenghuang riverside inns (pick the quieter north bank), Dehang village guesthouses.",
+   "crowd_tips": "Fenghuang's evening is shoulder-to-shoulder; get up at 6:30 for misty, empty lanes.",
+   "april": "Spring rain, misty rivers, 15–22 °C.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Fenghuang_County%2C_Hunan%2C_China%2C_21_December_2016b.jpg/1280px-Fenghuang_County%2C_Hunan%2C_China%2C_21_December_2016b.jpg",
+     "credit": "凌晨疯子",
+     "license": "CC BY 2.5",
+     "link": "https://commons.wikimedia.org/wiki/File:Fenghuang_County,_Hunan,_China,_21_December_2016b.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/1_furong_panorama_2012.jpg/1280px-1_furong_panorama_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_furong_panorama_2012.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dehang_-_panoramio.jpg/1280px-Dehang_-_panoramio.jpg",
+     "credit": "Raki_Man",
+     "license": "CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Dehang_-_panoramio.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Xiangxi_Tujia_and_Miao_Autonomous_Prefecture"
+    }
+   ],
+   "tags": [
+    "Miao",
+    "Tujia",
+    "old towns",
+    "canyon"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       109.645,
+       27.983
+      ],
+      [
+       109.633,
+       27.974
+      ],
+      [
+       109.615,
+       27.967
+      ],
+      [
+       109.598,
+       27.965
+      ],
+      [
+       109.579,
+       27.968
+      ],
+      [
+       109.564,
+       27.975
+      ],
+      [
+       109.55,
+       27.987
+      ],
+      [
+       109.542,
+       28.0
+      ],
+      [
+       109.501,
+       28.331
+      ],
+      [
+       109.504,
+       28.356
+      ],
+      [
+       109.515,
+       28.371
+      ],
+      [
+       109.911,
+       28.799
+      ],
+      [
+       109.924,
+       28.808
+      ],
+      [
+       109.941,
+       28.815
+      ],
+      [
+       109.958,
+       28.816
+      ],
+      [
+       109.977,
+       28.813
+      ],
+      [
+       109.997,
+       28.802
+      ],
+      [
+       110.011,
+       28.786
+      ],
+      [
+       110.017,
+       28.765
+      ],
+      [
+       110.014,
+       28.745
+      ],
+      [
+       109.656,
+       27.998
+      ],
+      [
+       109.645,
+       27.983
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "wulingyuan",
+   "kind": "region",
+   "category": "nature",
+   "name": "Zhangjiajie & Wulingyuan",
+   "short_name": "Wulingyuan",
+   "name_zh": "武陵源",
+   "region": "Hunan",
+   "coordinates": [
+    110.4869,
+    29.3565
+   ],
+   "wow": 5,
+   "crowds": 5,
+   "elevation_m": [
+    400,
+    1260
+   ],
+   "base_elevation_m": 500,
+   "tagline": "3,000 sandstone pillars in the clouds (the 'Avatar mountains'): one of Earth's most surreal landscapes, and China's crowd magnets.",
+   "time_needed": "2–3 days",
+   "nearest_station": "Zhangjiajie West (HSR)",
+   "best_for": "Jaw-dropping scenery if you can handle crowds",
+   "description": [
+    "Wulingyuan (UNESCO) contains Zhangjiajie National Forest Park, Tianzi Shan, Yuanjiajie and Yangjiajie. Shuttle buses, elevators and cable cars move huge numbers of people between viewpoints.",
+    "**Tips**: walk the **Golden Whip Stream** early, do **Yangjiajie** (less visited, a ridge scramble) and stay *inside* or at a back gate to be on the platforms before the tours arrive."
+   ],
+   "highlights": [
+    "Golden Whip Stream walk",
+    "Yangjiajie ridge",
+    "Tianzi Shan at sunrise",
+    "Tianmen Mountain (separate, near the city)"
+   ],
+   "getting_around": "Park shuttle buses (included in the multi-day ticket). HSR to Zhangjiajie West then bus to Wulingyuan town.",
+   "stay": "Wulingyuan town (east gate) or the guesthouses near Tianzi Shan / Yangjiajie.",
+   "crowd_tips": "Weekdays only; queue for the Bailong elevator early or skip it. Avoid 1–5 May at all costs.",
+   "april": "Often misty, which is atmospheric but views come and go; 15–22 °C.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg/1280px-1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wulingyuan"
+    }
+   ],
+   "tags": [
+    "UNESCO",
+    "sandstone pillars",
+    "hiking",
+    "crowded"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       110.411,
+       29.299
+      ],
+      [
+       110.394,
+       29.31
+      ],
+      [
+       110.386,
+       29.325
+      ],
+      [
+       110.387,
+       29.343
+      ],
+      [
+       110.405,
+       29.374
+      ],
+      [
+       110.475,
+       29.426
+      ],
+      [
+       110.496,
+       29.43
+      ],
+      [
+       110.516,
+       29.425
+      ],
+      [
+       110.578,
+       29.377
+      ],
+      [
+       110.586,
+       29.367
+      ],
+      [
+       110.591,
+       29.354
+      ],
+      [
+       110.59,
+       29.34
+      ],
+      [
+       110.582,
+       29.327
+      ],
+      [
+       110.569,
+       29.318
+      ],
+      [
+       110.557,
+       29.314
+      ],
+      [
+       110.43,
+       29.297
+      ],
+      [
+       110.411,
+       29.299
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "honghe-terraces",
+   "kind": "region",
+   "category": "nature",
+   "name": "Honghe: Jianshui to the Hani terraces",
+   "short_name": "Honghe terraces",
+   "name_zh": "红河 · 建水—元阳",
+   "region": "Yunnan",
+   "coordinates": [
+    102.7852,
+    23.3686
+   ],
+   "wow": 5,
+   "crowds": 2,
+   "elevation_m": [
+    200,
+    2200
+   ],
+   "base_elevation_m": 1600,
+   "tagline": "From a Confucian old town across the Red River gorge into mountains sculpted by Hani rice terraces.",
+   "time_needed": "3–4 days",
+   "nearest_station": "Jianshui, Mengzi (fast rail from Kunming)",
+   "best_for": "Road trip, village homestays, photography",
+   "description": [
+    "Two very different worlds 2.5 hours apart: **Jianshui** (Ming-era town, Confucius temple, grilled tofu) and the **Yuanyang terraces**, where Hani and Yi villages sit among water-filled terraces.",
+    "Between them the road drops into the hot **Red River valley** and climbs again, a great drive."
+   ],
+   "highlights": [
+    "Duoyishu sunrise & Bada/Laohuzui sunset",
+    "Azheke village (community tourism project)",
+    "Jianshui Confucius Temple & Tuanshan village",
+    "Village market days (Shengcun, Xinjie)"
+   ],
+   "getting_around": "Fast rail Kunming → Jianshui; then bus or driver to Xinjie/Yuanyang. Terrace viewpoints are spread out, so hire a driver locally (~¥300–500/day) or self-drive.",
+   "stay": "Courtyard hotels in Jianshui; homestays in Azheke, Pugaolao or Duoyishu.",
+   "april": "End of the water season and start of planting; dry, sunny, foggy dawns.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/1_yuanyang_rice_terrace_duoyishu_sunrise_2012.jpg/1280px-1_yuanyang_rice_terrace_duoyishu_sunrise_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_rice_terrace_duoyishu_sunrise_2012.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/1_yuanyang_aerial_pano_2018.jpg/1280px-1_yuanyang_aerial_pano_2018.jpg",
+     "credit": "Chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_aerial_pano_2018.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1_yuanyang_county_old_town_2012.jpg/1280px-1_yuanyang_county_old_town_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_county_old_town_2012.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Yuanyang_County,_Yunnan"
+    }
+   ],
+   "tags": [
+    "terraces",
+    "Hani",
+    "UNESCO",
+    "road trip"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       102.812,
+       23.02
+      ],
+      [
+       102.775,
+       23.027
+      ],
+      [
+       102.698,
+       23.073
+      ],
+      [
+       102.684,
+       23.089
+      ],
+      [
+       102.677,
+       23.109
+      ],
+      [
+       102.669,
+       23.65
+      ],
+      [
+       102.675,
+       23.672
+      ],
+      [
+       102.688,
+       23.689
+      ],
+      [
+       102.706,
+       23.702
+      ],
+      [
+       102.727,
+       23.708
+      ],
+      [
+       102.758,
+       23.706
+      ],
+      [
+       102.861,
+       23.67
+      ],
+      [
+       102.884,
+       23.651
+      ],
+      [
+       102.896,
+       23.625
+      ],
+      [
+       102.903,
+       23.218
+      ],
+      [
+       102.886,
+       23.073
+      ],
+      [
+       102.872,
+       23.049
+      ],
+      [
+       102.845,
+       23.03
+      ],
+      [
+       102.812,
+       23.02
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "erhai-cangshan",
+   "kind": "region",
+   "category": "village",
+   "name": "Erhai Lake & Cangshan",
+   "short_name": "Erhai & Cangshan",
+   "name_zh": "洱海 · 苍山",
+   "region": "Yunnan",
+   "coordinates": [
+    100.1823,
+    25.7509
+   ],
+   "wow": 4,
+   "crowds": 4,
+   "elevation_m": [
+    1970,
+    4122
+   ],
+   "base_elevation_m": 2000,
+   "tagline": "A high lake ringed by Bai villages, under a 4,000 m mountain wall. Dali's old town is busy; the villages and trails are not.",
+   "time_needed": "2–4 days",
+   "nearest_station": "Dali (HSR from Kunming ~2 h)",
+   "best_for": "Cycling the lake, Bai architecture, hiking the Cangshan 'Jade Belt'",
+   "description": [
+    "Dali old town is a lively (crowded) hub. Head north to **Xizhou**, a beautiful Bai merchant town with courtyard mansions and *baba* flatbread, then up the lake to **Shuanglang** and around the quieter east shore.",
+    "The **Cangshan Jade Belt Road** is an 18 km contour path at ~2,600 m above the lake (cable cars up), with temples like **Jizhao'an** below."
+   ],
+   "highlights": [
+    "Xizhou & the Linden Centre",
+    "Cycling the west shore greenway",
+    "Cangshan Jade Belt Road",
+    "Monday market at Shaping"
+   ],
+   "getting_around": "E-bikes and bicycles around the lake; Didi everywhere; HSR Dali station.",
+   "stay": "Xizhou courtyard guesthouses (calmer than Dali old town), Shuanglang lakeside (pretty but touristy).",
+   "april": "Dry, sunny, windy afternoons; 22 °C / 10 °C.",
+   "health": "The lake is at ~1,970 m. The Jade Belt Road is ~2,600 m, fine as a day hike; you sleep lower.",
+   "photos": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Erhai_lake%2C_Yunnan%2C_China.jpg",
+     "credit": "Ariel Steiner (Asteiner)",
+     "license": "CC BY 2.5",
+     "link": "https://commons.wikimedia.org/wiki/File:Erhai_lake,_Yunnan,_China.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Erhai_lake%2C_Yunnan%2C_China.jpg",
+     "credit": "Ariel Steiner (Asteiner)",
+     "license": "CC BY 2.5",
+     "link": "https://commons.wikimedia.org/wiki/File:Erhai_lake,_Yunnan,_China.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Erhai_north_Panorama.jpg/1280px-Erhai_north_Panorama.jpg",
+     "credit": "Fong Chen",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Erhai_north_Panorama.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Erhai_Lake"
+    }
+   ],
+   "tags": [
+    "Bai",
+    "lake",
+    "cycling",
+    "hiking"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       100.287,
+       25.571
+      ],
+      [
+       100.273,
+       25.558
+      ],
+      [
+       100.251,
+       25.551
+      ],
+      [
+       100.23,
+       25.555
+      ],
+      [
+       100.134,
+       25.616
+      ],
+      [
+       100.044,
+       25.688
+      ],
+      [
+       100.032,
+       25.706
+      ],
+      [
+       100.033,
+       25.728
+      ],
+      [
+       100.09,
+       25.872
+      ],
+      [
+       100.159,
+       25.946
+      ],
+      [
+       100.179,
+       25.957
+      ],
+      [
+       100.193,
+       25.959
+      ],
+      [
+       100.207,
+       25.956
+      ],
+      [
+       100.22,
+       25.95
+      ],
+      [
+       100.228,
+       25.941
+      ],
+      [
+       100.293,
+       25.812
+      ],
+      [
+       100.295,
+       25.8
+      ],
+      [
+       100.294,
+       25.592
+      ],
+      [
+       100.287,
+       25.571
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "tea-horse-highlands",
+   "kind": "region",
+   "category": "village",
+   "name": "Tea Horse Road highlands: Shaxi, Jianchuan & Nuodeng",
+   "short_name": "Tea Horse Road highlands",
+   "name_zh": "茶马古道 · 沙溪—诺邓",
+   "region": "Yunnan",
+   "coordinates": [
+    99.6822,
+    26.1847
+   ],
+   "wow": 4,
+   "crowds": 1,
+   "elevation_m": [
+    1700,
+    3000
+   ],
+   "base_elevation_m": 2050,
+   "tagline": "Old caravan towns in quiet valleys: Shaxi's market square, Jianchuan's woodcarvers and Nuodeng's 1,000-year-old salt village.",
+   "time_needed": "3–5 days",
+   "nearest_station": "Jianchuan (fast rail, Dali–Lijiang line)",
+   "best_for": "Slow travel, back roads, nights in old caravan inns",
+   "description": [
+    "West of the Dali–Lijiang tourist corridor lies a different Yunnan: the **Shaxi valley** with its restored Sideng market square; **Shibaoshan**, with Nanzhao-era grottoes on a forested ridge; **Jianchuan**, home of Bai woodcarving; and, 3 hours of mountain road further south-west, **Nuodeng**, a terraced salt-well village famous for its cured ham.",
+    "Foreign visitors are rare beyond Shaxi."
+   ],
+   "highlights": [
+    "Shaxi Friday market",
+    "Shibaoshan grottoes hike",
+    "Nuodeng salt village & ham",
+    "Jianchuan old town woodcarving workshops"
+   ],
+   "getting_around": "**Car essential** (or driver). Jianchuan station → Shaxi 45 min; Shaxi → Nuodeng ~3 h via Yunlong.",
+   "stay": "Shaxi guesthouses (many lovely ones), Nuodeng village inns.",
+   "april": "Dry season, sunny days ~22 °C, cool nights.",
+   "photos": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png",
+     "credit": "Redgeographics",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Map_of_the_Tea-Horse_road.png"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Markam_County_Tibet.jpg/1280px-Markam_County_Tibet.jpg",
+     "credit": "Reurinkjan",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Markam_County_Tibet.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Men_Laden_With_Tea%2C_Sichuan_Sheng%2C_China_1908_Ernest_H._Wilson_RESTORED.jpg/1280px-Men_Laden_With_Tea%2C_Sichuan_Sheng%2C_China_1908_Ernest_H._Wilson_RESTORED.jpg",
+     "credit": "ralph repo",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Men_Laden_With_Tea,_Sichuan_Sheng,_China_1908_Ernest_H._Wilson_RESTORED.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tea_Horse_Road"
+    }
+   ],
+   "tags": [
+    "Tea Horse Road",
+    "Bai",
+    "slow travel",
+    "off the beaten track"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       99.393,
+       25.977
+      ],
+      [
+       99.606,
+       26.138
+      ],
+      [
+       99.794,
+       26.342
+      ],
+      [
+       99.805,
+       26.372
+      ],
+      [
+       99.846,
+       26.554
+      ],
+      [
+       99.859,
+       26.576
+      ],
+      [
+       99.878,
+       26.589
+      ],
+      [
+       99.901,
+       26.594
+      ],
+      [
+       99.924,
+       26.591
+      ],
+      [
+       99.944,
+       26.581
+      ],
+      [
+       99.961,
+       26.56
+      ],
+      [
+       99.964,
+       26.533
+      ],
+      [
+       99.922,
+       26.349
+      ],
+      [
+       99.907,
+       26.297
+      ],
+      [
+       99.697,
+       26.066
+      ],
+      [
+       99.405,
+       25.845
+      ],
+      [
+       99.387,
+       25.837
+      ],
+      [
+       99.364,
+       25.834
+      ],
+      [
+       99.341,
+       25.84
+      ],
+      [
+       99.323,
+       25.853
+      ],
+      [
+       99.312,
+       25.872
+      ],
+      [
+       99.309,
+       25.892
+      ],
+      [
+       99.321,
+       25.935
+      ],
+      [
+       99.331,
+       25.951
+      ],
+      [
+       99.352,
+       25.967
+      ],
+      [
+       99.393,
+       25.977
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "jade-dragon",
+   "kind": "region",
+   "category": "nature",
+   "name": "Lijiang, Jade Dragon & Tiger Leaping Gorge",
+   "short_name": "Jade Dragon & the Jinsha",
+   "name_zh": "丽江 · 玉龙雪山 · 虎跳峡",
+   "region": "Yunnan",
+   "coordinates": [
+    100.0851,
+    27.122
+   ],
+   "wow": 5,
+   "crowds": 3,
+   "elevation_m": [
+    1800,
+    5596
+   ],
+   "base_elevation_m": 2400,
+   "tagline": "Naxi villages under a 5,596 m glacier peak, the first bend of the Yangtze, and the great gorge walk.",
+   "time_needed": "3–5 days",
+   "nearest_station": "Lijiang (fast rail), Hutiaoxia (Lijiang–Shangri-La railway)",
+   "best_for": "Mountain scenery with comfortable bases; the Haba–Baishuitai back road",
+   "description": [
+    "**Lijiang old town** is pretty but a theme park; stay outside it. **Baisha** and **Yuhu** villages sit right under Jade Dragon Snow Mountain. **Shigu** marks the first bend of the Yangtze, and **Tiger Leaping Gorge** cuts between Jade Dragon and **Haba** (5,396 m).",
+    "Beyond the gorge a quiet road climbs past Haba village to **Baishuitai**, white travertine terraces in a Naxi heartland."
+   ],
+   "highlights": [
+    "Tiger Leaping Gorge high trail",
+    "Yuhu village (Joseph Rock's house)",
+    "Haba → Baishuitai back road",
+    "Lashi Lake birdlife"
+   ],
+   "getting_around": "Fast rail to Lijiang; Didi, drivers and buses; the Haba/Baishuitai road needs a car.",
+   "stay": "Baisha/Yuhu Naxi courtyard guesthouses, Shuhe (quieter than the old town), TLG guesthouses.",
+   "april": "Dry, sunny, strong UV; ~20 °C days, near-freezing nights.",
+   "health": "**Lijiang itself is ~2,400 m, right at the threshold.** Haba village is ~2,700 m, Baishuitai ~2,400 m, and the Jade Dragon glacier cable car goes to 4,500 m+, so skip it if pregnant. TLG guesthouses are ~2,000–2,300 m.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Yulong_xue_shan.jpg/1280px-Yulong_xue_shan.jpg",
+     "credit": "Evilbish",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Yulong_xue_shan.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/1_yulong_xueshan_2012.jpg/1280px-1_yulong_xueshan_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_2012.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/1_yulong_xueshan_yak_2012.jpg/1280px-1_yulong_xueshan_yak_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_yak_2012.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jade_Dragon_Snow_Mountain"
+    }
+   ],
+   "tags": [
+    "Naxi",
+    "snow mountain",
+    "gorge",
+    "road trip"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       100.147,
+       26.809
+      ],
+      [
+       99.943,
+       26.824
+      ],
+      [
+       99.931,
+       26.828
+      ],
+      [
+       99.918,
+       26.836
+      ],
+      [
+       99.91,
+       26.847
+      ],
+      [
+       99.904,
+       26.86
+      ],
+      [
+       99.982,
+       27.512
+      ],
+      [
+       99.986,
+       27.524
+      ],
+      [
+       99.995,
+       27.536
+      ],
+      [
+       100.008,
+       27.545
+      ],
+      [
+       100.024,
+       27.549
+      ],
+      [
+       100.049,
+       27.547
+      ],
+      [
+       100.069,
+       27.536
+      ],
+      [
+       100.183,
+       27.399
+      ],
+      [
+       100.262,
+       27.023
+      ],
+      [
+       100.286,
+       26.879
+      ],
+      [
+       100.282,
+       26.858
+      ],
+      [
+       100.272,
+       26.844
+      ],
+      [
+       100.255,
+       26.834
+      ],
+      [
+       100.164,
+       26.811
+      ],
+      [
+       100.147,
+       26.809
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "diqing-plateau",
+   "kind": "region",
+   "category": "hike",
+   "name": "Shangri-La plateau & Meili (Diqing)",
+   "short_name": "Diqing Tibetan plateau",
+   "name_zh": "迪庆",
+   "region": "Yunnan",
+   "coordinates": [
+    99.3416,
+    28.1306
+   ],
+   "wow": 5,
+   "crowds": 2,
+   "elevation_m": [
+    2000,
+    6740
+   ],
+   "base_elevation_m": 3300,
+   "tagline": "Tibetan Yunnan: monasteries, yak pastures, the Jinsha canyon at Benzilan and the sacred Meili range.",
+   "time_needed": "4–6 days",
+   "nearest_station": "Shangri-La (fast rail from Lijiang, since 2023)",
+   "best_for": "Tibetan culture, big mountain trekking",
+   "description": [
+    "**Shangri-La** (Gyalthang) with its rebuilt old town and the great **Songzanlin monastery** sits on a 3,300 m plateau. The road north drops into the arid Jinsha canyon at **Benzilan**, then climbs over passes to **Deqin** and **Feilaisi** facing Kawagebo.",
+    "Yubeng village is reached only on foot or by mule."
+   ],
+   "highlights": [
+    "Songzanlin monastery",
+    "Benzilan and Dongzhulin monastery",
+    "Feilaisi sunrise on Meili",
+    "Yubeng trek"
+   ],
+   "getting_around": "Train to Shangri-La; buses/driver beyond (Shangri-La → Deqin 4–5 h).",
+   "stay": "Shangri-La old town guesthouses; Feilaisi lodges with mountain view; Yubeng guesthouses.",
+   "april": "Clear, cold (night frost), rhododendrons starting; occasional snow on passes.",
+   "health": "**Almost all overnight stops are above 3,000 m** (Shangri-La 3,300 m, Deqin 3,400 m). Not advisable in pregnancy; otherwise acclimatise and ascend gradually.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_%28cropped%29.jpg/1280px-%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_%28cropped%29.jpg",
+     "credit": "瑞丽江的河水",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_(cropped).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/1_songzanlin_monastery_yunnan_2018.jpg/1280px-1_songzanlin_monastery_yunnan_2018.jpg",
+     "credit": "Chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_songzanlin_monastery_yunnan_2018.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/58956-Gandan-Sumtseling-Monastery_%2827960928333%29.jpg/1280px-58956-Gandan-Sumtseling-Monastery_%2827960928333%29.jpg",
+     "credit": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:58956-Gandan-Sumtseling-Monastery_(27960928333).jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ganden_Sumtseling_Monastery"
+    }
+   ],
+   "tags": [
+    "Tibetan",
+    "high altitude",
+    "monasteries",
+    "trekking"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       99.686,
+       27.743
+      ],
+      [
+       99.657,
+       27.754
+      ],
+      [
+       98.74,
+       28.338
+      ],
+      [
+       98.741,
+       28.339
+      ],
+      [
+       98.732,
+       28.347
+      ],
+      [
+       98.725,
+       28.355
+      ],
+      [
+       98.725,
+       28.356
+      ],
+      [
+       98.725,
+       28.357
+      ],
+      [
+       98.725,
+       28.358
+      ],
+      [
+       98.726,
+       28.365
+      ],
+      [
+       98.714,
+       28.381
+      ],
+      [
+       98.712,
+       28.406
+      ],
+      [
+       98.722,
+       28.429
+      ],
+      [
+       98.767,
+       28.488
+      ],
+      [
+       98.791,
+       28.504
+      ],
+      [
+       98.895,
+       28.544
+      ],
+      [
+       98.93,
+       28.546
+      ],
+      [
+       98.96,
+       28.537
+      ],
+      [
+       99.348,
+       28.299
+      ],
+      [
+       99.966,
+       27.902
+      ],
+      [
+       99.988,
+       27.881
+      ],
+      [
+       99.999,
+       27.855
+      ],
+      [
+       99.997,
+       27.827
+      ],
+      [
+       99.984,
+       27.802
+      ],
+      [
+       99.961,
+       27.783
+      ],
+      [
+       99.932,
+       27.773
+      ],
+      [
+       99.718,
+       27.742
+      ],
+      [
+       99.686,
+       27.743
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "nujiang-valley",
+   "kind": "region",
+   "category": "nature",
+   "name": "Nujiang Valley: Grand Canyon of the Salween",
+   "short_name": "Nujiang Valley",
+   "name_zh": "怒江大峡谷",
+   "region": "Yunnan",
+   "coordinates": [
+    98.8102,
+    26.9363
+   ],
+   "wow": 5,
+   "crowds": 1,
+   "elevation_m": [
+    800,
+    5000
+   ],
+   "base_elevation_m": 1500,
+   "tagline": "A 300 km gorge between 4,000 m ranges, home to Lisu, Nu and Dulong people and Tibetan-Catholic villages. Yunnan at its most remote.",
+   "time_needed": "4–6 days",
+   "nearest_station": "Baoshan or Dali (fast rail), then 3–4 h by road to Liuku",
+   "best_for": "An adventure road trip far off the tourist map",
+   "description": [
+    "The Nu (Salween) river runs parallel to the Mekong and Yangtze in the 'Three Parallel Rivers' UNESCO area. A single road follows it north from **Liuku** past cliffside Lisu villages, the 'Stone Moon' arch near **Fugong**, **Laomudeng** (a Nu village with a church and views), to **Bingzhongluo**, where Tibetan, Nu and Lisu cultures and Catholic churches mix at the river's 'first bend'.",
+    "Few foreigners, simple but friendly guesthouses, a real expedition feel."
+   ],
+   "highlights": [
+    "Laomudeng village",
+    "Bingzhongluo & the Nujiang first bend",
+    "Wuli Tibetan village & Chongding church",
+    "Dulong valley (via tunnel from Gongshan)"
+   ],
+   "getting_around": "Buses up the valley, or a driver from Liuku/Dali. The road is long and winding, so allow time. April is dry season (fewer landslides).",
+   "stay": "Guesthouses in Liuku, Laomudeng, Gongshan and Bingzhongluo.",
+   "april": "Dry, warm in the valley (~25 °C), peach blossom lingering up north.",
+   "health": "Valley floor 800–1,800 m. Side trips (e.g. Dulong tunnel road) go higher; remote, so medical care is hours away.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sweet_View_of_Salween_River_in_Tang_Yan_Township%2C_Shan_State%2C_Myanmar.jpg/1280px-Sweet_View_of_Salween_River_in_Tang_Yan_Township%2C_Shan_State%2C_Myanmar.jpg",
+     "credit": "Saosukham",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sweet_View_of_Salween_River_in_Tang_Yan_Township,_Shan_State,_Myanmar.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Boats_in_the_Salween_River.jpg/1280px-Boats_in_the_Salween_River.jpg",
+     "credit": "Christophe95",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Boats_in_the_Salween_River.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Kaw_Gon_Thanlwin_Bridge.jpg/1280px-Kaw_Gon_Thanlwin_Bridge.jpg",
+     "credit": "kallerna",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Kaw_Gon_Thanlwin_Bridge.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Salween_River"
+    }
+   ],
+   "tags": [
+    "remote",
+    "Lisu",
+    "Nu",
+    "canyon",
+    "road trip",
+    "off the beaten track"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       98.808,
+       26.898
+      ],
+      [
+       98.716,
+       27.286
+      ],
+      [
+       98.724,
+       27.294
+      ],
+      [
+       98.73,
+       27.329
+      ],
+      [
+       98.726,
+       27.332
+      ],
+      [
+       98.725,
+       27.333
+      ],
+      [
+       98.724,
+       27.334
+      ],
+      [
+       98.724,
+       27.334
+      ],
+      [
+       98.723,
+       27.335
+      ],
+      [
+       98.723,
+       27.336
+      ],
+      [
+       98.723,
+       27.337
+      ],
+      [
+       98.722,
+       27.338
+      ],
+      [
+       98.722,
+       27.339
+      ],
+      [
+       98.722,
+       27.34
+      ],
+      [
+       98.722,
+       27.341
+      ],
+      [
+       98.722,
+       27.342
+      ],
+      [
+       98.723,
+       27.345
+      ],
+      [
+       98.714,
+       27.347
+      ],
+      [
+       98.713,
+       27.347
+      ],
+      [
+       98.712,
+       27.347
+      ],
+      [
+       98.711,
+       27.348
+      ],
+      [
+       98.711,
+       27.348
+      ],
+      [
+       98.71,
+       27.349
+      ],
+      [
+       98.709,
+       27.35
+      ],
+      [
+       98.698,
+       27.36
+      ],
+      [
+       98.698,
+       27.36
+      ],
+      [
+       98.691,
+       27.39
+      ],
+      [
+       98.692,
+       27.391
+      ],
+      [
+       98.692,
+       27.391
+      ],
+      [
+       98.693,
+       27.392
+      ],
+      [
+       98.693,
+       27.392
+      ],
+      [
+       98.692,
+       27.411
+      ],
+      [
+       98.684,
+       27.418
+      ],
+      [
+       98.678,
+       27.447
+      ],
+      [
+       98.678,
+       27.449
+      ],
+      [
+       98.678,
+       27.45
+      ],
+      [
+       98.678,
+       27.451
+      ],
+      [
+       98.678,
+       27.452
+      ],
+      [
+       98.679,
+       27.453
+      ],
+      [
+       98.679,
+       27.454
+      ],
+      [
+       98.68,
+       27.455
+      ],
+      [
+       98.681,
+       27.456
+      ],
+      [
+       98.681,
+       27.456
+      ],
+      [
+       98.682,
+       27.457
+      ],
+      [
+       98.683,
+       27.457
+      ],
+      [
+       98.684,
+       27.458
+      ],
+      [
+       98.685,
+       27.458
+      ],
+      [
+       98.693,
+       27.461
+      ],
+      [
+       98.693,
+       27.463
+      ],
+      [
+       98.677,
+       27.484
+      ],
+      [
+       98.676,
+       27.484
+      ],
+      [
+       98.676,
+       27.485
+      ],
+      [
+       98.675,
+       27.486
+      ],
+      [
+       98.675,
+       27.487
+      ],
+      [
+       98.675,
+       27.488
+      ],
+      [
+       98.675,
+       27.489
+      ],
+      [
+       98.675,
+       27.49
+      ],
+      [
+       98.675,
+       27.491
+      ],
+      [
+       98.675,
+       27.492
+      ],
+      [
+       98.682,
+       27.52
+      ],
+      [
+       98.682,
+       27.521
+      ],
+      [
+       98.683,
+       27.522
+      ],
+      [
+       98.683,
+       27.523
+      ],
+      [
+       98.684,
+       27.524
+      ],
+      [
+       98.684,
+       27.525
+      ],
+      [
+       98.685,
+       27.525
+      ],
+      [
+       98.686,
+       27.526
+      ],
+      [
+       98.687,
+       27.526
+      ],
+      [
+       98.687,
+       27.527
+      ],
+      [
+       98.688,
+       27.527
+      ],
+      [
+       98.689,
+       27.528
+      ],
+      [
+       98.693,
+       27.528
+      ],
+      [
+       98.689,
+       27.547
+      ],
+      [
+       98.689,
+       27.548
+      ],
+      [
+       98.688,
+       27.549
+      ],
+      [
+       98.689,
+       27.55
+      ],
+      [
+       98.689,
+       27.551
+      ],
+      [
+       98.689,
+       27.552
+      ],
+      [
+       98.689,
+       27.552
+      ],
+      [
+       98.69,
+       27.553
+      ],
+      [
+       98.69,
+       27.554
+      ],
+      [
+       98.691,
+       27.555
+      ],
+      [
+       98.691,
+       27.556
+      ],
+      [
+       98.688,
+       27.556
+      ],
+      [
+       98.687,
+       27.556
+      ],
+      [
+       98.686,
+       27.556
+      ],
+      [
+       98.685,
+       27.556
+      ],
+      [
+       98.684,
+       27.556
+      ],
+      [
+       98.683,
+       27.557
+      ],
+      [
+       98.682,
+       27.557
+      ],
+      [
+       98.682,
+       27.558
+      ],
+      [
+       98.681,
+       27.559
+      ],
+      [
+       98.666,
+       27.575
+      ],
+      [
+       98.654,
+       27.562
+      ],
+      [
+       98.654,
+       27.561
+      ],
+      [
+       98.653,
+       27.56
+      ],
+      [
+       98.652,
+       27.56
+      ],
+      [
+       98.651,
+       27.559
+      ],
+      [
+       98.651,
+       27.559
+      ],
+      [
+       98.611,
+       27.729
+      ],
+      [
+       98.562,
+       28.01
+      ],
+      [
+       98.563,
+       28.031
+      ],
+      [
+       98.573,
+       28.05
+      ],
+      [
+       98.59,
+       28.064
+      ],
+      [
+       98.613,
+       28.072
+      ],
+      [
+       98.636,
+       28.071
+      ],
+      [
+       98.657,
+       28.062
+      ],
+      [
+       98.671,
+       28.049
+      ],
+      [
+       98.681,
+       28.03
+      ],
+      [
+       98.73,
+       27.749
+      ],
+      [
+       98.927,
+       26.917
+      ],
+      [
+       98.976,
+       26.564
+      ],
+      [
+       98.923,
+       25.852
+      ],
+      [
+       98.917,
+       25.835
+      ],
+      [
+       98.903,
+       25.818
+      ],
+      [
+       98.886,
+       25.809
+      ],
+      [
+       98.863,
+       25.805
+      ],
+      [
+       98.84,
+       25.809
+      ],
+      [
+       98.82,
+       25.82
+      ],
+      [
+       98.807,
+       25.838
+      ],
+      [
+       98.802,
+       25.859
+      ],
+      [
+       98.854,
+       26.554
+      ],
+      [
+       98.808,
+       26.898
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "tengchong",
+   "kind": "region",
+   "category": "nature",
+   "name": "Tengchong: volcanoes, hot springs & Heshun",
+   "short_name": "Tengchong",
+   "name_zh": "腾冲",
+   "region": "Yunnan",
+   "coordinates": [
+    98.5493,
+    25.1832
+   ],
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": [
+    1500,
+    2400
+   ],
+   "base_elevation_m": 1650,
+   "tagline": "A green volcanic basin near Myanmar: hot springs, wetlands, jade traders and Heshun, a well-off overseas-Chinese home town.",
+   "time_needed": "2–3 days",
+   "nearest_station": "Baoshan (fast rail) + 2 h road, or fly to Tengchong",
+   "best_for": "Relaxed cycling, hot springs, a 'different' Yunnan",
+   "description": [
+    "**Heshun** is a remarkably pretty, prosperous village of grey-tiled houses, ancestral halls and a famous library, built with money sent home by emigrants to Burma. Around it are extinct volcano cones, the **Rehai** hot springs and **Beihai** floating-grass wetland."
+   ],
+   "highlights": [
+    "Heshun village library & ancestral halls",
+    "Volcano park (balloon flights)",
+    "Rehai hot springs",
+    "Beihai wetland"
+   ],
+   "getting_around": "Didi and buses around Tengchong; bicycles in Heshun.",
+   "stay": "Courtyard guesthouses in Heshun.",
+   "april": "Spring, dry, ~24 °C.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E8%85%BE%E5%86%B2%E6%96%87%E5%BA%99_-_%E5%A4%A7%E6%88%90%E6%AE%BF_-_2023-08-03_02.jpg/1280px-%E8%85%BE%E5%86%B2%E6%96%87%E5%BA%99_-_%E5%A4%A7%E6%88%90%E6%AE%BF_-_2023-08-03_02.jpg",
+     "credit": "瑞丽江的河水",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E8%85%BE%E5%86%B2%E6%96%87%E5%BA%99_-_%E5%A4%A7%E6%88%90%E6%AE%BF_-_2023-08-03_02.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Heshun_Tengchong_-_panoramio.jpg/1280px-Heshun_Tengchong_-_panoramio.jpg",
+     "credit": "oldhouse.yin",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Heshun_Tengchong_-_panoramio.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Rehai_28.jpg/1280px-Rehai_28.jpg",
+     "credit": "STW932",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Rehai_28.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Tengchong"
+    }
+   ],
+   "tags": [
+    "volcanoes",
+    "hot springs",
+    "old village"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       98.464,
+       24.911
+      ],
+      [
+       98.442,
+       24.905
+      ],
+      [
+       98.418,
+       24.91
+      ],
+      [
+       98.4,
+       24.924
+      ],
+      [
+       98.393,
+       24.937
+      ],
+      [
+       98.391,
+       24.954
+      ],
+      [
+       98.407,
+       25.021
+      ],
+      [
+       98.485,
+       25.209
+      ],
+      [
+       98.611,
+       25.449
+      ],
+      [
+       98.621,
+       25.461
+      ],
+      [
+       98.635,
+       25.468
+      ],
+      [
+       98.653,
+       25.472
+      ],
+      [
+       98.67,
+       25.47
+      ],
+      [
+       98.686,
+       25.462
+      ],
+      [
+       98.697,
+       25.451
+      ],
+      [
+       98.704,
+       25.435
+      ],
+      [
+       98.704,
+       25.42
+      ],
+      [
+       98.605,
+       25.111
+      ],
+      [
+       98.483,
+       24.927
+      ],
+      [
+       98.464,
+       24.911
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "xishuangbanna",
+   "kind": "region",
+   "category": "nature",
+   "name": "Xishuangbanna: Dai villages, rainforest & tea mountains",
+   "short_name": "Xishuangbanna",
+   "name_zh": "西双版纳",
+   "region": "Yunnan",
+   "coordinates": [
+    100.7841,
+    21.8959
+   ],
+   "wow": 4,
+   "crowds": 3,
+   "elevation_m": [
+    500,
+    2400
+   ],
+   "base_elevation_m": 600,
+   "tagline": "China's tropical south-east Asia: Dai temples, rainforest, wild elephants and the Pu'er tea mountains, at the end of the train to Laos.",
+   "time_needed": "3–5 days",
+   "nearest_station": "Xishuangbanna (Jinghong), Ganlanba, Mengla (fast rail, Kunming–Vientiane)",
+   "best_for": "Tropical nature, tea culture, Dai Buddhism",
+   "description": [
+    "**Jinghong** is the hub. Around it lie Dai villages with Theravada temples (**Ganlanba/Menghan**), the **Botanical Garden** at Menglun, and in the west the cool **tea mountains** of Menghai (Nannuo, Bulang, Laobanzhang) with Hani and Bulang villages among ancient tea trees."
+   ],
+   "highlights": [
+    "Tea mountain villages (Nannuo, Laobanzhang)",
+    "XTBG botanical garden at Menglun",
+    "Manting & Dai temples",
+    "Wild Elephant Valley"
+   ],
+   "getting_around": "Fast rail Kunming → Jinghong (3.5 h); buses/driver to the tea mountains.",
+   "stay": "Jinghong riverside hotels, tea-farm guesthouses in Menghai, XTBG's research hotel.",
+   "april": "**Hottest and driest** month (30–35 °C). The **Water-Splashing Festival on 13–15 April** is great fun but brings huge crowds and price spikes.",
+   "health": "**Mosquito zone** (dengue, chikungunya; *Aedes aegypti* present). The tea mountains (1,200–1,800 m) carry much lower risk than Jinghong and the lowlands. If pregnant, think twice.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Jinghongcity.jpg/1280px-Jinghongcity.jpg",
+     "credit": "Chlukoe",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Jinghongcity.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Man_Chunman_Buddhist_Temple%2C_Dai_Ethnic_Garden%2C_Xishuangbanna_Prefecture%2C_China.jpg",
+     "credit": "Jacek Karczmarczyk",
+     "license": "CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Man_Chunman_Buddhist_Temple,_Dai_Ethnic_Garden,_Xishuangbanna_Prefecture,_China.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/ManpoVillage.jpg/1280px-ManpoVillage.jpg",
+     "credit": "User:Doron",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:ManpoVillage.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Xishuangbanna_Dai_Autonomous_Prefecture"
+    }
+   ],
+   "tags": [
+    "tropical",
+    "Dai",
+    "tea",
+    "mosquito zone"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       100.489,
+       21.66
+      ],
+      [
+       100.457,
+       21.67
+      ],
+      [
+       100.434,
+       21.689
+      ],
+      [
+       100.422,
+       21.714
+      ],
+      [
+       100.374,
+       21.96
+      ],
+      [
+       100.376,
+       21.979
+      ],
+      [
+       100.386,
+       21.999
+      ],
+      [
+       100.4,
+       22.014
+      ],
+      [
+       100.421,
+       22.026
+      ],
+      [
+       100.806,
+       22.08
+      ],
+      [
+       101.263,
+       22.006
+      ],
+      [
+       101.295,
+       21.991
+      ],
+      [
+       101.316,
+       21.965
+      ],
+      [
+       101.322,
+       21.937
+      ],
+      [
+       101.317,
+       21.91
+      ],
+      [
+       101.3,
+       21.886
+      ],
+      [
+       101.275,
+       21.87
+      ],
+      [
+       100.519,
+       21.663
+      ],
+      [
+       100.489,
+       21.66
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "jingmai-tea",
+   "kind": "region",
+   "category": "culture",
+   "name": "Jingmai Mountain ancient tea forests",
+   "short_name": "Jingmai tea forests",
+   "name_zh": "景迈山古茶林",
+   "region": "Yunnan",
+   "coordinates": [
+    100.0276,
+    22.2067
+   ],
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": [
+    1100,
+    1700
+   ],
+   "base_elevation_m": 1450,
+   "tagline": "UNESCO World Heritage (2023): a thousand-year-old tea landscape with Blang and Dai villages under ancient trees.",
+   "time_needed": "2 days",
+   "nearest_station": "Pu'er (fast rail) + ~3.5 h, or from Menghai ~2 h",
+   "best_for": "Tea culture, village walks, cool mountain nights",
+   "description": [
+    "Unlike plantations, the tea here grows under the forest canopy, a centuries-old agro-forestry system. **Wengji** and **Nuogang** villages keep traditional stilt houses; you can pick and roast tea with families."
+   ],
+   "highlights": [
+    "Wengji Blang village",
+    "Nuogang Dai village",
+    "Spring tea-picking"
+   ],
+   "getting_around": "Car or driver from Menghai/Lancang.",
+   "stay": "Family tea guesthouses in Jingmai/Mangjing villages.",
+   "april": "**Spring tea harvest**, the best month to visit. Dry and warm.",
+   "health": "Mountain elevation (~1,500 m) and much lower mosquito risk than the lowlands, but it is inside the southern-Yunnan health zone.",
+   "photos": [],
+   "links": [],
+   "tags": [
+    "UNESCO",
+    "tea",
+    "Blang",
+    "Dai"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       99.999,
+       22.118
+      ],
+      [
+       99.986,
+       22.114
+      ],
+      [
+       99.972,
+       22.115
+      ],
+      [
+       99.96,
+       22.119
+      ],
+      [
+       99.949,
+       22.129
+      ],
+      [
+       99.942,
+       22.141
+      ],
+      [
+       99.941,
+       22.153
+      ],
+      [
+       99.945,
+       22.166
+      ],
+      [
+       99.968,
+       22.206
+      ],
+      [
+       100.053,
+       22.289
+      ],
+      [
+       100.063,
+       22.295
+      ],
+      [
+       100.073,
+       22.298
+      ],
+      [
+       100.085,
+       22.298
+      ],
+      [
+       100.095,
+       22.295
+      ],
+      [
+       100.108,
+       22.287
+      ],
+      [
+       100.116,
+       22.275
+      ],
+      [
+       100.118,
+       22.261
+      ],
+      [
+       100.114,
+       22.247
+      ],
+      [
+       100.01,
+       22.127
+      ],
+      [
+       99.999,
+       22.118
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "puzhehei",
+   "kind": "region",
+   "category": "nature",
+   "name": "Puzhehei karst lakes",
+   "short_name": "Puzhehei",
+   "name_zh": "普者黑",
+   "region": "Yunnan",
+   "coordinates": [
+    104.1267,
+    24.0719
+   ],
+   "wow": 3,
+   "crowds": 3,
+   "elevation_m": [
+    1450,
+    1700
+   ],
+   "base_elevation_m": 1460,
+   "tagline": "Karst hills reflected in lily-pad lakes, with Yi villages to cycle between. A handy stop on the HSR from Guangxi to Kunming.",
+   "time_needed": "1–2 days",
+   "nearest_station": "Puzhehei (HSR, Nanning–Kunming line)",
+   "best_for": "Easy cycling and boating, a rest day between big cities",
+   "description": [
+    "A smaller, quieter cousin of Guilin's karst on a high plateau. Rent a bike, paddle a boat and climb **Qinglong Shan** for the view over the lakes."
+   ],
+   "getting_around": "Bicycles and e-bikes; the HSR station is ~15 min away.",
+   "stay": "Lakeside village guesthouses (Xianrendong village).",
+   "april": "Dry spring; lotus season is later (June–August).",
+   "photos": [],
+   "links": [],
+   "tags": [
+    "karst",
+    "lakes",
+    "cycling",
+    "Yi"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       104.215,
+       23.961
+      ],
+      [
+       104.21,
+       23.952
+      ],
+      [
+       104.202,
+       23.943
+      ],
+      [
+       104.191,
+       23.938
+      ],
+      [
+       104.181,
+       23.935
+      ],
+      [
+       104.168,
+       23.936
+      ],
+      [
+       104.157,
+       23.94
+      ],
+      [
+       104.147,
+       23.948
+      ],
+      [
+       104.015,
+       24.134
+      ],
+      [
+       104.011,
+       24.146
+      ],
+      [
+       104.011,
+       24.157
+      ],
+      [
+       104.016,
+       24.168
+      ],
+      [
+       104.024,
+       24.177
+      ],
+      [
+       104.039,
+       24.185
+      ],
+      [
+       104.055,
+       24.186
+      ],
+      [
+       104.129,
+       24.173
+      ],
+      [
+       104.14,
+       24.168
+      ],
+      [
+       104.149,
+       24.162
+      ],
+      [
+       104.213,
+       24.061
+      ],
+      [
+       104.215,
+       24.05
+      ],
+      [
+       104.217,
+       23.972
+      ],
+      [
+       104.215,
+       23.961
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "jiarong-valleys",
+   "kind": "region",
+   "category": "hike",
+   "name": "Jiarong Tibetan valleys: Siguniang & Danba",
+   "short_name": "Siguniang & Danba",
+   "name_zh": "嘉绒藏区 · 四姑娘山—丹巴",
+   "region": "Sichuan",
+   "coordinates": [
+    102.5364,
+    30.9647
+   ],
+   "wow": 5,
+   "crowds": 2,
+   "elevation_m": [
+    1800,
+    6250
+   ],
+   "base_elevation_m": 2000,
+   "tagline": "A road trip from panda country over the Balang pass into Tibetan valleys of stone towers and painted villages.",
+   "time_needed": "3–5 days",
+   "nearest_station": "Dujiangyan (HSR), then road",
+   "best_for": "Road trip, Tibetan villages, mountain hikes",
+   "description": [
+    "From Wolong the road climbs to the **Balang Shan** tunnel (~3,850 m) and drops to **Rilong**, base for Siguniang's valleys. It then follows the river down through **Xiaojin** to **Danba**, a deep valley at only ~1,900 m famous for **Jiaju** (painted Jiarong Tibetan houses on a sunny slope) and the ancient stone watchtowers of **Suopo** and **Zhonglu**.",
+    "**Pregnancy-friendly trick:** you can see real Tibetan village life while sleeping at ~2,000 m in Danba/Jiaju instead of 3,200 m in Rilong."
+   ],
+   "highlights": [
+    "Siguniang's Changping & Shuangqiao valleys",
+    "Jiaju Tibetan village",
+    "Suopo stone towers",
+    "Zhonglu plateau village"
+   ],
+   "getting_around": "Car/driver (most practical), or buses Chengdu → Rilong → Danba. Chengdu → Danba ~6–7 h.",
+   "stay": "Jiaju or Zhonglu family homestays; Rilong lodges for Siguniang.",
+   "route_idea": "Chengdu → Wolong (pandas, night) → Balang pass → Rilong (only if altitude OK) → Xiaojin → Danba/Jiaju 2 nights → back via Kangding or the same road.",
+   "april": "Pear and apricot blossom in Danba's valleys (late March–April); snow on the passes.",
+   "health": "Rilong 3,200 m and the Balang tunnel ~3,850 m are high. Danba/Jiaju (~1,900–2,200 m) are fine for overnights.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Danba%2C_Sichuan.jpg/1280px-Danba%2C_Sichuan.jpg",
+     "credit": "Rduta",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Danba,_Sichuan.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/1_Seda_facing_south.jpg/1280px-1_Seda_facing_south.jpg",
+     "credit": "Chensiyuan",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_Seda_facing_south.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Danba%2C_Sichuan.jpg/1280px-Danba%2C_Sichuan.jpg",
+     "credit": "Rduta",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Danba,_Sichuan.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Danba_County"
+    }
+   ],
+   "tags": [
+    "Tibetan",
+    "road trip",
+    "stone towers",
+    "hiking"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       101.964,
+       30.985
+      ],
+      [
+       101.984,
+       30.984
+      ],
+      [
+       102.362,
+       31.071
+      ],
+      [
+       102.852,
+       31.061
+      ],
+      [
+       102.888,
+       31.049
+      ],
+      [
+       102.928,
+       31.006
+      ],
+      [
+       102.955,
+       30.999
+      ],
+      [
+       103.157,
+       31.105
+      ],
+      [
+       103.194,
+       31.114
+      ],
+      [
+       103.226,
+       31.11
+      ],
+      [
+       103.254,
+       31.096
+      ],
+      [
+       103.274,
+       31.073
+      ],
+      [
+       103.282,
+       31.046
+      ],
+      [
+       103.274,
+       31.013
+      ],
+      [
+       103.248,
+       30.984
+      ],
+      [
+       102.959,
+       30.827
+      ],
+      [
+       102.918,
+       30.816
+      ],
+      [
+       102.885,
+       30.82
+      ],
+      [
+       102.86,
+       30.832
+      ],
+      [
+       102.8,
+       30.909
+      ],
+      [
+       102.781,
+       30.918
+      ],
+      [
+       102.377,
+       30.926
+      ],
+      [
+       101.965,
+       30.83
+      ],
+      [
+       101.909,
+       30.812
+      ],
+      [
+       101.882,
+       30.81
+      ],
+      [
+       101.856,
+       30.816
+      ],
+      [
+       101.826,
+       30.835
+      ],
+      [
+       101.808,
+       30.863
+      ],
+      [
+       101.795,
+       30.953
+      ],
+      [
+       101.801,
+       30.985
+      ],
+      [
+       101.815,
+       31.004
+      ],
+      [
+       101.832,
+       31.017
+      ],
+      [
+       101.873,
+       31.029
+      ],
+      [
+       101.916,
+       31.021
+      ],
+      [
+       101.964,
+       30.985
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "yaan-cloud-forests",
+   "kind": "region",
+   "category": "wildlife",
+   "name": "Ya'an cloud forests: Bifengxia, Labahe & Erlangshan",
+   "short_name": "Ya'an cloud forests",
+   "name_zh": "雅安 · 碧峰峡 · 喇叭河",
+   "region": "Sichuan",
+   "coordinates": [
+    102.7298,
+    30.0148
+   ],
+   "wow": 3,
+   "crowds": 2,
+   "elevation_m": [
+    550,
+    3437
+   ],
+   "base_elevation_m": 1000,
+   "tagline": "The 'rain city': misty gorges, the birthplace of cultivated tea, a panda base and red-panda forests, 1 hour from Chengdu.",
+   "time_needed": "2–3 days",
+   "nearest_station": "Ya'an (fast rail from Chengdu ~1 h)",
+   "best_for": "Lush, quiet nature near Chengdu; pandas without crowds",
+   "description": [
+    "**Bifengxia** has a gorge walk and a panda base. **Mengdingshan** is where tea was first cultivated (legend says 2,000 years ago). **Shangli** is a riverside old town. **Labahe** in Tianquan is cloud forest with hot springs and red pandas, part of the Giant Panda National Park."
+   ],
+   "highlights": [
+    "Bifengxia panda base",
+    "Mengdingshan tea terraces",
+    "Shangli ancient town",
+    "Labahe cloud forest & hot springs"
+   ],
+   "getting_around": "Fast rail to Ya'an; buses and Didi; car for Labahe.",
+   "stay": "Shangli guesthouses, Labahe lodges.",
+   "april": "Rainy and green (it rains here more than anywhere in Sichuan); ~18 °C.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Ya%27an%2C_August_2020.jpg/1280px-Ya%27an%2C_August_2020.jpg",
+     "credit": "Song Yanbo",
+     "license": "CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:Ya%27an,_August_2020.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/201908_Yazhou_Covered_Bridge.jpg/1280px-201908_Yazhou_Covered_Bridge.jpg",
+     "credit": "MNXANL",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:201908_Yazhou_Covered_Bridge.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Erlang_Mountain_Tunnel_%28G318%29.jpg/1280px-Erlang_Mountain_Tunnel_%28G318%29.jpg",
+     "credit": "xue siyang (df45086)",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Erlang_Mountain_Tunnel_(G318).jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Ya%27an"
+    }
+   ],
+   "tags": [
+    "pandas",
+    "tea",
+    "cloud forest",
+    "rain"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       102.267,
+       29.827
+      ],
+      [
+       102.251,
+       29.831
+      ],
+      [
+       102.239,
+       29.838
+      ],
+      [
+       102.228,
+       29.849
+      ],
+      [
+       102.222,
+       29.862
+      ],
+      [
+       102.221,
+       29.877
+      ],
+      [
+       102.225,
+       29.891
+      ],
+      [
+       102.233,
+       29.901
+      ],
+      [
+       102.246,
+       29.911
+      ],
+      [
+       102.514,
+       30.051
+      ],
+      [
+       103.051,
+       30.229
+      ],
+      [
+       103.071,
+       30.231
+      ],
+      [
+       103.087,
+       30.228
+      ],
+      [
+       103.101,
+       30.22
+      ],
+      [
+       103.112,
+       30.208
+      ],
+      [
+       103.118,
+       30.195
+      ],
+      [
+       103.118,
+       30.183
+      ],
+      [
+       103.091,
+       30.005
+      ],
+      [
+       103.082,
+       29.986
+      ],
+      [
+       103.064,
+       29.973
+      ],
+      [
+       102.284,
+       29.828
+      ],
+      [
+       102.267,
+       29.827
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "qingcheng-dujiangyan",
+   "kind": "region",
+   "category": "culture",
+   "name": "Qingchengshan & Dujiangyan",
+   "short_name": "Qingcheng & Dujiangyan",
+   "name_zh": "青城山 · 都江堰",
+   "region": "Sichuan",
+   "coordinates": [
+    103.5665,
+    30.9039
+   ],
+   "wow": 3,
+   "crowds": 4,
+   "elevation_m": [
+    600,
+    1600
+   ],
+   "base_elevation_m": 700,
+   "tagline": "A Taoist mountain and a 2,200-year-old irrigation system that still works, 40 minutes from Chengdu by HSR.",
+   "time_needed": "1–2 days",
+   "nearest_station": "Qingchengshan, Dujiangyan (HSR)",
+   "best_for": "An easy escape from Chengdu with forest trails",
+   "description": [
+    "**Qingchengshan** is one of the cradles of Taoism. The 'front mountain' has temples and crowds, while the **back mountain (Houshan)** has gorge trails and village guesthouses. **Dujiangyan** (UNESCO) is the ingenious 256 BC water system that made the Chengdu plain fertile. Nearby **Jiezi** is a riverside old town."
+   ],
+   "highlights": [
+    "Qingcheng back mountain gorge trails",
+    "Dujiangyan irrigation system",
+    "Jiezi old town teahouses"
+   ],
+   "getting_around": "HSR from Chengdu; buses between the sites.",
+   "stay": "Back-mountain guesthouses at Tai'an old town.",
+   "april": "Green and pleasant, ~20 °C; misty.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg/1280px-%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg",
+     "credit": "Nyx Ning",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg",
+     "credit": "Colegota",
+     "license": "CC BY-SA 2.5 es",
+     "link": "https://commons.wikimedia.org/wiki/File:Chengdu-pandas-d10.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/FRONT_GATE_OF_QINGCHENG.JPG/1280px-FRONT_GATE_OF_QINGCHENG.JPG",
+     "credit": "A0110110010",
+     "license": "CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:FRONT_GATE_OF_QINGCHENG.JPG"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mount_Qingcheng"
+    }
+   ],
+   "tags": [
+    "Taoism",
+    "UNESCO",
+    "day trip"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       103.572,
+       30.795
+      ],
+      [
+       103.556,
+       30.791
+      ],
+      [
+       103.541,
+       30.794
+      ],
+      [
+       103.529,
+       30.804
+      ],
+      [
+       103.47,
+       30.932
+      ],
+      [
+       103.469,
+       30.939
+      ],
+      [
+       103.47,
+       30.948
+      ],
+      [
+       103.479,
+       30.96
+      ],
+      [
+       103.493,
+       30.966
+      ],
+      [
+       103.632,
+       30.986
+      ],
+      [
+       103.646,
+       30.985
+      ],
+      [
+       103.656,
+       30.98
+      ],
+      [
+       103.664,
+       30.972
+      ],
+      [
+       103.668,
+       30.962
+      ],
+      [
+       103.667,
+       30.952
+      ],
+      [
+       103.633,
+       30.883
+      ],
+      [
+       103.583,
+       30.805
+      ],
+      [
+       103.572,
+       30.795
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "jiuzhai-songpan",
+   "kind": "region",
+   "category": "nature",
+   "name": "Songpan, Huanglong & Jiuzhaigou",
+   "short_name": "Jiuzhaigou & Huanglong",
+   "name_zh": "九寨沟 · 黄龙 · 松潘",
+   "region": "Sichuan",
+   "coordinates": [
+    103.7757,
+    32.9148
+   ],
+   "wow": 5,
+   "crowds": 5,
+   "elevation_m": [
+    2000,
+    5588
+   ],
+   "base_elevation_m": 2900,
+   "tagline": "The famous turquoise lakes of Jiuzhaigou and the travertine pools of Huanglong, now reachable by train from Chengdu.",
+   "time_needed": "3–4 days",
+   "nearest_station": "Huanglong Jiuzhai (HSR from Chengdu)",
+   "best_for": "Postcard scenery, if you accept crowds and altitude",
+   "description": [
+    "**Jiuzhaigou**'s lakes are genuinely unreal in colour; the park is very well run and very busy. **Huanglong** is a 3,100–3,600 m valley of yellow travertine terraces. **Songpan** is an old walled garrison town with horse-trekking outfits.",
+    "Since the new railway, Chengdu → Huanglong Jiuzhai takes a few hours instead of a 10-hour bus ride (check the current timetable)."
+   ],
+   "highlights": [
+    "Jiuzhaigou's Five-Flower and Long Lakes",
+    "Huanglong travertine pools",
+    "Songpan horse trek"
+   ],
+   "getting_around": "HSR to Huanglong Jiuzhai, then shuttle buses; park buses inside Jiuzhaigou.",
+   "stay": "Jiuzhaigou gate area hotels/Tibetan guesthouses; Songpan old town.",
+   "crowd_tips": "Enter at opening, take the bus to the top and walk down; weekdays.",
+   "april": "Lakes thawed but trees still bare; snow possible. The scenery peaks in October.",
+   "health": "**Overnights 2,000–3,000 m; Huanglong reaches 3,600 m.** Discuss with your doctor if pregnant.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HuangLong_2002-09-12_02.jpg/1280px-HuangLong_2002-09-12_02.jpg",
+     "credit": "",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:HuangLong_2002-09-12_02.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_panorama_of_Songpan_Ancient_City._October_2023.jpg/1280px-Aerial_panorama_of_Songpan_Ancient_City._October_2023.jpg",
+     "credit": "Bob Tan",
+     "license": "CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Aerial_panorama_of_Songpan_Ancient_City._October_2023.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Aerial_perspective_of_the_Songpan_Ancient_City_walls_and_fort._October_2023.jpg/1280px-Aerial_perspective_of_the_Songpan_Ancient_City_walls_and_fort._October_2023.jpg",
+     "credit": "Bob Tan",
+     "license": "CC BY 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Aerial_perspective_of_the_Songpan_Ancient_City_walls_and_fort._October_2023.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Songpan_County"
+    }
+   ],
+   "tags": [
+    "UNESCO",
+    "lakes",
+    "high altitude",
+    "crowded"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       103.598,
+       32.577
+      ],
+      [
+       103.568,
+       32.581
+      ],
+      [
+       103.54,
+       32.598
+      ],
+      [
+       103.525,
+       32.62
+      ],
+      [
+       103.521,
+       32.648
+      ],
+      [
+       103.547,
+       32.801
+      ],
+      [
+       103.856,
+       33.293
+      ],
+      [
+       103.872,
+       33.309
+      ],
+      [
+       103.894,
+       33.319
+      ],
+      [
+       103.917,
+       33.323
+      ],
+      [
+       103.945,
+       33.319
+      ],
+      [
+       103.967,
+       33.309
+      ],
+      [
+       103.983,
+       33.294
+      ],
+      [
+       103.993,
+       33.276
+      ],
+      [
+       103.995,
+       33.255
+      ],
+      [
+       103.898,
+       32.722
+      ],
+      [
+       103.885,
+       32.703
+      ],
+      [
+       103.867,
+       32.689
+      ],
+      [
+       103.631,
+       32.584
+      ],
+      [
+       103.598,
+       32.577
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "wulong-karst-region",
+   "kind": "region",
+   "category": "nature",
+   "name": "Wulong karst & Fairy Mountain",
+   "short_name": "Wulong karst",
+   "name_zh": "武隆",
+   "region": "Chongqing",
+   "coordinates": [
+    107.8623,
+    29.4128
+   ],
+   "wow": 5,
+   "crowds": 3,
+   "elevation_m": [
+    200,
+    2033
+   ],
+   "base_elevation_m": 1100,
+   "tagline": "Natural bridges, sinkholes and slot canyons below a cool alpine meadow plateau, 2 hours from Chongqing.",
+   "time_needed": "2–3 days",
+   "nearest_station": "Wulong",
+   "best_for": "Karst wonders plus quiet villages on the plateau",
+   "description": [
+    "The famous sights (Three Natural Bridges, Longshuixia fissure, Furong Cave) are on tour-bus circuits. **Fairy Mountain (Xiannüshan)** plateau has meadows, forests and villages where Chongqing locals escape the heat; **Houping** further north has giant tiankeng sinkholes and few visitors."
+   ],
+   "highlights": [
+    "Three Natural Bridges",
+    "Longshuixia fissure",
+    "Fairy Mountain meadows",
+    "Houping tiankeng"
+   ],
+   "getting_around": "Train/bus to Wulong; shuttle buses to sights; a car for Houping.",
+   "stay": "Xiannüshan town hotels (cool, convenient for early starts).",
+   "april": "Fresh green, ~20 °C below, ~12 °C on the plateau.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg/1280px-%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg",
+     "credit": "rheins",
+     "license": "CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%E4%BB%99%E5%A5%B3%E5%B1%B1%E9%95%87_-_Xiann%C3%BCshan_Town_-_2015.04_-_panoramio.jpg/1280px-%E4%BB%99%E5%A5%B3%E5%B1%B1%E9%95%87_-_Xiann%C3%BCshan_Town_-_2015.04_-_panoramio.jpg",
+     "credit": "rheins",
+     "license": "CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E5%A5%B3%E5%B1%B1%E9%95%87_-_Xiann%C3%BCshan_Town_-_2015.04_-_panoramio.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg/1280px-%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg",
+     "credit": "rheins",
+     "license": "CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Wulong,_Chongqing"
+    }
+   ],
+   "tags": [
+    "karst",
+    "UNESCO",
+    "canyons"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       107.936,
+       29.207
+      ],
+      [
+       107.921,
+       29.196
+      ],
+      [
+       107.903,
+       29.193
+      ],
+      [
+       107.887,
+       29.196
+      ],
+      [
+       107.724,
+       29.304
+      ],
+      [
+       107.715,
+       29.321
+      ],
+      [
+       107.678,
+       29.467
+      ],
+      [
+       107.678,
+       29.479
+      ],
+      [
+       107.686,
+       29.496
+      ],
+      [
+       107.701,
+       29.507
+      ],
+      [
+       107.976,
+       29.607
+      ],
+      [
+       107.997,
+       29.609
+      ],
+      [
+       108.013,
+       29.605
+      ],
+      [
+       108.025,
+       29.595
+      ],
+      [
+       108.031,
+       29.584
+      ],
+      [
+       108.033,
+       29.57
+      ],
+      [
+       107.944,
+       29.221
+      ],
+      [
+       107.936,
+       29.207
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "wujiang-tujia",
+   "kind": "region",
+   "category": "village",
+   "name": "Wujiang gorges & Tujia towns (SE Chongqing)",
+   "short_name": "Wujiang & Tujia towns",
+   "name_zh": "乌江 · 龚滩 · 濯水",
+   "region": "Chongqing",
+   "coordinates": [
+    108.5011,
+    29.1748
+   ],
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": [
+    250,
+    1500
+   ],
+   "base_elevation_m": 350,
+   "tagline": "Cliffside river towns, Tujia stilt houses and emerald gorges in Chongqing's forgotten south-east corner.",
+   "time_needed": "2–4 days",
+   "nearest_station": "Pengshui West, Qianjiang (HSR from Chongqing ~1–1.5 h); Youyang",
+   "best_for": "An off-track loop before/after Chongqing; river towns",
+   "description": [
+    "The **Wujiang** (Wu River) cuts a deep green gorge to the Yangtze. Along it: **Gongtan**, a Tujia stilt-house town rebuilt on the cliffs above the river; **Ayi River** canyon near Pengshui (Miao); **Zhuoshui** old town with one of China's longest wind-and-rain bridges; **Youyang's Taohuayuan** ('Peach Blossom Spring') karst valley.",
+    "Mainly domestic visitors and very few foreigners."
+   ],
+   "highlights": [
+    "Gongtan cliff town at dusk",
+    "Zhuoshui old town & bridge",
+    "Ayi River canyon",
+    "Youyang Taohuayuan"
+   ],
+   "getting_around": "HSR Chongqing → Pengshui West / Qianjiang, then buses or a driver; the river road Pengshui → Gongtan is beautiful.",
+   "stay": "Gongtan riverside guesthouses, Zhuoshui inns.",
+   "april": "Mild, green, some rain; ~22 °C.",
+   "photos": [],
+   "links": [],
+   "tags": [
+    "Tujia",
+    "Miao",
+    "river towns",
+    "off the beaten track"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       108.82,
+       28.823
+      ],
+      [
+       108.806,
+       28.805
+      ],
+      [
+       108.786,
+       28.794
+      ],
+      [
+       108.765,
+       28.79
+      ],
+      [
+       108.373,
+       28.826
+      ],
+      [
+       108.341,
+       28.838
+      ],
+      [
+       108.058,
+       29.134
+      ],
+      [
+       108.052,
+       29.158
+      ],
+      [
+       108.061,
+       29.322
+      ],
+      [
+       108.065,
+       29.339
+      ],
+      [
+       108.075,
+       29.354
+      ],
+      [
+       108.101,
+       29.37
+      ],
+      [
+       108.745,
+       29.587
+      ],
+      [
+       108.776,
+       29.59
+      ],
+      [
+       108.805,
+       29.579
+      ],
+      [
+       108.823,
+       29.56
+      ],
+      [
+       108.829,
+       29.537
+      ],
+      [
+       108.831,
+       29.305
+      ],
+      [
+       108.825,
+       28.844
+      ],
+      [
+       108.82,
+       28.823
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "three-gorges",
+   "kind": "region",
+   "category": "nature",
+   "name": "Yangtze Three Gorges: Fengjie & Wushan",
+   "short_name": "Three Gorges",
+   "name_zh": "长江三峡 · 奉节—巫山",
+   "region": "Chongqing",
+   "coordinates": [
+    109.8052,
+    31.0397
+   ],
+   "wow": 5,
+   "crowds": 3,
+   "elevation_m": [
+    175,
+    1500
+   ],
+   "base_elevation_m": 250,
+   "tagline": "Qutang and Wu gorges, the Kuimen gate on the 10-yuan note, and boat trips up the Little Three Gorges, now reachable by HSR.",
+   "time_needed": "2–3 days",
+   "nearest_station": "Fengjie, Wushan (HSR, Chongqing–Zhengzhou line)",
+   "best_for": "A classic China landscape without a 4-day cruise",
+   "description": [
+    "You don't need a cruise any more: the HSR stops at **Fengjie** and **Wushan**. From Fengjie visit **Baidicheng** temple and the **Kuimen** gate of Qutang Gorge; from Wushan take boats into the **Little Three Gorges** of the Daning River and hike above the **Wu Gorge** to Goddess Peak.",
+    "The dam raised the water by ~100 m, so the gorges are less wild than in old photos but still grand."
+   ],
+   "highlights": [
+    "Kuimen & Baidicheng",
+    "Little Three Gorges boat trip",
+    "Goddess Peak trail above Wu Gorge",
+    "Wushan's red autumn leaves (not in April)"
+   ],
+   "getting_around": "HSR from Chongqing North (~2 h); taxis and tour boats locally.",
+   "stay": "Wushan or Fengjie riverside hotels.",
+   "april": "Spring, mild, often misty in the gorges.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Qutang_Gorge_on_Changjiang.jpg/1280px-Qutang_Gorge_on_Changjiang.jpg",
+     "credit": "Tan Wei Liang Byorn",
+     "license": "CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Qutang_Gorge_on_Changjiang.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Beauty_and_grandeur%2C_the_Yangtze_gorges%2C_travel_poster%2C_ca._1930.jpg/1280px-Beauty_and_grandeur%2C_the_Yangtze_gorges%2C_travel_poster%2C_ca._1930.jpg",
+     "credit": "Unknown artist for Butterfield &amp; Swire (Shanghai, Hong Kong)",
+     "license": "Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Beauty_and_grandeur,_the_Yangtze_gorges,_travel_poster,_ca._1930.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/China_edcp_relief_location_map.jpg/1280px-China_edcp_relief_location_map.jpg",
+     "credit": "Uwe Dedering",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:China_edcp_relief_location_map.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Three_Gorges"
+    }
+   ],
+   "tags": [
+    "Yangtze",
+    "gorges",
+    "boat trips"
+   ],
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       109.581,
+       31.078
+      ],
+      [
+       109.607,
+       31.067
+      ],
+      [
+       109.616,
+       31.066
+      ],
+      [
+       109.866,
+       31.113
+      ],
+      [
+       109.88,
+       31.113
+      ],
+      [
+       109.894,
+       31.11
+      ],
+      [
+       109.991,
+       31.069
+      ],
+      [
+       110.014,
+       31.071
+      ],
+      [
+       110.212,
+       31.054
+      ],
+      [
+       110.226,
+       31.048
+      ],
+      [
+       110.235,
+       31.039
+      ],
+      [
+       110.241,
+       31.028
+      ],
+      [
+       110.242,
+       31.016
+      ],
+      [
+       110.237,
+       31.003
+      ],
+      [
+       110.229,
+       30.994
+      ],
+      [
+       110.215,
+       30.986
+      ],
+      [
+       110.201,
+       30.984
+      ],
+      [
+       110.046,
+       30.996
+      ],
+      [
+       110.019,
+       30.986
+      ],
+      [
+       110.0,
+       30.986
+      ],
+      [
+       109.869,
+       31.039
+      ],
+      [
+       109.607,
+       30.991
+      ],
+      [
+       109.591,
+       30.993
+      ],
+      [
+       109.559,
+       31.005
+      ],
+      [
+       109.401,
+       30.988
+      ],
+      [
+       109.381,
+       30.994
+      ],
+      [
+       109.367,
+       31.009
+      ],
+      [
+       109.364,
+       31.023
+      ],
+      [
+       109.367,
+       31.037
+      ],
+      [
+       109.376,
+       31.049
+      ],
+      [
+       109.389,
+       31.057
+      ],
+      [
+       109.564,
+       31.079
+      ],
+      [
+       109.581,
+       31.078
+      ]
+     ]
+    ]
+   }
+  },
+  {
+   "id": "leshan-buddha",
+   "kind": "poi",
+   "category": "culture",
+   "name": "Leshan Giant Buddha",
+   "name_zh": "乐山大佛",
+   "region": "Sichuan",
+   "coordinates": [
+    103.7693,
+    29.5469
+   ],
+   "zoom": 14,
+   "wow": 4,
+   "crowds": 5,
+   "elevation_m": 400,
+   "tagline": "A 71 m Buddha carved into a river cliff in the 8th century, the largest stone Buddha in the world.",
+   "time_needed": "Half a day",
+   "access": "HSR to Leshan, bus/taxi 20 min. Combine with Mount Emei.",
+   "nearest_station": "Leshan (HSR from Chengdu ~1 h)",
+   "description": [
+    "Staggering in scale. The staircase down beside the Buddha queues for hours on busy days, so consider seeing it **from a boat** (20 min, no queue) and walking the quieter cliff temples (Wuyou Temple) instead."
+   ],
+   "crowd_tips": "Arrive at opening (7:30) on a weekday or take the boat.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/36275-Leshan_%2849067653383%29.jpg/1280px-36275-Leshan_%2849067653383%29.jpg",
+     "credit": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/36273-Leshan_%2849067652118%29.jpg/1280px-36273-Leshan_%2849067652118%29.jpg",
+     "credit": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:36273-Leshan_(49067652118).jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/36275-Leshan_%2849067653383%29.jpg/1280px-36275-Leshan_%2849067653383%29.jpg",
+     "credit": "xiquinhosilva",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383).jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Leshan_Giant_Buddha"
+    }
+   ],
+   "tags": [
+    "UNESCO",
+    "Buddhism"
+   ]
+  },
+  {
+   "id": "xijiang-miao",
+   "kind": "poi",
+   "category": "village",
+   "name": "Xijiang Thousand-Household Miao Village",
+   "name_zh": "西江千户苗寨",
+   "region": "Guizhou",
+   "coordinates": [
+    108.1702,
+    26.4955
+   ],
+   "zoom": 14,
+   "wow": 3,
+   "crowds": 5,
+   "elevation_m": 850,
+   "tagline": "The world's largest Miao village: 1,000+ wooden houses on two hillsides. Spectacular at night, very touristy by day.",
+   "time_needed": "1 night",
+   "nearest_station": "Kaili South (HSR), then 1 h bus",
+   "description": [
+    "Xijiang has become a stage set with a main street of shops, but the scale of the stilt-house village lit up at night is unforgettable. Stay up the hill and walk the back lanes and rice fields early in the morning."
+   ],
+   "crowd_tips": "Day-trippers leave by 17:00; mornings are lovely.",
+   "photos": [],
+   "links": [],
+   "tags": [
+    "Miao",
+    "night view"
+   ]
+  },
+  {
+   "id": "langde-miao",
+   "kind": "poi",
+   "category": "village",
+   "name": "Langde Upper Village",
+   "name_zh": "郎德上寨",
+   "region": "Guizhou",
+   "coordinates": [
+    108.068,
+    26.474
+   ],
+   "zoom": 14,
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": 800,
+   "tagline": "A small, authentic Miao village with cobbled lanes and a dance ground, linked to Xijiang by old footpaths.",
+   "time_needed": "Half a day or 1 night",
+   "nearest_station": "Kaili South (HSR)",
+   "description": [
+    "Langde is what Xijiang was 20 years ago: a protected, still-farming Miao village on a river bend. Villagers perform welcoming dances for groups. There's a beautiful 4–5 h walk on old paths over the ridge to Xijiang."
+   ],
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Leishan%2C_Guizhou%2C_China.JPG/1280px-Leishan%2C_Guizhou%2C_China.JPG",
+     "credit": "Azylber",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Leishan,_Guizhou,_China.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Leishan%2C_Guizhou%2C_China.JPG/1280px-Leishan%2C_Guizhou%2C_China.JPG",
+     "credit": "Azylber",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Leishan,_Guizhou,_China.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Xi_jiang_Qianhu_Miao_Village_night_view.jpg/1280px-Xi_jiang_Qianhu_Miao_Village_night_view.jpg",
+     "credit": "Hhhh2",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Xi_jiang_Qianhu_Miao_Village_night_view.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Leishan_County"
+    }
+   ],
+   "tags": [
+    "Miao",
+    "hiking",
+    "authentic"
+   ]
+  },
+  {
+   "id": "basha",
+   "kind": "poi",
+   "category": "village",
+   "name": "Basha Miao Village",
+   "name_zh": "岜沙苗寨",
+   "region": "Guizhou",
+   "coordinates": [
+    108.865,
+    25.7226
+   ],
+   "zoom": 14,
+   "wow": 3,
+   "crowds": 3,
+   "elevation_m": 600,
+   "tagline": "The last 'gunmen' tribe: Miao men who carry muskets and wear topknots, in hamlets among sacred forest.",
+   "time_needed": "Half a day",
+   "nearest_station": "Congjiang (HSR)",
+   "description": [
+    "Basha's five hamlets above Congjiang worship trees and keep a distinctive culture. Performances for visitors are touristy, but walking the forest paths between the hamlets is not."
+   ],
+   "photos": [],
+   "links": [],
+   "tags": [
+    "Miao",
+    "culture"
+   ]
+  },
+  {
+   "id": "tangan-dong",
+   "kind": "poi",
+   "category": "village",
+   "name": "Tang'an Dong Village",
+   "name_zh": "堂安侗寨",
+   "region": "Guizhou",
+   "coordinates": [
+    109.2117,
+    25.9019
+   ],
+   "zoom": 14,
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": 900,
+   "tagline": "A Dong 'eco-museum' village perched above terraces, a 1.5 h walk up from Zhaoxing.",
+   "time_needed": "Half a day",
+   "nearest_station": "Congjiang (HSR)",
+   "description": [
+    "Spectacular terraced setting with a drum tower and wooden houses; one of the first eco-museums in China (with Norwegian help). Far quieter than Zhaoxing below."
+   ],
+   "photos": [],
+   "links": [],
+   "tags": [
+    "Dong",
+    "terraces",
+    "hiking"
+   ]
+  },
+  {
+   "id": "chengyang-bridge",
+   "kind": "poi",
+   "category": "culture",
+   "name": "Chengyang Wind-and-Rain Bridge",
+   "name_zh": "程阳永济桥",
+   "region": "Guangxi",
+   "coordinates": [
+    109.6307,
+    25.8871
+   ],
+   "zoom": 14,
+   "wow": 4,
+   "crowds": 3,
+   "elevation_m": 200,
+   "tagline": "The finest of the Dong covered bridges (1912), built without a single nail, with eight villages along the river.",
+   "time_needed": "Half a day – 1 night",
+   "nearest_station": "Sanjiang South (HSR)",
+   "description": [
+    "Walk across, then explore the eight villages (Ma'an, Pingzhai, Yanzhai…) with drum towers, water wheels and tea fields. Stay the night for evening Dong songs."
+   ],
+   "photos": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Dong-minority-bridge-1.jpg",
+     "credit": "",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Dong-minority-bridge-1.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-36-50.jpg/1280px-Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-36-50.jpg",
+     "credit": "Zhangzhugang",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-36-50.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-39-10.jpg/1280px-Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-39-10.jpg",
+     "credit": "Zhangzhugang",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-39-10.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Chengyang_Bridge"
+    }
+   ],
+   "tags": [
+    "Dong",
+    "architecture"
+   ]
+  },
+  {
+   "id": "xiaoqikong",
+   "kind": "poi",
+   "category": "nature",
+   "name": "Xiaoqikong (Libo)",
+   "name_zh": "小七孔",
+   "region": "Guizhou",
+   "coordinates": [
+    107.6743,
+    25.3052
+   ],
+   "zoom": 13,
+   "wow": 4,
+   "crowds": 4,
+   "elevation_m": 450,
+   "tagline": "Turquoise karst pools, cascades and a Qing-dynasty seven-arch bridge in forest.",
+   "time_needed": "1 day",
+   "nearest_station": "Libo (HSR)",
+   "description": [
+    "A well-built boardwalk circuit through a forested karst valley: the 68-level falls, Wolong pools, Water Forest (walk through ankle-deep water). Very popular on weekends."
+   ],
+   "crowd_tips": "Weekdays, early entry.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Xiaoqikong.JPG/1280px-Xiaoqikong.JPG",
+     "credit": "Fanghong",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Xiaoqikong.JPG"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Libo_County"
+    }
+   ],
+   "tags": [
+    "waterfalls",
+    "UNESCO"
+   ]
+  },
+  {
+   "id": "fenghuang",
+   "kind": "poi",
+   "category": "village",
+   "name": "Fenghuang Ancient Town",
+   "name_zh": "凤凰古城",
+   "region": "Hunan",
+   "coordinates": [
+    109.5994,
+    28.0192
+   ],
+   "zoom": 14,
+   "wow": 4,
+   "crowds": 5,
+   "elevation_m": 300,
+   "tagline": "Stilt houses over the Tuo River, the most photogenic old town in China, and among the busiest.",
+   "time_needed": "1 night",
+   "nearest_station": "Fenghuang Gucheng (HSR)",
+   "description": [
+    "Beautiful at dawn and blue hour, noisy at night (bars and karaoke). Stay on the quieter edges and walk the city wall and Hong Bridge at 6:30."
+   ],
+   "crowd_tips": "Mornings only; avoid holidays absolutely.",
+   "photos": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/1/11/Fenghuang_hunan.jpg",
+     "credit": "Vera &amp; Jean-Christophe",
+     "license": "CC BY-SA 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Fenghuang_hunan.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/1_fenghuang_2018.jpg/1280px-1_fenghuang_2018.jpg",
+     "credit": "Chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_fenghuang_2018.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1_fenghuang_ancient_town_hunan_china_2.jpg/1280px-1_fenghuang_ancient_town_hunan_china_2.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_fenghuang_ancient_town_hunan_china_2.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fenghuang_County"
+    }
+   ],
+   "tags": [
+    "old town",
+    "Miao",
+    "Tujia"
+   ]
+  },
+  {
+   "id": "dehang-canyon",
+   "kind": "poi",
+   "category": "hike",
+   "name": "Dehang Canyon & Aizhai Bridge",
+   "name_zh": "德夯大峡谷 · 矮寨大桥",
+   "region": "Hunan",
+   "coordinates": [
+    109.5825,
+    28.3465
+   ],
+   "zoom": 13,
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": [
+    300,
+    800
+   ],
+   "tagline": "A Miao village in a deep canyon with waterfall trails, beneath one of the world's most spectacular suspension bridges.",
+   "time_needed": "1 day",
+   "nearest_station": "Jishou East (HSR)",
+   "description": [
+    "Hike the canyon trails to Liusha waterfall (one of China's tallest, ~216 m), then visit the Aizhai Bridge (1,176 m span) with its glass walkway beneath the deck."
+   ],
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aizhai_Bridge-11.jpg/1280px-Aizhai_Bridge-11.jpg",
+     "credit": "Glabb",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Aizhai_Bridge-11.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aizhai_Bridge-1.jpg/1280px-Aizhai_Bridge-1.jpg",
+     "credit": "Glabb",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Aizhai_Bridge-1.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Aizhai_Bridge-10.jpg/1280px-Aizhai_Bridge-10.jpg",
+     "credit": "Glabb",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Aizhai_Bridge-10.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Aizhai_Bridge"
+    }
+   ],
+   "tags": [
+    "canyon",
+    "hiking",
+    "Miao"
+   ]
+  },
+  {
+   "id": "zhangjiajie-golden-whip",
+   "kind": "poi",
+   "category": "nature",
+   "name": "Zhangjiajie Forest Park",
+   "name_zh": "张家界国家森林公园",
+   "region": "Hunan",
+   "coordinates": [
+    110.4389,
+    29.3339
+   ],
+   "zoom": 12,
+   "wow": 5,
+   "crowds": 5,
+   "elevation_m": [
+    500,
+    1260
+   ],
+   "tagline": "The sandstone pillars of the Avatar films. Unreal scenery, unreal crowds.",
+   "time_needed": "2 days",
+   "nearest_station": "Zhangjiajie West (HSR)",
+   "description": [
+    "Walk the Golden Whip Stream in the valley and go up to Yuanjiajie and Tianzi Shan for the pillar views. Yangjiajie is the least crowded section."
+   ],
+   "crowd_tips": "Weekday, opening time, walk rather than queue for the elevator.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/China_edcp_relief_location_map.jpg/1280px-China_edcp_relief_location_map.jpg",
+     "credit": "Uwe Dedering",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:China_edcp_relief_location_map.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Zhangjiajie_National_Forest_Park"
+    }
+   ],
+   "tags": [
+    "UNESCO",
+    "pillars"
+   ]
+  },
+  {
+   "id": "xizhou",
+   "kind": "poi",
+   "category": "village",
+   "name": "Xizhou",
+   "name_zh": "喜洲古镇",
+   "region": "Yunnan",
+   "coordinates": [
+    100.1304,
+    25.8536
+   ],
+   "zoom": 14,
+   "wow": 3,
+   "crowds": 3,
+   "elevation_m": 1990,
+   "tagline": "Bai merchant town of courtyard mansions among rice fields on Erhai Lake. The nicer base than Dali old town.",
+   "time_needed": "1–2 nights",
+   "nearest_station": "Dali (HSR)",
+   "description": [
+    "Grand Bai courtyards (Yan family compound), a morning market, *xizhou baba* flatbreads and cycling through the fields to the lake."
+   ],
+   "photos": [],
+   "links": [],
+   "tags": [
+    "Bai",
+    "architecture",
+    "cycling"
+   ]
+  },
+  {
+   "id": "nuodeng",
+   "kind": "poi",
+   "category": "village",
+   "name": "Nuodeng Salt Village",
+   "name_zh": "诺邓古村",
+   "region": "Yunnan",
+   "coordinates": [
+    99.3781,
+    25.918
+   ],
+   "zoom": 14,
+   "wow": 4,
+   "crowds": 1,
+   "elevation_m": 1900,
+   "tagline": "A 1,000-year-old salt-well village terraced up a valley, famous for its cured ham.",
+   "time_needed": "1 night",
+   "nearest_station": "Dali (HSR), then ~3 h by road",
+   "description": [
+    "Bai houses stacked up the slope, an old Confucian temple at the top, salt wells by the stream. Remote, very few foreigners. Bring your appetite for Nuodeng ham."
+   ],
+   "photos": [],
+   "links": [],
+   "tags": [
+    "Tea Horse Road",
+    "Bai",
+    "remote"
+   ]
+  },
+  {
+   "id": "yuhu-baisha",
+   "kind": "poi",
+   "category": "village",
+   "name": "Yuhu & Baisha villages",
+   "name_zh": "玉湖村 · 白沙古镇",
+   "region": "Yunnan",
+   "coordinates": [
+    100.2126,
+    27.0146
+   ],
+   "zoom": 13,
+   "wow": 3,
+   "crowds": 2,
+   "elevation_m": [
+    2400,
+    2750
+   ],
+   "tagline": "Stone-walled Naxi villages under Jade Dragon Snow Mountain: the Lijiang area as it used to be.",
+   "time_needed": "1–2 nights",
+   "nearest_station": "Lijiang (fast rail)",
+   "description": [
+    "Baisha has Ming-dynasty frescoes and an embroidery institute; Yuhu was the home of the explorer-botanist Joseph Rock and has horse trails up to the lake below the snow peak."
+   ],
+   "health": "Yuhu is ~2,700 m, above the threshold; Baisha ~2,450 m.",
+   "photos": [],
+   "links": [],
+   "tags": [
+    "Naxi",
+    "villages"
+   ]
+  },
+  {
+   "id": "baishuitai",
+   "kind": "poi",
+   "category": "nature",
+   "name": "Baishuitai & Haba",
+   "name_zh": "白水台 · 哈巴",
+   "region": "Yunnan",
+   "coordinates": [
+    100.0321,
+    27.505
+   ],
+   "zoom": 12,
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": [
+    2400,
+    2700
+   ],
+   "tagline": "White travertine terraces, the holy site of the Naxi Dongba religion, on the quiet back road beyond Tiger Leaping Gorge.",
+   "time_needed": "1–2 days",
+   "nearest_station": "Lijiang / Hutiaoxia",
+   "description": [
+    "A smaller, quieter Huanglong. Combine with Haba village (base for Haba Snow Mountain climbs) on the scenic road from the gorge to Shangri-La."
+   ],
+   "health": "Around 2,400–2,700 m; Haba village sleeps at ~2,650 m.",
+   "photos": [
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Baishuitai%2C_Yunnan%2C_China.jpg",
+     "credit": "Ariel Steiner",
+     "license": "CC BY 2.5",
+     "link": "https://commons.wikimedia.org/wiki/File:Baishuitai,_Yunnan,_China.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/1_baishuitai_2018_aerial_pano_2018.jpg/1280px-1_baishuitai_2018_aerial_pano_2018.jpg",
+     "credit": "Chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_baishuitai_2018_aerial_pano_2018.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Baishuitai%2C_Yunnan%2C_China.jpg",
+     "credit": "Ariel Steiner",
+     "license": "CC BY 2.5",
+     "link": "https://commons.wikimedia.org/wiki/File:Baishuitai,_Yunnan,_China.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Baishuitai"
+    }
+   ],
+   "tags": [
+    "travertine",
+    "Naxi",
+    "back road"
+   ]
+  },
+  {
+   "id": "bingzhongluo",
+   "kind": "poi",
+   "category": "village",
+   "name": "Bingzhongluo",
+   "name_zh": "丙中洛",
+   "region": "Yunnan",
+   "coordinates": [
+    98.6215,
+    28.0181
+   ],
+   "zoom": 12,
+   "wow": 5,
+   "crowds": 1,
+   "elevation_m": [
+    1700,
+    2000
+   ],
+   "tagline": "End of the road in the Nujiang gorge: Tibetan, Nu and Lisu villages, Catholic churches and the river's dramatic 'first bend'.",
+   "time_needed": "2 nights",
+   "nearest_station": "none: 8+ h from Dali by road",
+   "description": [
+    "A green basin under snowy ridges at the top of the Nujiang Valley. Walk the old Tea Horse Road path along the river cliffs, visit **Chongding church** and **Wuli** village."
+   ],
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E8%B4%A1%E5%B1%B1%E5%8E%BF%E5%9F%8E%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2024-06-02_19.jpg/1280px-%E8%B4%A1%E5%B1%B1%E5%8E%BF%E5%9F%8E%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2024-06-02_19.jpg",
+     "credit": "瑞丽江的河水",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E8%B4%A1%E5%B1%B1%E5%8E%BF%E5%9F%8E%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2024-06-02_19.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/A.the_cross.jpg",
+     "credit": "Claire liy",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:A.the_cross.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Gongshan_Derung_and_Nu_Autonomous_County"
+    }
+   ],
+   "tags": [
+    "remote",
+    "Nu",
+    "Tibetan",
+    "trekking"
+   ]
+  },
+  {
+   "id": "laomudeng",
+   "kind": "poi",
+   "category": "village",
+   "name": "Laomudeng",
+   "name_zh": "老姆登村",
+   "region": "Yunnan",
+   "coordinates": [
+    98.9154,
+    26.5573
+   ],
+   "zoom": 13,
+   "wow": 4,
+   "crowds": 1,
+   "elevation_m": 1850,
+   "tagline": "A Nu village high above the Nujiang, with a church, tea fields and a view of the Stone Moon range.",
+   "time_needed": "1–2 nights",
+   "nearest_station": "none: Liuku (bus 2 h)",
+   "description": [
+    "Simple guesthouses, Sunday hymn singing in the church, and hikes along the ridge to Zhiziluo, a former county seat abandoned in the 1980s."
+   ],
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E7%9F%A5%E5%AD%90%E7%BD%97_-_%E5%85%AB%E8%A7%92%E6%A5%BC_-_%E8%88%AA%E6%8B%8D_-_2024-06-01_01.jpg/1280px-%E7%9F%A5%E5%AD%90%E7%BD%97_-_%E5%85%AB%E8%A7%92%E6%A5%BC_-_%E8%88%AA%E6%8B%8D_-_2024-06-01_01.jpg",
+     "credit": "瑞丽江的河水",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E7%9F%A5%E5%AD%90%E7%BD%97_-_%E5%85%AB%E8%A7%92%E6%A5%BC_-_%E8%88%AA%E6%8B%8D_-_2024-06-01_01.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Txu-oclc-10552568-ng47-6.jpg/1280px-Txu-oclc-10552568-ng47-6.jpg",
+     "credit": "Army Map Service (LD), Corps of Engineers 1954",
+     "license": "Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Txu-oclc-10552568-ng47-6.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%E4%B8%8A%E5%B8%95%E8%A1%97_-_2024-06-01_02.jpg/1280px-%E4%B8%8A%E5%B8%95%E8%A1%97_-_2024-06-01_02.jpg",
+     "credit": "瑞丽江的河水",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E5%B8%95%E8%A1%97_-_2024-06-01_02.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fugong_County"
+    }
+   ],
+   "tags": [
+    "Nu",
+    "church",
+    "remote"
+   ]
+  },
+  {
+   "id": "heshun",
+   "kind": "poi",
+   "category": "village",
+   "name": "Heshun",
+   "name_zh": "和顺古镇",
+   "region": "Yunnan",
+   "coordinates": [
+    98.4546,
+    25.0083
+   ],
+   "zoom": 14,
+   "wow": 4,
+   "crowds": 3,
+   "elevation_m": 1600,
+   "tagline": "A graceful overseas-Chinese home village with ancestral halls, lotus ponds and a famous 1920s library.",
+   "time_needed": "1–2 nights",
+   "nearest_station": "Baoshan (fast rail) + 2 h",
+   "description": [
+    "Built with remittances from Burma, Heshun is one of Yunnan's prettiest villages. Stroll the washing pavilions, the library and the residence of the philosopher Ai Siqi."
+   ],
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/View_of_Heshun_County_snowy_scenery_from_the_window.jpg/1280px-View_of_Heshun_County_snowy_scenery_from_the_window.jpg",
+     "credit": "Fumikas Sagisavas",
+     "license": "CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:View_of_Heshun_County_snowy_scenery_from_the_window.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/View_of_Heshun_County_snowy_scenery_from_the_window.jpg/1280px-View_of_Heshun_County_snowy_scenery_from_the_window.jpg",
+     "credit": "Fumikas Sagisavas",
+     "license": "CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:View_of_Heshun_County_snowy_scenery_from_the_window.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Heshun_County"
+    }
+   ],
+   "tags": [
+    "old village",
+    "overseas Chinese"
+   ]
+  },
+  {
+   "id": "jingmai-wengji",
+   "kind": "poi",
+   "category": "village",
+   "name": "Wengji (Jingmai)",
+   "name_zh": "翁基古寨",
+   "region": "Yunnan",
+   "coordinates": [
+    99.9989,
+    22.1737
+   ],
+   "zoom": 14,
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": 1500,
+   "tagline": "A Blang village of stilt houses among ancient tea trees, at the heart of the Jingmai UNESCO site.",
+   "time_needed": "1 night",
+   "nearest_station": "Pu'er (fast rail) + 3.5 h",
+   "description": [
+    "Sleep in a tea family's house, pick spring tea, and walk through forests where tea trees grow under the canopy."
+   ],
+   "april": "Spring tea harvest, the best time to visit.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/%E6%BE%9C%E6%B2%A7%E6%8B%89%E7%A5%9C%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF%E4%BD%8D%E7%BD%AE%E5%9B%BE.svg/1280px-%E6%BE%9C%E6%B2%A7%E6%8B%89%E7%A5%9C%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF%E4%BD%8D%E7%BD%AE%E5%9B%BE.svg.png",
+     "credit": "瑞丽江的河水",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E6%BE%9C%E6%B2%A7%E6%8B%89%E7%A5%9C%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF%E4%BD%8D%E7%BD%AE%E5%9B%BE.svg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Txu-oclc-10552568-nf47-7.jpg/1280px-Txu-oclc-10552568-nf47-7.jpg",
+     "credit": "Army Map Service, Corps of Engineers 1957",
+     "license": "Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Txu-oclc-10552568-nf47-7.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Lancang_Lahu_Autonomous_County"
+    }
+   ],
+   "tags": [
+    "tea",
+    "Blang",
+    "UNESCO"
+   ]
+  },
+  {
+   "id": "azheke",
+   "kind": "poi",
+   "category": "village",
+   "name": "Azheke Hani Village",
+   "name_zh": "阿者科",
+   "region": "Yunnan",
+   "coordinates": [
+    102.8202,
+    23.0906
+   ],
+   "zoom": 15,
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": 1880,
+   "tagline": "A tiny Hani village of mushroom-roofed houses in the terraces, run as a community tourism project.",
+   "time_needed": "1 night",
+   "nearest_station": "Jianshui (fast rail) + 2.5 h",
+   "description": [
+    "Instead of being bought out by a tourism company, villagers share the ticket income. Guesthouses in restored houses, terrace walks right from the door."
+   ],
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Terrace_field_yunnan_china_denoised.jpg/1280px-Terrace_field_yunnan_china_denoised.jpg",
+     "credit": "Jialiang Gao, www.peace-on-earth.org",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Terrace_field_yunnan_china_denoised.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/1_yuanyang_county_rice_terrace_bada_view_2012.jpg/1280px-1_yuanyang_county_rice_terrace_bada_view_2012.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_county_rice_terrace_bada_view_2012.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2007_1206_Cleared_Hani_rice_terraces.jpg/1280px-2007_1206_Cleared_Hani_rice_terraces.jpg",
+     "credit": "Takeaway",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:2007_1206_Cleared_Hani_rice_terraces.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Honghe_Hani_Rice_Terraces"
+    }
+   ],
+   "tags": [
+    "Hani",
+    "terraces",
+    "community tourism"
+   ]
+  },
+  {
+   "id": "jiaju-danba",
+   "kind": "poi",
+   "category": "village",
+   "name": "Jiaju Tibetan Village (Danba)",
+   "name_zh": "甲居藏寨",
+   "region": "Sichuan",
+   "coordinates": [
+    101.8785,
+    30.9567
+   ],
+   "zoom": 13,
+   "wow": 5,
+   "crowds": 2,
+   "elevation_m": [
+    1900,
+    2300
+   ],
+   "tagline": "Painted Jiarong Tibetan houses scattered across a sunny mountainside: one of China's loveliest villages.",
+   "time_needed": "2 nights",
+   "nearest_station": "none: Chengdu by road 6–7 h",
+   "description": [
+    "Stay with a Tibetan family, walk up through orchards to the top houses, and visit the ancient stone watchtowers of nearby **Suopo** and the plateau village of **Zhonglu**."
+   ],
+   "april": "Pear and apricot blossom season.",
+   "health": "Sleeping at ~2,000–2,200 m, below the threshold. The roads in cross higher passes.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Danba%2C_Sichuan.jpg/1280px-Danba%2C_Sichuan.jpg",
+     "credit": "Rduta",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Danba,_Sichuan.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/1_Seda_facing_south.jpg/1280px-1_Seda_facing_south.jpg",
+     "credit": "Chensiyuan",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_Seda_facing_south.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Danba%2C_Sichuan.jpg/1280px-Danba%2C_Sichuan.jpg",
+     "credit": "Rduta",
+     "license": "CC BY 2.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Danba,_Sichuan.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Danba_County"
+    }
+   ],
+   "tags": [
+    "Tibetan",
+    "homestay",
+    "watchtowers"
+   ]
+  },
+  {
+   "id": "bifengxia",
+   "kind": "poi",
+   "category": "wildlife",
+   "name": "Bifengxia Panda Base",
+   "name_zh": "碧峰峡大熊猫基地",
+   "region": "Sichuan",
+   "coordinates": [
+    103.0145,
+    30.1082
+   ],
+   "zoom": 13,
+   "wow": 3,
+   "crowds": 2,
+   "elevation_m": 1000,
+   "tagline": "Pandas in green gorge-side enclosures, plus a canyon walk, without the Chengdu crowds.",
+   "time_needed": "1 day",
+   "nearest_station": "Ya'an (fast rail)",
+   "description": [
+    "Part of the China Conservation and Research Centre for the Giant Panda. Pairs well with Mengdingshan tea and Shangli old town."
+   ],
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bifeng_Canyon.jpg/1280px-Bifeng_Canyon.jpg",
+     "credit": "NoGhost",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bifeng_Canyon.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bifeng_Canyon.jpg/1280px-Bifeng_Canyon.jpg",
+     "credit": "NoGhost",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Bifeng_Canyon.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Bifengxia"
+    }
+   ],
+   "tags": [
+    "pandas"
+   ]
+  },
+  {
+   "id": "huanglong",
+   "kind": "poi",
+   "category": "nature",
+   "name": "Huanglong",
+   "name_zh": "黄龙",
+   "region": "Sichuan",
+   "coordinates": [
+    103.8276,
+    32.743
+   ],
+   "zoom": 13,
+   "wow": 5,
+   "crowds": 4,
+   "elevation_m": [
+    3100,
+    3600
+   ],
+   "tagline": "A golden 'dragon' of travertine pools snaking up a valley below 5,588 m Xuebaoding.",
+   "time_needed": "1 day",
+   "nearest_station": "Huanglong Jiuzhai (HSR)",
+   "description": [
+    "Thousands of terraced calcite pools in shades of turquoise. A cable car goes up; walk down."
+   ],
+   "health": "**3,100–3,600 m**: altitude sickness is common here even on a day trip.",
+   "photos": [],
+   "links": [],
+   "tags": [
+    "UNESCO",
+    "travertine",
+    "high altitude"
+   ]
+  },
+  {
+   "id": "jiuzhaigou",
+   "kind": "poi",
+   "category": "nature",
+   "name": "Jiuzhaigou Valley",
+   "name_zh": "九寨沟",
+   "region": "Sichuan",
+   "coordinates": [
+    103.92,
+    33.26
+   ],
+   "zoom": 11,
+   "wow": 5,
+   "crowds": 5,
+   "elevation_m": [
+    2000,
+    3100
+   ],
+   "tagline": "Lakes in colours that look photoshopped, waterfalls and Tibetan villages: the most famous national park in China.",
+   "time_needed": "1–2 days",
+   "nearest_station": "Huanglong Jiuzhai (HSR)",
+   "description": [
+    "Bus to the top of one of the two upper branches and walk down boardwalks past Five-Flower Lake, Pearl Shoal and Nuorilang falls. Daily visitor cap; book tickets ahead."
+   ],
+   "crowd_tips": "Be at the gate at opening; avoid holidays.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/1280px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg",
+     "credit": "Chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1_jiuzhaigou_valley_five_colour_pond_2011.JPG/1280px-1_jiuzhaigou_valley_five_colour_pond_2011.JPG",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_five_colour_pond_2011.JPG"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/1_jiuzhaigou_valley_long_lake_chang_hai_2011.jpg/1280px-1_jiuzhaigou_valley_long_lake_chang_hai_2011.jpg",
+     "credit": "chensiyuan",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_long_lake_chang_hai_2011.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Jiuzhaigou"
+    }
+   ],
+   "tags": [
+    "UNESCO",
+    "lakes"
+   ]
+  },
+  {
+   "id": "gongtan",
+   "kind": "poi",
+   "category": "village",
+   "name": "Gongtan Ancient Town",
+   "name_zh": "龚滩古镇",
+   "region": "Chongqing",
+   "coordinates": [
+    108.38,
+    28.88
+   ],
+   "zoom": 13,
+   "wow": 4,
+   "crowds": 2,
+   "elevation_m": 300,
+   "tagline": "A Tujia stilt-house town clinging to the cliffs of the emerald Wujiang.",
+   "time_needed": "1 night",
+   "nearest_station": "Youyang / Pengshui West (HSR) + road",
+   "description": [
+    "Relocated stone by stone when a dam raised the river, Gongtan still feels authentic: stone-slab lanes, wooden houses on stilts, river views from every guesthouse."
+   ],
+   "photos": [],
+   "links": [],
+   "tags": [
+    "Tujia",
+    "river town"
+   ]
+  },
+  {
+   "id": "baidicheng-kuimen",
+   "kind": "poi",
+   "category": "culture",
+   "name": "Baidicheng & Kuimen (Qutang Gorge)",
+   "name_zh": "白帝城 · 夔门",
+   "region": "Chongqing",
+   "coordinates": [
+    109.5705,
+    31.0434
+   ],
+   "zoom": 13,
+   "wow": 5,
+   "crowds": 3,
+   "elevation_m": [
+    175,
+    500
+   ],
+   "tagline": "A temple on a former hilltop island at the entrance to the Three Gorges, facing the cliffs on the 10-yuan note.",
+   "time_needed": "Half a day",
+   "nearest_station": "Fengjie (HSR)",
+   "description": [
+    "Baidicheng (White Emperor City) is steeped in Three Kingdoms legend and Li Bai's poetry. The view into Qutang Gorge through the Kuimen gate is the classic image of the Yangtze."
+   ],
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/20250523_Baidi_Miao.jpg/1280px-20250523_Baidi_Miao.jpg",
+     "credit": "Yumeto",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:20250523_Baidi_Miao.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/20250523_Baidi_Miao.jpg/1280px-20250523_Baidi_Miao.jpg",
+     "credit": "Yumeto",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:20250523_Baidi_Miao.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/20250523_Baidi_Shan.jpg/1280px-20250523_Baidi_Shan.jpg",
+     "credit": "Yumeto",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:20250523_Baidi_Shan.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Baidicheng"
+    }
+   ],
+   "tags": [
+    "Yangtze",
+    "gorges",
+    "history"
+   ]
+  },
+  {
+   "id": "jinfoshan",
+   "kind": "poi",
+   "category": "nature",
+   "name": "Jinfoshan",
+   "name_zh": "金佛山",
+   "region": "Chongqing",
+   "coordinates": [
+    107.1927,
+    29.0344
+   ],
+   "zoom": 12,
+   "wow": 4,
+   "crowds": 3,
+   "elevation_m": [
+    1000,
+    2238
+   ],
+   "tagline": "A cliff-ringed karst table mountain with cave temples, ancient forest and rare golden-hair monkeys nearby.",
+   "time_needed": "1 day",
+   "nearest_station": "Nanchuan North (HSR)",
+   "description": [
+    "Part of the South China Karst UNESCO site. Cable car up the 300 m cliffs; walk the cliff-top path and the Golden Buddha cave."
+   ],
+   "photos": [],
+   "links": [],
+   "tags": [
+    "karst",
+    "UNESCO",
+    "forest"
+   ]
+  },
+  {
+   "id": "qingcheng-houshan",
+   "kind": "poi",
+   "category": "hike",
+   "name": "Qingcheng Back Mountain",
+   "name_zh": "青城后山",
+   "region": "Sichuan",
+   "coordinates": [
+    103.5,
+    30.94
+   ],
+   "zoom": 13,
+   "wow": 3,
+   "crowds": 3,
+   "elevation_m": [
+    1000,
+    1600
+   ],
+   "tagline": "Gorge trails, waterfalls and village guesthouses on the quiet side of the Taoist mountain.",
+   "time_needed": "1 day",
+   "nearest_station": "Qingchengshan (HSR)",
+   "description": [
+    "Walk the Feiquan gorge and the trail up to Baiyun temple; stay in Tai'an old town at the trailhead."
+   ],
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg/1280px-%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg",
+     "credit": "Nyx Ning",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg"
+    },
+    {
+     "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg",
+     "credit": "Colegota",
+     "license": "CC BY-SA 2.5 es",
+     "link": "https://commons.wikimedia.org/wiki/File:Chengdu-pandas-d10.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/FRONT_GATE_OF_QINGCHENG.JPG/1280px-FRONT_GATE_OF_QINGCHENG.JPG",
+     "credit": "A0110110010",
+     "license": "CC0",
+     "link": "https://commons.wikimedia.org/wiki/File:FRONT_GATE_OF_QINGCHENG.JPG"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Mount_Qingcheng"
+    }
+   ],
+   "tags": [
+    "hiking",
+    "Taoism"
+   ]
+  },
+  {
+   "id": "fanjingshan",
+   "kind": "poi",
+   "category": "nature",
+   "name": "Fanjingshan",
+   "name_zh": "梵净山",
+   "region": "Guizhou",
+   "coordinates": [
+    108.6921,
+    27.9194
+   ],
+   "zoom": 12,
+   "wow": 5,
+   "crowds": 4,
+   "elevation_m": [
+    500,
+    2572
+   ],
+   "tagline": "A sacred Buddhist mountain whose 'Mushroom Rock' and twin-temple pinnacle (Red Clouds Golden Summit) rise from cloud forest.",
+   "time_needed": "1–2 days",
+   "nearest_station": "Tongren or Tongren South (HSR) + 1–1.5 h by road",
+   "description": [
+    "UNESCO natural site and home of the endemic Guizhou snub-nosed monkey. Cable car to ~2,200 m, then steep steps (chains!) up the Golden Summit pinnacle. Stay at **Yunshe** or **Zhaisha** villages at the foot."
+   ],
+   "crowd_tips": "Daily visitor caps; book tickets; weekdays.",
+   "health": "The summit area is ~2,300–2,500 m; the highest peak (Fenghuangshan, 2,572 m) is off-limits. Fine as a day visit.",
+   "photos": [
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/A_view_over_Cheng%27en_Temple%2C_Mount_Fanjing%2C_31_March_2020b.jpg/1280px-A_view_over_Cheng%27en_Temple%2C_Mount_Fanjing%2C_31_March_2020b.jpg",
+     "credit": "Huangdan2060",
+     "license": "CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:A_view_over_Cheng%27en_Temple,_Mount_Fanjing,_31_March_2020b.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Buddhist_temple_on_Red_Clouds_Golden_Summit%2C_Mount_Fanjing%2C_31_March_2020h.jpg/1280px-Buddhist_temple_on_Red_Clouds_Golden_Summit%2C_Mount_Fanjing%2C_31_March_2020h.jpg",
+     "credit": "Huangdan2060",
+     "license": "CC BY 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Buddhist_temple_on_Red_Clouds_Golden_Summit,_Mount_Fanjing,_31_March_2020h.jpg"
+    },
+    {
+     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/China_edcp_relief_location_map.jpg/1280px-China_edcp_relief_location_map.jpg",
+     "credit": "Uwe Dedering",
+     "license": "CC BY-SA 3.0",
+     "link": "https://commons.wikimedia.org/wiki/File:China_edcp_relief_location_map.jpg"
+    }
+   ],
+   "links": [
+    {
+     "label": "Wikipedia",
+     "url": "https://en.wikipedia.org/wiki/Fanjingshan"
+    }
+   ],
+   "tags": [
+    "UNESCO",
+    "Buddhism",
+    "cloud forest"
+   ]
   }
  ]
 }

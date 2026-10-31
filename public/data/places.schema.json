@@ -3,45 +3,225 @@
   "title": "Seidenstrasse places",
   "description": "Points of interest and areas shown on the map. Edit public/data/places.json; VS Code validates against this schema.",
   "type": "object",
-  "required": ["places"],
+  "required": [
+    "places"
+  ],
   "properties": {
     "places": {
       "type": "array",
       "items": {
         "type": "object",
-        "required": ["id", "kind", "category", "name", "region", "coordinates", "wow", "crowds"],
+        "required": [
+          "id",
+          "kind",
+          "category",
+          "name",
+          "region",
+          "coordinates",
+          "wow",
+          "crowds"
+        ],
         "properties": {
-          "id": {"type": "string", "pattern": "^[a-z0-9-]+$", "description": "Unique slug, used in share links (?place=id)"},
-          "kind": {"enum": ["poi", "area"], "description": "area = also draw `geometry` as a shaded polygon"},
-          "category": {"enum": ["nature", "hike", "wildlife", "village", "culture", "city", "market"]},
-          "name": {"type": "string"},
-          "name_zh": {"type": "string", "description": "Chinese name (shown large, with a copy button for taxis / booking apps)"},
-          "region": {"type": "string", "description": "Province; list order follows REGIONS in js/config.js"},
-          "coordinates": {"type": "array", "items": {"type": "number"}, "minItems": 2, "maxItems": 2, "description": "[longitude, latitude] (WGS84, as on OpenStreetMap, NOT Amap/Baidu)"},
-          "zoom": {"type": "number", "description": "Zoom level used when flying to the place"},
-          "geometry": {"type": "object", "description": "GeoJSON Polygon/MultiPolygon for areas (see scripts/osm_area.py or draw one at geojson.io)"},
-          "wow": {"type": "integer", "minimum": 1, "maximum": 5},
-          "crowds": {"type": "integer", "minimum": 1, "maximum": 5, "description": "People density in late April, outside public holidays"},
-          "elevation_m": {"oneOf": [{"type": "number"}, {"type": "array", "items": {"type": "number"}, "minItems": 2, "maxItems": 2}], "description": "Single value or [min, max] in metres; >2500 triggers warnings & the low-altitude filter"},
-          "tagline": {"type": "string"},
-          "time_needed": {"type": "string"},
-          "access": {"type": "string", "description": "Markdown"},
-          "nearest_station": {"type": "string"},
-          "best_for": {"type": "string"},
-          "description": {"oneOf": [{"type": "string"}, {"type": "array", "items": {"type": "string"}}], "description": "Markdown paragraphs (**bold**, *italic*, [link](url), '- ' lists)"},
-          "highlights": {"type": "array", "items": {"type": "string"}},
-          "crowd_tips": {"type": "string"},
-          "april": {"type": "string"},
-          "health": {"type": "string"},
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$",
+            "description": "Unique slug, used in share links (?place=id)"
+          },
+          "kind": {
+            "enum": [
+              "poi",
+              "area",
+              "region"
+            ],
+            "description": "poi = single spot (marker); area = official boundary such as a national park (solid shaded polygon + marker); region = an area worth roaming/road-tripping (hatched polygon with a map label, no marker). Spots may lie inside areas and regions."
+          },
+          "category": {
+            "enum": [
+              "nature",
+              "hike",
+              "wildlife",
+              "village",
+              "culture",
+              "city",
+              "market"
+            ]
+          },
+          "name": {
+            "type": "string"
+          },
+          "name_zh": {
+            "type": "string",
+            "description": "Chinese name (shown large, with a copy button for taxis / booking apps)"
+          },
+          "region": {
+            "type": "string",
+            "description": "Province; list order follows REGIONS in js/config.js"
+          },
+          "coordinates": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 2,
+            "maxItems": 2,
+            "description": "[longitude, latitude] (WGS84, as on OpenStreetMap, NOT Amap/Baidu)"
+          },
+          "zoom": {
+            "type": "number",
+            "description": "Zoom level used when flying to the place"
+          },
+          "geometry": {
+            "type": "object",
+            "description": "GeoJSON Polygon/MultiPolygon. Required for areas and regions (see scripts/region_from_points.py, scripts/osm_area.py or geojson.io)"
+          },
+          "wow": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+          },
+          "crowds": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5,
+            "description": "People density in late April, outside public holidays"
+          },
+          "elevation_m": {
+            "oneOf": [
+              {
+                "type": "number"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "number"
+                },
+                "minItems": 2,
+                "maxItems": 2
+              }
+            ],
+            "description": "Single value or [min, max] in metres; >2500 triggers warnings & the low-altitude filter"
+          },
+          "tagline": {
+            "type": "string"
+          },
+          "time_needed": {
+            "type": "string"
+          },
+          "access": {
+            "type": "string",
+            "description": "Markdown"
+          },
+          "nearest_station": {
+            "type": "string"
+          },
+          "best_for": {
+            "type": "string"
+          },
+          "description": {
+            "oneOf": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            ],
+            "description": "Markdown paragraphs (**bold**, *italic*, [link](url), '- ' lists)"
+          },
+          "highlights": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "crowd_tips": {
+            "type": "string"
+          },
+          "april": {
+            "type": "string"
+          },
+          "health": {
+            "type": "string"
+          },
           "photos": {
             "type": "array",
             "items": {
-              "type": "object", "required": ["src"],
-              "properties": {"src": {"type": "string"}, "credit": {"type": "string"}, "license": {"type": "string"}, "link": {"type": "string"}}
+              "type": "object",
+              "required": [
+                "src"
+              ],
+              "properties": {
+                "src": {
+                  "type": "string"
+                },
+                "credit": {
+                  "type": "string"
+                },
+                "license": {
+                  "type": "string"
+                },
+                "link": {
+                  "type": "string"
+                }
+              }
             }
           },
-          "links": {"type": "array", "items": {"type": "object", "required": ["label", "url"], "properties": {"label": {"type": "string"}, "url": {"type": "string"}}}},
-          "tags": {"type": "array", "items": {"type": "string"}}
+          "links": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "label",
+                "url"
+              ],
+              "properties": {
+                "label": {
+                  "type": "string"
+                },
+                "url": {
+                  "type": "string"
+                }
+              }
+            }
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "short_name": {
+            "type": "string",
+            "description": "Regions: shorter label drawn on the map"
+          },
+          "label_at": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 2,
+            "maxItems": 2,
+            "description": "Regions: [lon, lat] for the map label (defaults to coordinates)"
+          },
+          "base_elevation_m": {
+            "type": "number",
+            "description": "Typical overnight elevation; used by the 'hide places above 2,500 m' filter for regions"
+          },
+          "getting_around": {
+            "type": "string",
+            "description": "Markdown: transport inside the region"
+          },
+          "stay": {
+            "type": "string",
+            "description": "Markdown: where to base yourself / accommodation ideas"
+          },
+          "route_idea": {
+            "type": "string",
+            "description": "Markdown: suggested loop or itinerary"
+          }
         }
       }
     }

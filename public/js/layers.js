@@ -14,6 +14,7 @@ export const GROUPS = {
   railConv: ['rail-conventional'],
   stations: ['stations-other', 'stations-fast', 'stations-hsr', 'stations-label-other', 'stations-label-fast', 'stations-label-hsr'],
   places: ['place-areas-fill', 'place-areas-line'],
+  regions: ['regions-tint', 'regions-fill', 'regions-line', 'regions-casing', 'region-labels'],
   disease: ['health-fill', 'health-line'],
 };
 
@@ -43,6 +44,8 @@ export async function buildStyle(climateMeta) {
     stations: { type: 'geojson', data: 'data/stations.geojson' },
     health: { type: 'geojson', data: { type: 'FeatureCollection', features: [] } },
     'place-areas': { type: 'geojson', data: { type: 'FeatureCollection', features: [] }, promoteId: 'id' },
+    regions: { type: 'geojson', data: { type: 'FeatureCollection', features: [] }, promoteId: 'id' },
+    'region-labels': { type: 'geojson', data: { type: 'FeatureCollection', features: [] } },
   });
 
   const satellite = {
@@ -93,6 +96,42 @@ export async function buildStyle(climateMeta) {
       paint: {
         'line-color': ['get', 'color'], 'line-width': 1.5, 'line-opacity': 0.9,
         'line-dasharray': ['case', ['get', 'dashed'], ['literal', [3, 2]], ['literal', [1, 0]]],
+      },
+    },
+    {
+      id: 'regions-tint', type: 'fill', source: 'regions',
+      paint: {
+        'fill-color': ['get', 'color'],
+        'fill-opacity': ['case',
+          ['boolean', ['feature-state', 'active'], false], 0.16,
+          ['boolean', ['feature-state', 'hover'], false], 0.12, 0.06],
+      },
+    },
+    {
+      id: 'regions-fill', type: 'fill', source: 'regions',
+      paint: {
+        'fill-pattern': ['concat', 'hatch-', ['get', 'category']],
+        'fill-opacity': ['interpolate', ['linear'], ['zoom'],
+          5, ['case', ['boolean', ['feature-state', 'active'], false], 0.9, ['boolean', ['feature-state', 'hover'], false], 0.85, 0.6],
+          9, ['case', ['boolean', ['feature-state', 'active'], false], 0.45, ['boolean', ['feature-state', 'hover'], false], 0.5, 0.3]],
+      },
+    },
+    {
+      id: 'regions-casing', type: 'line', source: 'regions',
+      layout: { 'line-join': 'round' },
+      paint: { 'line-color': '#ffffff', 'line-width': ['interpolate', ['linear'], ['zoom'], 4, 3.5, 10, 6.5], 'line-opacity': 0.55 },
+    },
+    {
+      id: 'regions-line', type: 'line', source: 'regions',
+      layout: { 'line-join': 'round', 'line-cap': 'round' },
+      paint: {
+        'line-color': ['get', 'color'],
+        'line-opacity': 0.95,
+        'line-width': ['interpolate', ['linear'], ['zoom'],
+          4, ['case', ['boolean', ['feature-state', 'active'], false], 3, 1.8],
+          8, ['case', ['boolean', ['feature-state', 'active'], false], 4, 2.6],
+          12, ['case', ['boolean', ['feature-state', 'active'], false], 5, 3.5]],
+        'line-dasharray': [2.5, 1.5],
       },
     },
     {
@@ -156,6 +195,23 @@ export async function buildStyle(climateMeta) {
     stationLabel('stations-label-other', notMain, 10.5, kindColor),
     stationLabel('stations-label-fast', isKind('fast'), 9, kindColor),
     stationLabel('stations-label-hsr', isKind('hsr'), 7.5, kindColor),
+    {
+      id: 'region-labels', type: 'symbol', source: 'region-labels', minzoom: 4.3, maxzoom: 10.5,
+      layout: {
+        'text-field': ['get', 'name'],
+        'text-font': ['Noto Sans Italic'],
+        'text-size': ['interpolate', ['linear'], ['zoom'], 4.3, 11, 7, 14, 10, 16],
+        'text-letter-spacing': 0.04,
+        'text-max-width': 9,
+        'text-allow-overlap': false,
+        'symbol-sort-key': ['-', 5, ['get', 'wow']],
+      },
+      paint: {
+        'text-color': ['get', 'color'],
+        'text-halo-color': 'rgba(255,255,255,0.95)', 'text-halo-width': 2, 'text-halo-blur': 0.5,
+        'text-opacity': ['interpolate', ['linear'], ['zoom'], 9.5, 1, 10.5, 0],
+      },
+    },
   ];
 
   style.layers.splice(firstSymbol, 0, ...below);

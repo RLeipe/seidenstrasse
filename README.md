@@ -14,6 +14,7 @@ Live at **https://seidenstrasse.romanleipe.com** (once deployed, see below).
 | **Health & disease risk** | Aedes zones (dengue / chikungunya / Zika vector), rare malaria border areas, Japanese encephalitis; click a zone for details, April seasonality, pregnancy notes and sources | Curated from CDC, WHO, China CDC and the published literature |
 | **April climate** | Average April high, low and rainfall | WorldClim 2.1 (1970–2000 normals, ~9 km) |
 | **Cursor read-out** | Elevation + April high/low/rain at the mouse position (tap on mobile) | as above |
+| **Regions to explore** | Hatched, labelled zones worth roaming (road trips, village stays, off the highlight circuit), with *getting around*, *where to stay*, *route idea*, and a list of the spots inside | `public/data/places.json` (`"kind": "region"`) |
 | **Places & areas** | Points of interest and shaded areas with a slide-in detail panel: photos, ★ wow factor, 👥 people density, elevation warning, access, April notes, health notes, links (incl. Amap) | `public/data/places.json` |
 | **Filters** | Min. wow, max. crowds, category, search, "hide places above 2,500 m", ♥ shortlist (stored in the browser) | |
 | Base maps | Vector map (OpenFreeMap) with English + Chinese labels, satellite (Esri), hillshade, **3D terrain** | |
@@ -119,10 +120,21 @@ Edit `public/data/places.json`; each entry is one place. Minimal example:
 - **Fields:** see `public/data/places.schema.json` for everything (time_needed, access, nearest_station, best_for, highlights, crowd_tips, zoom …).
 - **`category`:** `nature`, `hike`, `wildlife`, `village`, `culture`, `city` or `market` (colours and icons are in `public/js/config.js`).
 - **`coordinates`:** `[longitude, latitude]` in WGS84, as on OpenStreetMap or Google Maps outside China. Do **not** use Amap/Baidu coordinates, which are shifted.
-- **Areas:** set `"kind": "area"` and add a GeoJSON `"geometry"` (Polygon/MultiPolygon). Either draw it at [geojson.io](https://geojson.io) and paste the `geometry` object, or pull an official boundary from OpenStreetMap:
-  ```bash
-  python3 scripts/osm_area.py relation 13556512   # e.g. Giant Panda National Park
-  ```
+- **Three kinds of entries:**
+  - `"poi"`: a single spot (marker).
+  - `"area"`: an official boundary such as a national park (solid shaded polygon plus marker). Pull the boundary from OpenStreetMap:
+    ```bash
+    python3 scripts/osm_area.py relation 13556512   # e.g. Giant Panda National Park
+    ```
+  - `"region"`: a zone worth roaming (hatched polygon with a map label). Extra fields: `short_name` (map label), `base_elevation_m` (typical overnight altitude), `getting_around`, `stay`, `route_idea`. Generate a smooth outline around anchor towns:
+    ```bash
+    # convex hull of the anchors, buffered by 6 km, clipped to China
+    python3 scripts/region_from_points.py --km 6 --clip build/admin.geojson 99.852,26.3195 99.9046,26.5401 99.3781,25.918
+    # --path: buffer the route through the anchors in order (valleys, rivers, road trips)
+    python3 scripts/region_from_points.py --km 6 --path 98.8628,25.8588 98.9154,26.5573 98.6215,28.0181
+    ```
+    Or draw it by hand at [geojson.io](https://geojson.io) and paste the `geometry` object.
+  - Spots inside an area or region are detected automatically. A region's panel lists them, and a spot's panel links back to its region.
 - **Photos:** fetch coordinates and freely licensed photos from a Wikipedia article, then copy them into the site:
   ```bash
   pip install pillow shapely
