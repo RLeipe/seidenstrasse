@@ -123,7 +123,7 @@ export function showPlace(p, { shortlisted, onShortlist, inside = [], partOf = [
   open(`
     ${gallery(p.photos, isRegion ? '🗺️' : cat.icon)}
     <div class="detail-body">
-      <div class="kicker" style="--c:${cat.color}"><i></i>${kindLabel ? `<b>${kindLabel}</b> · ` : ''}${esc(cat.label)} · ${esc(p.region)}</div>
+      <div class="kicker" style="--c:${cat.color}"><i></i><span>${kindLabel ? `<b>${kindLabel}</b> · ` : ''}${esc(cat.label)} · ${esc(p.region)}</span></div>
       <h2>${esc(p.name)}</h2>
       ${p.name_zh ? `<div class="zh">${esc(p.name_zh)}<button data-copy="${esc(p.name_zh)}" title="Copy Chinese name (for taxis, booking apps)">copy</button></div>` : ''}
       ${p.tagline ? `<p class="tagline">${inline(p.tagline)}</p>` : ''}

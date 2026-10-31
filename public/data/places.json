@@ -4083,22 +4083,20 @@
    "april": "~24 °C, humid, first heavy showers; sea still fresh.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/HK_LaiChiWo_MainEntranceGateway.JPG/1280px-HK_LaiChiWo_MainEntranceGateway.JPG",
+     "src": "photos/hk-wild-east-1.jpg",
      "credit": "Chong Fat",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:HK_LaiChiWo_MainEntranceGateway.JPG"
+     "link": "https://commons.wikimedia.org/wiki/File:HK_LaiChiWo_MainEntranceGateway.JPG",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/HK_LaiChiWo_MainEntranceGateway.JPG/1280px-HK_LaiChiWo_MainEntranceGateway.JPG",
+     "thumb": "photos/hk-wild-east-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/HK_LCWSA_FiveFingeredCamphorTree.JPG/1280px-HK_LCWSA_FiveFingeredCamphorTree.JPG",
+     "src": "photos/hk-wild-east-3.jpg",
      "credit": "Chong Fat",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:HK_LCWSA_FiveFingeredCamphorTree.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HK_LaiChiWoSpecialArea.JPG/1280px-HK_LaiChiWoSpecialArea.JPG",
-     "credit": "Chong Fat",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:HK_LaiChiWoSpecialArea.JPG"
+     "link": "https://commons.wikimedia.org/wiki/File:HK_LaiChiWoSpecialArea.JPG",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HK_LaiChiWoSpecialArea.JPG/1280px-HK_LaiChiWoSpecialArea.JPG",
+     "thumb": "photos/hk-wild-east-3-thumb.jpg"
     }
    ],
    "links": [
@@ -4239,22 +4237,28 @@
    "april": "Clear mornings possible, often hazy; good hiking temperatures.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1_tai_o_hong_kong_2013.jpg/1280px-1_tai_o_hong_kong_2013.jpg",
+     "src": "photos/lantau-south-1.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_tai_o_hong_kong_2013.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_tai_o_hong_kong_2013.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1_tai_o_hong_kong_2013.jpg/1280px-1_tai_o_hong_kong_2013.jpg",
+     "thumb": "photos/lantau-south-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/1_tai_o_aerial_panorama_2023.jpg/1280px-1_tai_o_aerial_panorama_2023.jpg",
+     "src": "photos/lantau-south-2.jpg",
      "credit": "Chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_tai_o_aerial_panorama_2023.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_tai_o_aerial_panorama_2023.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/1_tai_o_aerial_panorama_2023.jpg/1280px-1_tai_o_aerial_panorama_2023.jpg",
+     "thumb": "photos/lantau-south-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/1_tai_o_fishing_village_hong_kong_2015_panorama.jpg/1280px-1_tai_o_fishing_village_hong_kong_2015_panorama.jpg",
+     "src": "photos/lantau-south-3.jpg",
      "credit": "Chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_tai_o_fishing_village_hong_kong_2015_panorama.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_tai_o_fishing_village_hong_kong_2015_panorama.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/1_tai_o_fishing_village_hong_kong_2015_panorama.jpg/1280px-1_tai_o_fishing_village_hong_kong_2015_panorama.jpg",
+     "thumb": "photos/lantau-south-3-thumb.jpg"
     }
    ],
    "links": [
@@ -4386,10 +4390,12 @@
    "april": "Warm, humid, ~25 °C; beaches quiet before the summer season.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg/1280px-%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg",
+     "src": "photos/dapeng-peninsula-1.jpg",
      "credit": "Iswzo",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg/1280px-%E5%A4%A7%E9%B9%8F%E6%89%80%E5%9F%8E%E5%8D%97%E9%97%A8%E4%B8%9C%E8%B7%AF.jpg",
+     "thumb": "photos/dapeng-peninsula-1-thumb.jpg"
     },
     {
      "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Civic_Center%2C_Shenzhen_Lianhuashan_Park.JPG",
@@ -4398,10 +4404,12 @@
      "link": "https://commons.wikimedia.org/wiki/File:Civic_Center,_Shenzhen_Lianhuashan_Park.JPG"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Dapeng_Fortress_3.jpg/1280px-Dapeng_Fortress_3.jpg",
+     "src": "photos/dapeng-peninsula-3.jpg",
      "credit": "Wishds",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dapeng_Fortress_3.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Dapeng_Fortress_3.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Dapeng_Fortress_3.jpg/1280px-Dapeng_Fortress_3.jpg",
+     "thumb": "photos/dapeng-peninsula-3-thumb.jpg"
     }
    ],
    "links": [
@@ -4540,22 +4548,28 @@
    "april": "Rainy season begins: misty, very green, rivers fuller; 18–25 °C.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/87318-Li-River.jpg/1280px-87318-Li-River.jpg",
+     "src": "photos/li-river-yulong-1.jpg",
      "credit": "xiquinhosilva",
      "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:87318-Li-River.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:87318-Li-River.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/87318-Li-River.jpg/1280px-87318-Li-River.jpg",
+     "thumb": "photos/li-river-yulong-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/87303-Li-River.jpg/1280px-87303-Li-River.jpg",
+     "src": "photos/li-river-yulong-2.jpg",
      "credit": "xiquinhosilva",
      "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:87303-Li-River.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:87303-Li-River.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/87303-Li-River.jpg/1280px-87303-Li-River.jpg",
+     "thumb": "photos/li-river-yulong-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/87400-Li-River.jpg/1280px-87400-Li-River.jpg",
+     "src": "photos/li-river-yulong-3.jpg",
      "credit": "xiquinhosilva",
      "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:87400-Li-River.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:87400-Li-River.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/87400-Li-River.jpg/1280px-87400-Li-River.jpg",
+     "thumb": "photos/li-river-yulong-3-thumb.jpg"
     }
    ],
    "links": [
@@ -4694,22 +4708,20 @@
    "april": "Terraces being flooded and planted; rain likely; ~20 °C.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1_longsheng_ping_an_rice_terrace_2011.jpg/1280px-1_longsheng_ping_an_rice_terrace_2011.jpg",
+     "src": "photos/longsheng-sanjiang-1.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_longsheng_ping_an_rice_terrace_2011.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_longsheng_ping_an_rice_terrace_2011.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1_longsheng_ping_an_rice_terrace_2011.jpg/1280px-1_longsheng_ping_an_rice_terrace_2011.jpg",
+     "thumb": "photos/longsheng-sanjiang-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1_longsheng_ping_an_rice_terrace_2011.jpg/1280px-1_longsheng_ping_an_rice_terrace_2011.jpg",
-     "credit": "chensiyuan",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_longsheng_ping_an_rice_terrace_2011.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Longsheng-Reisterrassen-28-2012-gje.jpg/1280px-Longsheng-Reisterrassen-28-2012-gje.jpg",
+     "src": "photos/longsheng-sanjiang-3.jpg",
      "credit": "Gerd Eichmann",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Longsheng-Reisterrassen-28-2012-gje.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Longsheng-Reisterrassen-28-2012-gje.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Longsheng-Reisterrassen-28-2012-gje.jpg/1280px-Longsheng-Reisterrassen-28-2012-gje.jpg",
+     "thumb": "photos/longsheng-sanjiang-3-thumb.jpg"
     }
    ],
    "links": [
@@ -4849,22 +4861,12 @@
    "april": "Planting season, green, mild (18–24 °C), rain showers. The Sisters' Meal Festival falls right in your window.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Xijiang_Miao_Village.jpg/1280px-Xijiang_Miao_Village.jpg",
+     "src": "photos/qiandongnan-1.jpg",
      "credit": "SONG1907",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Xijiang_Miao_Village.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Kaili_City.jpg/1280px-Kaili_City.jpg",
-     "credit": "Zhangmoon618",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Kaili_City.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Xijiang_Miao_Village.jpg/1280px-Xijiang_Miao_Village.jpg",
-     "credit": "SONG1907",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Xijiang_Miao_Village.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Xijiang_Miao_Village.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Xijiang_Miao_Village.jpg/1280px-Xijiang_Miao_Village.jpg",
+     "thumb": "photos/qiandongnan-1-thumb.jpg"
     }
    ],
    "links": [
@@ -5009,10 +5011,12 @@
    "april": "Water levels rising, lush; mild and showery.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Xiaoqikong.JPG/1280px-Xiaoqikong.JPG",
+     "src": "photos/libo-maolan-1.jpg",
      "credit": "Fanghong",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Xiaoqikong.JPG"
+     "link": "https://commons.wikimedia.org/wiki/File:Xiaoqikong.JPG",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Xiaoqikong.JPG/1280px-Xiaoqikong.JPG",
+     "thumb": "photos/libo-maolan-1-thumb.jpg"
     }
    ],
    "links": [
@@ -5146,22 +5150,28 @@
    "april": "Spring rain, misty rivers, 15–22 °C.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Fenghuang_County%2C_Hunan%2C_China%2C_21_December_2016b.jpg/1280px-Fenghuang_County%2C_Hunan%2C_China%2C_21_December_2016b.jpg",
+     "src": "photos/xiangxi-1.jpg",
      "credit": "凌晨疯子",
      "license": "CC BY 2.5",
-     "link": "https://commons.wikimedia.org/wiki/File:Fenghuang_County,_Hunan,_China,_21_December_2016b.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Fenghuang_County,_Hunan,_China,_21_December_2016b.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Fenghuang_County%2C_Hunan%2C_China%2C_21_December_2016b.jpg/1280px-Fenghuang_County%2C_Hunan%2C_China%2C_21_December_2016b.jpg",
+     "thumb": "photos/xiangxi-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/1_furong_panorama_2012.jpg/1280px-1_furong_panorama_2012.jpg",
+     "src": "photos/xiangxi-2.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_furong_panorama_2012.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_furong_panorama_2012.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/1_furong_panorama_2012.jpg/1280px-1_furong_panorama_2012.jpg",
+     "thumb": "photos/xiangxi-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dehang_-_panoramio.jpg/1280px-Dehang_-_panoramio.jpg",
+     "src": "photos/xiangxi-3.jpg",
      "credit": "Raki_Man",
      "license": "CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dehang_-_panoramio.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Dehang_-_panoramio.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dehang_-_panoramio.jpg/1280px-Dehang_-_panoramio.jpg",
+     "thumb": "photos/xiangxi-3-thumb.jpg"
     }
    ],
    "links": [
@@ -5311,22 +5321,20 @@
    "april": "Often misty, which is atmospheric but views come and go; 15–22 °C.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "src": "photos/wulingyuan-1.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "thumb": "photos/wulingyuan-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "src": "photos/wulingyuan-3.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg/1280px-1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg",
-     "credit": "chensiyuan",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg/1280px-1_zhangjiajie_huangshizhai_wulingyuan_panorama_2012.jpg",
+     "thumb": "photos/wulingyuan-3-thumb.jpg"
     }
    ],
    "links": [
@@ -5455,22 +5463,20 @@
    "april": "End of the water season and start of planting; dry, sunny, foggy dawns.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/1_yuanyang_rice_terrace_duoyishu_sunrise_2012.jpg/1280px-1_yuanyang_rice_terrace_duoyishu_sunrise_2012.jpg",
+     "src": "photos/honghe-terraces-1.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_rice_terrace_duoyishu_sunrise_2012.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_rice_terrace_duoyishu_sunrise_2012.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/1_yuanyang_rice_terrace_duoyishu_sunrise_2012.jpg/1280px-1_yuanyang_rice_terrace_duoyishu_sunrise_2012.jpg",
+     "thumb": "photos/honghe-terraces-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/1_yuanyang_aerial_pano_2018.jpg/1280px-1_yuanyang_aerial_pano_2018.jpg",
+     "src": "photos/honghe-terraces-2.jpg",
      "credit": "Chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_aerial_pano_2018.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/1_yuanyang_county_old_town_2012.jpg/1280px-1_yuanyang_county_old_town_2012.jpg",
-     "credit": "chensiyuan",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_county_old_town_2012.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_aerial_pano_2018.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/1_yuanyang_aerial_pano_2018.jpg/1280px-1_yuanyang_aerial_pano_2018.jpg",
+     "thumb": "photos/honghe-terraces-2-thumb.jpg"
     }
    ],
    "links": [
@@ -5608,22 +5614,20 @@
    "health": "The lake is at ~1,970 m. The Jade Belt Road is ~2,600 m, fine as a day hike; you sleep lower.",
    "photos": [
     {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Erhai_lake%2C_Yunnan%2C_China.jpg",
+     "src": "photos/erhai-cangshan-1.jpg",
      "credit": "Ariel Steiner (Asteiner)",
      "license": "CC BY 2.5",
-     "link": "https://commons.wikimedia.org/wiki/File:Erhai_lake,_Yunnan,_China.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Erhai_lake,_Yunnan,_China.jpg",
+     "remote": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Erhai_lake%2C_Yunnan%2C_China.jpg",
+     "thumb": "photos/erhai-cangshan-1-thumb.jpg"
     },
     {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Erhai_lake%2C_Yunnan%2C_China.jpg",
-     "credit": "Ariel Steiner (Asteiner)",
-     "license": "CC BY 2.5",
-     "link": "https://commons.wikimedia.org/wiki/File:Erhai_lake,_Yunnan,_China.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Erhai_north_Panorama.jpg/1280px-Erhai_north_Panorama.jpg",
+     "src": "photos/erhai-cangshan-3.jpg",
      "credit": "Fong Chen",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Erhai_north_Panorama.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Erhai_north_Panorama.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Erhai_north_Panorama.jpg/1280px-Erhai_north_Panorama.jpg",
+     "thumb": "photos/erhai-cangshan-3-thumb.jpg"
     }
    ],
    "links": [
@@ -5766,16 +5770,12 @@
      "link": "https://commons.wikimedia.org/wiki/File:Map_of_the_Tea-Horse_road.png"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Markam_County_Tibet.jpg/1280px-Markam_County_Tibet.jpg",
-     "credit": "Reurinkjan",
-     "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Markam_County_Tibet.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Men_Laden_With_Tea%2C_Sichuan_Sheng%2C_China_1908_Ernest_H._Wilson_RESTORED.jpg/1280px-Men_Laden_With_Tea%2C_Sichuan_Sheng%2C_China_1908_Ernest_H._Wilson_RESTORED.jpg",
+     "src": "photos/tea-horse-highlands-3.jpg",
      "credit": "ralph repo",
      "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Men_Laden_With_Tea,_Sichuan_Sheng,_China_1908_Ernest_H._Wilson_RESTORED.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Men_Laden_With_Tea,_Sichuan_Sheng,_China_1908_Ernest_H._Wilson_RESTORED.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Men_Laden_With_Tea%2C_Sichuan_Sheng%2C_China_1908_Ernest_H._Wilson_RESTORED.jpg/1280px-Men_Laden_With_Tea%2C_Sichuan_Sheng%2C_China_1908_Ernest_H._Wilson_RESTORED.jpg",
+     "thumb": "photos/tea-horse-highlands-3-thumb.jpg"
     }
    ],
    "links": [
@@ -5941,22 +5941,28 @@
    "health": "**Lijiang itself is ~2,400 m, right at the threshold.** Haba village is ~2,700 m, Baishuitai ~2,400 m, and the Jade Dragon glacier cable car goes to 4,500 m+, so skip it if pregnant. TLG guesthouses are ~2,000–2,300 m.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Yulong_xue_shan.jpg/1280px-Yulong_xue_shan.jpg",
+     "src": "photos/jade-dragon-1.jpg",
      "credit": "Evilbish",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Yulong_xue_shan.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Yulong_xue_shan.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Yulong_xue_shan.jpg/1280px-Yulong_xue_shan.jpg",
+     "thumb": "photos/jade-dragon-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/1_yulong_xueshan_2012.jpg/1280px-1_yulong_xueshan_2012.jpg",
+     "src": "photos/jade-dragon-2.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_2012.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_2012.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/1_yulong_xueshan_2012.jpg/1280px-1_yulong_xueshan_2012.jpg",
+     "thumb": "photos/jade-dragon-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/1_yulong_xueshan_yak_2012.jpg/1280px-1_yulong_xueshan_yak_2012.jpg",
+     "src": "photos/jade-dragon-3.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_yak_2012.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_yulong_xueshan_yak_2012.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/1_yulong_xueshan_yak_2012.jpg/1280px-1_yulong_xueshan_yak_2012.jpg",
+     "thumb": "photos/jade-dragon-3-thumb.jpg"
     }
    ],
    "links": [
@@ -6102,22 +6108,28 @@
    "health": "**Almost all overnight stops are above 3,000 m** (Shangri-La 3,300 m, Deqin 3,400 m). Not advisable in pregnancy; otherwise acclimatise and ascend gradually.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_%28cropped%29.jpg/1280px-%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_%28cropped%29.jpg",
+     "src": "photos/diqing-plateau-1.jpg",
      "credit": "瑞丽江的河水",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_(cropped).jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_(cropped).jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_%28cropped%29.jpg/1280px-%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_%28cropped%29.jpg",
+     "thumb": "photos/diqing-plateau-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/1_songzanlin_monastery_yunnan_2018.jpg/1280px-1_songzanlin_monastery_yunnan_2018.jpg",
+     "src": "photos/diqing-plateau-2.jpg",
      "credit": "Chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_songzanlin_monastery_yunnan_2018.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_songzanlin_monastery_yunnan_2018.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/1_songzanlin_monastery_yunnan_2018.jpg/1280px-1_songzanlin_monastery_yunnan_2018.jpg",
+     "thumb": "photos/diqing-plateau-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/58956-Gandan-Sumtseling-Monastery_%2827960928333%29.jpg/1280px-58956-Gandan-Sumtseling-Monastery_%2827960928333%29.jpg",
+     "src": "photos/diqing-plateau-3.jpg",
      "credit": "xiquinhosilva",
      "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:58956-Gandan-Sumtseling-Monastery_(27960928333).jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:58956-Gandan-Sumtseling-Monastery_(27960928333).jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/58956-Gandan-Sumtseling-Monastery_%2827960928333%29.jpg/1280px-58956-Gandan-Sumtseling-Monastery_%2827960928333%29.jpg",
+     "thumb": "photos/diqing-plateau-3-thumb.jpg"
     }
    ],
    "links": [
@@ -6291,22 +6303,12 @@
    "health": "Valley floor 800–1,800 m. Side trips (e.g. Dulong tunnel road) go higher; remote, so medical care is hours away.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sweet_View_of_Salween_River_in_Tang_Yan_Township%2C_Shan_State%2C_Myanmar.jpg/1280px-Sweet_View_of_Salween_River_in_Tang_Yan_Township%2C_Shan_State%2C_Myanmar.jpg",
+     "src": "photos/nujiang-valley-1.jpg",
      "credit": "Saosukham",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Sweet_View_of_Salween_River_in_Tang_Yan_Township,_Shan_State,_Myanmar.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Boats_in_the_Salween_River.jpg/1280px-Boats_in_the_Salween_River.jpg",
-     "credit": "Christophe95",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Boats_in_the_Salween_River.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Kaw_Gon_Thanlwin_Bridge.jpg/1280px-Kaw_Gon_Thanlwin_Bridge.jpg",
-     "credit": "kallerna",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Kaw_Gon_Thanlwin_Bridge.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Sweet_View_of_Salween_River_in_Tang_Yan_Township,_Shan_State,_Myanmar.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Sweet_View_of_Salween_River_in_Tang_Yan_Township%2C_Shan_State%2C_Myanmar.jpg/1280px-Sweet_View_of_Salween_River_in_Tang_Yan_Township%2C_Shan_State%2C_Myanmar.jpg",
+     "thumb": "photos/nujiang-valley-1-thumb.jpg"
     }
    ],
    "links": [
@@ -6860,22 +6862,28 @@
    "april": "Spring, dry, ~24 °C.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E8%85%BE%E5%86%B2%E6%96%87%E5%BA%99_-_%E5%A4%A7%E6%88%90%E6%AE%BF_-_2023-08-03_02.jpg/1280px-%E8%85%BE%E5%86%B2%E6%96%87%E5%BA%99_-_%E5%A4%A7%E6%88%90%E6%AE%BF_-_2023-08-03_02.jpg",
+     "src": "photos/tengchong-1.jpg",
      "credit": "瑞丽江的河水",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E8%85%BE%E5%86%B2%E6%96%87%E5%BA%99_-_%E5%A4%A7%E6%88%90%E6%AE%BF_-_2023-08-03_02.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:%E8%85%BE%E5%86%B2%E6%96%87%E5%BA%99_-_%E5%A4%A7%E6%88%90%E6%AE%BF_-_2023-08-03_02.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/%E8%85%BE%E5%86%B2%E6%96%87%E5%BA%99_-_%E5%A4%A7%E6%88%90%E6%AE%BF_-_2023-08-03_02.jpg/1280px-%E8%85%BE%E5%86%B2%E6%96%87%E5%BA%99_-_%E5%A4%A7%E6%88%90%E6%AE%BF_-_2023-08-03_02.jpg",
+     "thumb": "photos/tengchong-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Heshun_Tengchong_-_panoramio.jpg/1280px-Heshun_Tengchong_-_panoramio.jpg",
+     "src": "photos/tengchong-2.jpg",
      "credit": "oldhouse.yin",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Heshun_Tengchong_-_panoramio.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Heshun_Tengchong_-_panoramio.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Heshun_Tengchong_-_panoramio.jpg/1280px-Heshun_Tengchong_-_panoramio.jpg",
+     "thumb": "photos/tengchong-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Rehai_28.jpg/1280px-Rehai_28.jpg",
+     "src": "photos/tengchong-3.jpg",
      "credit": "STW932",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Rehai_28.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Rehai_28.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Rehai_28.jpg/1280px-Rehai_28.jpg",
+     "thumb": "photos/tengchong-3-thumb.jpg"
     }
    ],
    "links": [
@@ -7015,10 +7023,12 @@
    "health": "**Mosquito zone** (dengue, chikungunya; *Aedes aegypti* present). The tea mountains (1,200–1,800 m) carry much lower risk than Jinghong and the lowlands. If pregnant, think twice.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Jinghongcity.jpg/1280px-Jinghongcity.jpg",
+     "src": "photos/xishuangbanna-1.jpg",
      "credit": "Chlukoe",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Jinghongcity.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Jinghongcity.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Jinghongcity.jpg/1280px-Jinghongcity.jpg",
+     "thumb": "photos/xishuangbanna-1-thumb.jpg"
     },
     {
      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Man_Chunman_Buddhist_Temple%2C_Dai_Ethnic_Garden%2C_Xishuangbanna_Prefecture%2C_China.jpg",
@@ -7027,10 +7037,12 @@
      "link": "https://commons.wikimedia.org/wiki/File:Man_Chunman_Buddhist_Temple,_Dai_Ethnic_Garden,_Xishuangbanna_Prefecture,_China.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/ManpoVillage.jpg/1280px-ManpoVillage.jpg",
+     "src": "photos/xishuangbanna-3.jpg",
      "credit": "User:Doron",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:ManpoVillage.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:ManpoVillage.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/ManpoVillage.jpg/1280px-ManpoVillage.jpg",
+     "thumb": "photos/xishuangbanna-3-thumb.jpg"
     }
    ],
    "links": [
@@ -7433,22 +7445,12 @@
    "health": "Rilong 3,200 m and the Balang tunnel ~3,850 m are high. Danba/Jiaju (~1,900–2,200 m) are fine for overnights.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Danba%2C_Sichuan.jpg/1280px-Danba%2C_Sichuan.jpg",
+     "src": "photos/jiarong-valleys-1.jpg",
      "credit": "Rduta",
      "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Danba,_Sichuan.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/1_Seda_facing_south.jpg/1280px-1_Seda_facing_south.jpg",
-     "credit": "Chensiyuan",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_Seda_facing_south.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Danba%2C_Sichuan.jpg/1280px-Danba%2C_Sichuan.jpg",
-     "credit": "Rduta",
-     "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Danba,_Sichuan.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Danba,_Sichuan.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Danba%2C_Sichuan.jpg/1280px-Danba%2C_Sichuan.jpg",
+     "thumb": "photos/jiarong-valleys-1-thumb.jpg"
     }
    ],
    "links": [
@@ -7648,22 +7650,20 @@
    "april": "Rainy and green (it rains here more than anywhere in Sichuan); ~18 °C.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Ya%27an%2C_August_2020.jpg/1280px-Ya%27an%2C_August_2020.jpg",
+     "src": "photos/yaan-cloud-forests-1.jpg",
      "credit": "Song Yanbo",
      "license": "CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:Ya%27an,_August_2020.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Ya%27an,_August_2020.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Ya%27an%2C_August_2020.jpg/1280px-Ya%27an%2C_August_2020.jpg",
+     "thumb": "photos/yaan-cloud-forests-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/201908_Yazhou_Covered_Bridge.jpg/1280px-201908_Yazhou_Covered_Bridge.jpg",
+     "src": "photos/yaan-cloud-forests-2.jpg",
      "credit": "MNXANL",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:201908_Yazhou_Covered_Bridge.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Erlang_Mountain_Tunnel_%28G318%29.jpg/1280px-Erlang_Mountain_Tunnel_%28G318%29.jpg",
-     "credit": "xue siyang (df45086)",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Erlang_Mountain_Tunnel_(G318).jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:201908_Yazhou_Covered_Bridge.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/201908_Yazhou_Covered_Bridge.jpg/1280px-201908_Yazhou_Covered_Bridge.jpg",
+     "thumb": "photos/yaan-cloud-forests-2-thumb.jpg"
     }
    ],
    "links": [
@@ -7810,22 +7810,28 @@
    "april": "Green and pleasant, ~20 °C; misty.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg/1280px-%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg",
+     "src": "photos/qingcheng-dujiangyan-1.jpg",
      "credit": "Nyx Ning",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg/1280px-%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg",
+     "thumb": "photos/qingcheng-dujiangyan-1-thumb.jpg"
     },
     {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg",
+     "src": "photos/qingcheng-dujiangyan-2.jpg",
      "credit": "Colegota",
      "license": "CC BY-SA 2.5 es",
-     "link": "https://commons.wikimedia.org/wiki/File:Chengdu-pandas-d10.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Chengdu-pandas-d10.jpg",
+     "remote": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg",
+     "thumb": "photos/qingcheng-dujiangyan-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/FRONT_GATE_OF_QINGCHENG.JPG/1280px-FRONT_GATE_OF_QINGCHENG.JPG",
+     "src": "photos/qingcheng-dujiangyan-3.jpg",
      "credit": "A0110110010",
      "license": "CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:FRONT_GATE_OF_QINGCHENG.JPG"
+     "link": "https://commons.wikimedia.org/wiki/File:FRONT_GATE_OF_QINGCHENG.JPG",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/FRONT_GATE_OF_QINGCHENG.JPG/1280px-FRONT_GATE_OF_QINGCHENG.JPG",
+     "thumb": "photos/qingcheng-dujiangyan-3-thumb.jpg"
     }
    ],
    "links": [
@@ -7958,22 +7964,20 @@
    "health": "**Overnights 2,000–3,000 m; Huanglong reaches 3,600 m.** Discuss with your doctor if pregnant.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HuangLong_2002-09-12_02.jpg/1280px-HuangLong_2002-09-12_02.jpg",
+     "src": "photos/jiuzhai-songpan-1.jpg",
      "credit": "",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:HuangLong_2002-09-12_02.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:HuangLong_2002-09-12_02.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/HuangLong_2002-09-12_02.jpg/1280px-HuangLong_2002-09-12_02.jpg",
+     "thumb": "photos/jiuzhai-songpan-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_panorama_of_Songpan_Ancient_City._October_2023.jpg/1280px-Aerial_panorama_of_Songpan_Ancient_City._October_2023.jpg",
+     "src": "photos/jiuzhai-songpan-2.jpg",
      "credit": "Bob Tan",
      "license": "CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Aerial_panorama_of_Songpan_Ancient_City._October_2023.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Aerial_perspective_of_the_Songpan_Ancient_City_walls_and_fort._October_2023.jpg/1280px-Aerial_perspective_of_the_Songpan_Ancient_City_walls_and_fort._October_2023.jpg",
-     "credit": "Bob Tan",
-     "license": "CC BY 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Aerial_perspective_of_the_Songpan_Ancient_City_walls_and_fort._October_2023.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Aerial_panorama_of_Songpan_Ancient_City._October_2023.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Aerial_panorama_of_Songpan_Ancient_City._October_2023.jpg/1280px-Aerial_panorama_of_Songpan_Ancient_City._October_2023.jpg",
+     "thumb": "photos/jiuzhai-songpan-2-thumb.jpg"
     }
    ],
    "links": [
@@ -8113,22 +8117,28 @@
    "april": "Fresh green, ~20 °C below, ~12 °C on the plateau.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg/1280px-%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg",
-     "credit": "rheins",
-     "license": "CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg"
+     "src": "photos/wulong-karst-1.jpg",
+     "credit": "Brookqi",
+     "license": "Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Wulongtianshengsanqiao.JPG",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Wulongtianshengsanqiao.JPG/1280px-Wulongtianshengsanqiao.JPG",
+     "thumb": "photos/wulong-karst-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%E4%BB%99%E5%A5%B3%E5%B1%B1%E9%95%87_-_Xiann%C3%BCshan_Town_-_2015.04_-_panoramio.jpg/1280px-%E4%BB%99%E5%A5%B3%E5%B1%B1%E9%95%87_-_Xiann%C3%BCshan_Town_-_2015.04_-_panoramio.jpg",
-     "credit": "rheins",
-     "license": "CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E4%BB%99%E5%A5%B3%E5%B1%B1%E9%95%87_-_Xiann%C3%BCshan_Town_-_2015.04_-_panoramio.jpg"
+     "src": "photos/wulong-karst-2.jpg",
+     "credit": "Brookqi",
+     "license": "Public domain",
+     "link": "https://commons.wikimedia.org/wiki/File:Furongdongfufashisun.JPG",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Furongdongfufashisun.JPG/1280px-Furongdongfufashisun.JPG",
+     "thumb": "photos/wulong-karst-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg/1280px-%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg",
-     "credit": "rheins",
-     "license": "CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E6%AD%A6%E9%9A%86%E4%B9%8C%E6%B1%9F_-_Wu_River_-_2015.04_-_panoramio.jpg"
+     "src": "photos/wulong-karst-3.jpg",
+     "credit": "Speleologist",
+     "license": "CC BY-SA 4.0",
+     "link": "https://commons.wikimedia.org/wiki/File:Niubizidong_Tiankeng_in_the_snow.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Niubizidong_Tiankeng_in_the_snow.jpg/1280px-Niubizidong_Tiankeng_in_the_snow.jpg",
+     "thumb": "photos/wulong-karst-3-thumb.jpg"
     }
    ],
    "links": [
@@ -8392,22 +8402,12 @@
    "april": "Spring, mild, often misty in the gorges.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Qutang_Gorge_on_Changjiang.jpg/1280px-Qutang_Gorge_on_Changjiang.jpg",
+     "src": "photos/three-gorges-1.jpg",
      "credit": "Tan Wei Liang Byorn",
      "license": "CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Qutang_Gorge_on_Changjiang.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Beauty_and_grandeur%2C_the_Yangtze_gorges%2C_travel_poster%2C_ca._1930.jpg/1280px-Beauty_and_grandeur%2C_the_Yangtze_gorges%2C_travel_poster%2C_ca._1930.jpg",
-     "credit": "Unknown artist for Butterfield &amp; Swire (Shanghai, Hong Kong)",
-     "license": "Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:Beauty_and_grandeur,_the_Yangtze_gorges,_travel_poster,_ca._1930.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/China_edcp_relief_location_map.jpg/1280px-China_edcp_relief_location_map.jpg",
-     "credit": "Uwe Dedering",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:China_edcp_relief_location_map.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Qutang_Gorge_on_Changjiang.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Qutang_Gorge_on_Changjiang.jpg/1280px-Qutang_Gorge_on_Changjiang.jpg",
+     "thumb": "photos/three-gorges-1-thumb.jpg"
     }
    ],
    "links": [
@@ -8586,22 +8586,20 @@
    "crowd_tips": "Arrive at opening (7:30) on a weekday or take the boat.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/36275-Leshan_%2849067653383%29.jpg/1280px-36275-Leshan_%2849067653383%29.jpg",
+     "src": "photos/leshan-buddha-1.jpg",
      "credit": "xiquinhosilva",
      "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383).jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383).jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/36275-Leshan_%2849067653383%29.jpg/1280px-36275-Leshan_%2849067653383%29.jpg",
+     "thumb": "photos/leshan-buddha-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/36273-Leshan_%2849067652118%29.jpg/1280px-36273-Leshan_%2849067652118%29.jpg",
+     "src": "photos/leshan-buddha-2.jpg",
      "credit": "xiquinhosilva",
      "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:36273-Leshan_(49067652118).jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/36275-Leshan_%2849067653383%29.jpg/1280px-36275-Leshan_%2849067653383%29.jpg",
-     "credit": "xiquinhosilva",
-     "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:36275-Leshan_(49067653383).jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:36273-Leshan_(49067652118).jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/36273-Leshan_%2849067652118%29.jpg/1280px-36273-Leshan_%2849067652118%29.jpg",
+     "thumb": "photos/leshan-buddha-2-thumb.jpg"
     }
    ],
    "links": [
@@ -8667,22 +8665,12 @@
    ],
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Leishan%2C_Guizhou%2C_China.JPG/1280px-Leishan%2C_Guizhou%2C_China.JPG",
-     "credit": "Azylber",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Leishan,_Guizhou,_China.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Leishan%2C_Guizhou%2C_China.JPG/1280px-Leishan%2C_Guizhou%2C_China.JPG",
-     "credit": "Azylber",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Leishan,_Guizhou,_China.JPG"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Xi_jiang_Qianhu_Miao_Village_night_view.jpg/1280px-Xi_jiang_Qianhu_Miao_Village_night_view.jpg",
+     "src": "photos/langde-miao-3.jpg",
      "credit": "Hhhh2",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Xi_jiang_Qianhu_Miao_Village_night_view.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Xi_jiang_Qianhu_Miao_Village_night_view.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Xi_jiang_Qianhu_Miao_Village_night_view.jpg/1280px-Xi_jiang_Qianhu_Miao_Village_night_view.jpg",
+     "thumb": "photos/langde-miao-3-thumb.jpg"
     }
    ],
    "links": [
@@ -8777,22 +8765,20 @@
    ],
    "photos": [
     {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Dong-minority-bridge-1.jpg",
+     "src": "photos/chengyang-bridge-1.jpg",
      "credit": "",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Dong-minority-bridge-1.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Dong-minority-bridge-1.jpg",
+     "remote": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Dong-minority-bridge-1.jpg",
+     "thumb": "photos/chengyang-bridge-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-36-50.jpg/1280px-Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-36-50.jpg",
+     "src": "photos/chengyang-bridge-2.jpg",
      "credit": "Zhangzhugang",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-36-50.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-39-10.jpg/1280px-Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-39-10.jpg",
-     "credit": "Zhangzhugang",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-39-10.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-36-50.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-36-50.jpg/1280px-Sanjiang_Chengyang_Yongji_Qiao_2012.10.02_17-36-50.jpg",
+     "thumb": "photos/chengyang-bridge-2-thumb.jpg"
     }
    ],
    "links": [
@@ -8830,10 +8816,12 @@
    "crowd_tips": "Weekdays, early entry.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Xiaoqikong.JPG/1280px-Xiaoqikong.JPG",
+     "src": "photos/xiaoqikong-1.jpg",
      "credit": "Fanghong",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Xiaoqikong.JPG"
+     "link": "https://commons.wikimedia.org/wiki/File:Xiaoqikong.JPG",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Xiaoqikong.JPG/1280px-Xiaoqikong.JPG",
+     "thumb": "photos/xiaoqikong-1-thumb.jpg"
     }
    ],
    "links": [
@@ -8877,16 +8865,20 @@
      "link": "https://commons.wikimedia.org/wiki/File:Fenghuang_hunan.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/1_fenghuang_2018.jpg/1280px-1_fenghuang_2018.jpg",
+     "src": "photos/fenghuang-2.jpg",
      "credit": "Chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_fenghuang_2018.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_fenghuang_2018.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/1_fenghuang_2018.jpg/1280px-1_fenghuang_2018.jpg",
+     "thumb": "photos/fenghuang-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1_fenghuang_ancient_town_hunan_china_2.jpg/1280px-1_fenghuang_ancient_town_hunan_china_2.jpg",
+     "src": "photos/fenghuang-3.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_fenghuang_ancient_town_hunan_china_2.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_fenghuang_ancient_town_hunan_china_2.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/1_fenghuang_ancient_town_hunan_china_2.jpg/1280px-1_fenghuang_ancient_town_hunan_china_2.jpg",
+     "thumb": "photos/fenghuang-3-thumb.jpg"
     }
    ],
    "links": [
@@ -8927,22 +8919,28 @@
    ],
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aizhai_Bridge-11.jpg/1280px-Aizhai_Bridge-11.jpg",
+     "src": "photos/dehang-canyon-1.jpg",
      "credit": "Glabb",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Aizhai_Bridge-11.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Aizhai_Bridge-11.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Aizhai_Bridge-11.jpg/1280px-Aizhai_Bridge-11.jpg",
+     "thumb": "photos/dehang-canyon-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aizhai_Bridge-1.jpg/1280px-Aizhai_Bridge-1.jpg",
+     "src": "photos/dehang-canyon-2.jpg",
      "credit": "Glabb",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Aizhai_Bridge-1.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Aizhai_Bridge-1.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Aizhai_Bridge-1.jpg/1280px-Aizhai_Bridge-1.jpg",
+     "thumb": "photos/dehang-canyon-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Aizhai_Bridge-10.jpg/1280px-Aizhai_Bridge-10.jpg",
+     "src": "photos/dehang-canyon-3.jpg",
      "credit": "Glabb",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Aizhai_Bridge-10.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Aizhai_Bridge-10.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Aizhai_Bridge-10.jpg/1280px-Aizhai_Bridge-10.jpg",
+     "thumb": "photos/dehang-canyon-3-thumb.jpg"
     }
    ],
    "links": [
@@ -8984,22 +8982,12 @@
    "crowd_tips": "Weekday, opening time, walk rather than queue for the elevator.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "src": "photos/zhangjiajie-golden-whip-1.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
-     "credit": "chensiyuan",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/China_edcp_relief_location_map.jpg/1280px-China_edcp_relief_location_map.jpg",
-     "credit": "Uwe Dedering",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:China_edcp_relief_location_map.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/1_tianzishan_wulingyuan_zhangjiajie_2012.jpg/1280px-1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+     "thumb": "photos/zhangjiajie-golden-whip-1-thumb.jpg"
     }
    ],
    "links": [
@@ -9130,22 +9118,20 @@
    "health": "Around 2,400–2,700 m; Haba village sleeps at ~2,650 m.",
    "photos": [
     {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Baishuitai%2C_Yunnan%2C_China.jpg",
+     "src": "photos/baishuitai-1.jpg",
      "credit": "Ariel Steiner",
      "license": "CC BY 2.5",
-     "link": "https://commons.wikimedia.org/wiki/File:Baishuitai,_Yunnan,_China.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Baishuitai,_Yunnan,_China.jpg",
+     "remote": "https://upload.wikimedia.org/wikipedia/commons/8/85/Baishuitai%2C_Yunnan%2C_China.jpg",
+     "thumb": "photos/baishuitai-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/1_baishuitai_2018_aerial_pano_2018.jpg/1280px-1_baishuitai_2018_aerial_pano_2018.jpg",
+     "src": "photos/baishuitai-2.jpg",
      "credit": "Chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_baishuitai_2018_aerial_pano_2018.jpg"
-    },
-    {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Baishuitai%2C_Yunnan%2C_China.jpg",
-     "credit": "Ariel Steiner",
-     "license": "CC BY 2.5",
-     "link": "https://commons.wikimedia.org/wiki/File:Baishuitai,_Yunnan,_China.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_baishuitai_2018_aerial_pano_2018.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/1_baishuitai_2018_aerial_pano_2018.jpg/1280px-1_baishuitai_2018_aerial_pano_2018.jpg",
+     "thumb": "photos/baishuitai-2-thumb.jpg"
     }
    ],
    "links": [
@@ -9186,10 +9172,12 @@
    ],
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E8%B4%A1%E5%B1%B1%E5%8E%BF%E5%9F%8E%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2024-06-02_19.jpg/1280px-%E8%B4%A1%E5%B1%B1%E5%8E%BF%E5%9F%8E%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2024-06-02_19.jpg",
+     "src": "photos/bingzhongluo-1.jpg",
      "credit": "瑞丽江的河水",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E8%B4%A1%E5%B1%B1%E5%8E%BF%E5%9F%8E%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2024-06-02_19.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:%E8%B4%A1%E5%B1%B1%E5%8E%BF%E5%9F%8E%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2024-06-02_19.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E8%B4%A1%E5%B1%B1%E5%8E%BF%E5%9F%8E%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2024-06-02_19.jpg/1280px-%E8%B4%A1%E5%B1%B1%E5%8E%BF%E5%9F%8E%E5%A4%A9%E9%99%85%E7%BA%BF_-_%E8%88%AA%E6%8B%8D_-_2024-06-02_19.jpg",
+     "thumb": "photos/bingzhongluo-1-thumb.jpg"
     },
     {
      "src": "https://upload.wikimedia.org/wikipedia/commons/1/12/A.the_cross.jpg",
@@ -9234,22 +9222,12 @@
    ],
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E7%9F%A5%E5%AD%90%E7%BD%97_-_%E5%85%AB%E8%A7%92%E6%A5%BC_-_%E8%88%AA%E6%8B%8D_-_2024-06-01_01.jpg/1280px-%E7%9F%A5%E5%AD%90%E7%BD%97_-_%E5%85%AB%E8%A7%92%E6%A5%BC_-_%E8%88%AA%E6%8B%8D_-_2024-06-01_01.jpg",
+     "src": "photos/laomudeng-1.jpg",
      "credit": "瑞丽江的河水",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E7%9F%A5%E5%AD%90%E7%BD%97_-_%E5%85%AB%E8%A7%92%E6%A5%BC_-_%E8%88%AA%E6%8B%8D_-_2024-06-01_01.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Txu-oclc-10552568-ng47-6.jpg/1280px-Txu-oclc-10552568-ng47-6.jpg",
-     "credit": "Army Map Service (LD), Corps of Engineers 1954",
-     "license": "Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:Txu-oclc-10552568-ng47-6.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/%E4%B8%8A%E5%B8%95%E8%A1%97_-_2024-06-01_02.jpg/1280px-%E4%B8%8A%E5%B8%95%E8%A1%97_-_2024-06-01_02.jpg",
-     "credit": "瑞丽江的河水",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E4%B8%8A%E5%B8%95%E8%A1%97_-_2024-06-01_02.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:%E7%9F%A5%E5%AD%90%E7%BD%97_-_%E5%85%AB%E8%A7%92%E6%A5%BC_-_%E8%88%AA%E6%8B%8D_-_2024-06-01_01.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%E7%9F%A5%E5%AD%90%E7%BD%97_-_%E5%85%AB%E8%A7%92%E6%A5%BC_-_%E8%88%AA%E6%8B%8D_-_2024-06-01_01.jpg/1280px-%E7%9F%A5%E5%AD%90%E7%BD%97_-_%E5%85%AB%E8%A7%92%E6%A5%BC_-_%E8%88%AA%E6%8B%8D_-_2024-06-01_01.jpg",
+     "thumb": "photos/laomudeng-1-thumb.jpg"
     }
    ],
    "links": [
@@ -9285,20 +9263,7 @@
    "description": [
     "Built with remittances from Burma, Heshun is one of Yunnan's prettiest villages. Stroll the washing pavilions, the library and the residence of the philosopher Ai Siqi."
    ],
-   "photos": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/View_of_Heshun_County_snowy_scenery_from_the_window.jpg/1280px-View_of_Heshun_County_snowy_scenery_from_the_window.jpg",
-     "credit": "Fumikas Sagisavas",
-     "license": "CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:View_of_Heshun_County_snowy_scenery_from_the_window.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/View_of_Heshun_County_snowy_scenery_from_the_window.jpg/1280px-View_of_Heshun_County_snowy_scenery_from_the_window.jpg",
-     "credit": "Fumikas Sagisavas",
-     "license": "CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:View_of_Heshun_County_snowy_scenery_from_the_window.jpg"
-    }
-   ],
+   "photos": [],
    "links": [
     {
      "label": "Wikipedia",
@@ -9332,20 +9297,7 @@
     "Sleep in a tea family's house, pick spring tea, and walk through forests where tea trees grow under the canopy."
    ],
    "april": "Spring tea harvest, the best time to visit.",
-   "photos": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/%E6%BE%9C%E6%B2%A7%E6%8B%89%E7%A5%9C%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF%E4%BD%8D%E7%BD%AE%E5%9B%BE.svg/1280px-%E6%BE%9C%E6%B2%A7%E6%8B%89%E7%A5%9C%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF%E4%BD%8D%E7%BD%AE%E5%9B%BE.svg.png",
-     "credit": "瑞丽江的河水",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E6%BE%9C%E6%B2%A7%E6%8B%89%E7%A5%9C%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF%E4%BD%8D%E7%BD%AE%E5%9B%BE.svg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Txu-oclc-10552568-nf47-7.jpg/1280px-Txu-oclc-10552568-nf47-7.jpg",
-     "credit": "Army Map Service, Corps of Engineers 1957",
-     "license": "Public domain",
-     "link": "https://commons.wikimedia.org/wiki/File:Txu-oclc-10552568-nf47-7.jpg"
-    }
-   ],
+   "photos": [],
    "links": [
     {
      "label": "Wikipedia",
@@ -9381,22 +9333,28 @@
    ],
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Terrace_field_yunnan_china_denoised.jpg/1280px-Terrace_field_yunnan_china_denoised.jpg",
+     "src": "photos/azheke-1.jpg",
      "credit": "Jialiang Gao, www.peace-on-earth.org",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Terrace_field_yunnan_china_denoised.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Terrace_field_yunnan_china_denoised.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Terrace_field_yunnan_china_denoised.jpg/1280px-Terrace_field_yunnan_china_denoised.jpg",
+     "thumb": "photos/azheke-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/1_yuanyang_county_rice_terrace_bada_view_2012.jpg/1280px-1_yuanyang_county_rice_terrace_bada_view_2012.jpg",
+     "src": "photos/azheke-2.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_county_rice_terrace_bada_view_2012.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_yuanyang_county_rice_terrace_bada_view_2012.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/1_yuanyang_county_rice_terrace_bada_view_2012.jpg/1280px-1_yuanyang_county_rice_terrace_bada_view_2012.jpg",
+     "thumb": "photos/azheke-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2007_1206_Cleared_Hani_rice_terraces.jpg/1280px-2007_1206_Cleared_Hani_rice_terraces.jpg",
+     "src": "photos/azheke-3.jpg",
      "credit": "Takeaway",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:2007_1206_Cleared_Hani_rice_terraces.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:2007_1206_Cleared_Hani_rice_terraces.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/2007_1206_Cleared_Hani_rice_terraces.jpg/1280px-2007_1206_Cleared_Hani_rice_terraces.jpg",
+     "thumb": "photos/azheke-3-thumb.jpg"
     }
    ],
    "links": [
@@ -9437,26 +9395,7 @@
    ],
    "april": "Pear and apricot blossom season.",
    "health": "Sleeping at ~2,000–2,200 m, below the threshold. The roads in cross higher passes.",
-   "photos": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Danba%2C_Sichuan.jpg/1280px-Danba%2C_Sichuan.jpg",
-     "credit": "Rduta",
-     "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Danba,_Sichuan.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/1_Seda_facing_south.jpg/1280px-1_Seda_facing_south.jpg",
-     "credit": "Chensiyuan",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_Seda_facing_south.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Danba%2C_Sichuan.jpg/1280px-Danba%2C_Sichuan.jpg",
-     "credit": "Rduta",
-     "license": "CC BY 2.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Danba,_Sichuan.jpg"
-    }
-   ],
+   "photos": [],
    "links": [
     {
      "label": "Wikipedia",
@@ -9490,20 +9429,7 @@
    "description": [
     "Part of the China Conservation and Research Centre for the Giant Panda. Pairs well with Mengdingshan tea and Shangli old town."
    ],
-   "photos": [
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bifeng_Canyon.jpg/1280px-Bifeng_Canyon.jpg",
-     "credit": "NoGhost",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Bifeng_Canyon.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Bifeng_Canyon.jpg/1280px-Bifeng_Canyon.jpg",
-     "credit": "NoGhost",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Bifeng_Canyon.jpg"
-    }
-   ],
+   "photos": [],
    "links": [
     {
      "label": "Wikipedia",
@@ -9574,22 +9500,28 @@
    "crowd_tips": "Be at the gate at opening; avoid holidays.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/1280px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg",
+     "src": "photos/jiuzhaigou-1.jpg",
      "credit": "Chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg/1280px-1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg",
+     "thumb": "photos/jiuzhaigou-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1_jiuzhaigou_valley_five_colour_pond_2011.JPG/1280px-1_jiuzhaigou_valley_five_colour_pond_2011.JPG",
+     "src": "photos/jiuzhaigou-2.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_five_colour_pond_2011.JPG"
+     "link": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_five_colour_pond_2011.JPG",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/1_jiuzhaigou_valley_five_colour_pond_2011.JPG/1280px-1_jiuzhaigou_valley_five_colour_pond_2011.JPG",
+     "thumb": "photos/jiuzhaigou-2-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/1_jiuzhaigou_valley_long_lake_chang_hai_2011.jpg/1280px-1_jiuzhaigou_valley_long_lake_chang_hai_2011.jpg",
+     "src": "photos/jiuzhaigou-3.jpg",
      "credit": "chensiyuan",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_long_lake_chang_hai_2011.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_long_lake_chang_hai_2011.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/1_jiuzhaigou_valley_long_lake_chang_hai_2011.jpg/1280px-1_jiuzhaigou_valley_long_lake_chang_hai_2011.jpg",
+     "thumb": "photos/jiuzhaigou-3-thumb.jpg"
     }
    ],
    "links": [
@@ -9657,22 +9589,20 @@
    ],
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/20250523_Baidi_Miao.jpg/1280px-20250523_Baidi_Miao.jpg",
+     "src": "photos/baidicheng-kuimen-1.jpg",
      "credit": "Yumeto",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:20250523_Baidi_Miao.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:20250523_Baidi_Miao.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/20250523_Baidi_Miao.jpg/1280px-20250523_Baidi_Miao.jpg",
+     "thumb": "photos/baidicheng-kuimen-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/20250523_Baidi_Miao.jpg/1280px-20250523_Baidi_Miao.jpg",
+     "src": "photos/baidicheng-kuimen-3.jpg",
      "credit": "Yumeto",
      "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:20250523_Baidi_Miao.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/20250523_Baidi_Shan.jpg/1280px-20250523_Baidi_Shan.jpg",
-     "credit": "Yumeto",
-     "license": "CC BY-SA 4.0",
-     "link": "https://commons.wikimedia.org/wiki/File:20250523_Baidi_Shan.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:20250523_Baidi_Shan.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/20250523_Baidi_Shan.jpg/1280px-20250523_Baidi_Shan.jpg",
+     "thumb": "photos/baidicheng-kuimen-3-thumb.jpg"
     }
    ],
    "links": [
@@ -9745,22 +9675,20 @@
    ],
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg/1280px-%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg",
+     "src": "photos/qingcheng-houshan-1.jpg",
      "credit": "Nyx Ning",
      "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg/1280px-%E5%9B%9B%E5%B7%9D_%E9%9D%92%E5%9F%8E%E5%B1%B1-%E7%B4%A2%E9%81%93%E4%B8%8B%E5%8F%A3%E7%AB%99_-_panoramio.jpg",
+     "thumb": "photos/qingcheng-houshan-1-thumb.jpg"
     },
     {
-     "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chengdu-pandas-d10.jpg",
-     "credit": "Colegota",
-     "license": "CC BY-SA 2.5 es",
-     "link": "https://commons.wikimedia.org/wiki/File:Chengdu-pandas-d10.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/FRONT_GATE_OF_QINGCHENG.JPG/1280px-FRONT_GATE_OF_QINGCHENG.JPG",
+     "src": "photos/qingcheng-houshan-3.jpg",
      "credit": "A0110110010",
      "license": "CC0",
-     "link": "https://commons.wikimedia.org/wiki/File:FRONT_GATE_OF_QINGCHENG.JPG"
+     "link": "https://commons.wikimedia.org/wiki/File:FRONT_GATE_OF_QINGCHENG.JPG",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/FRONT_GATE_OF_QINGCHENG.JPG/1280px-FRONT_GATE_OF_QINGCHENG.JPG",
+     "thumb": "photos/qingcheng-houshan-3-thumb.jpg"
     }
    ],
    "links": [
@@ -9802,22 +9730,20 @@
    "health": "The summit area is ~2,300–2,500 m; the highest peak (Fenghuangshan, 2,572 m) is off-limits. Fine as a day visit.",
    "photos": [
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/A_view_over_Cheng%27en_Temple%2C_Mount_Fanjing%2C_31_March_2020b.jpg/1280px-A_view_over_Cheng%27en_Temple%2C_Mount_Fanjing%2C_31_March_2020b.jpg",
+     "src": "photos/fanjingshan-1.jpg",
      "credit": "Huangdan2060",
      "license": "CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:A_view_over_Cheng%27en_Temple,_Mount_Fanjing,_31_March_2020b.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:A_view_over_Cheng%27en_Temple,_Mount_Fanjing,_31_March_2020b.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/A_view_over_Cheng%27en_Temple%2C_Mount_Fanjing%2C_31_March_2020b.jpg/1280px-A_view_over_Cheng%27en_Temple%2C_Mount_Fanjing%2C_31_March_2020b.jpg",
+     "thumb": "photos/fanjingshan-1-thumb.jpg"
     },
     {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Buddhist_temple_on_Red_Clouds_Golden_Summit%2C_Mount_Fanjing%2C_31_March_2020h.jpg/1280px-Buddhist_temple_on_Red_Clouds_Golden_Summit%2C_Mount_Fanjing%2C_31_March_2020h.jpg",
+     "src": "photos/fanjingshan-2.jpg",
      "credit": "Huangdan2060",
      "license": "CC BY 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:Buddhist_temple_on_Red_Clouds_Golden_Summit,_Mount_Fanjing,_31_March_2020h.jpg"
-    },
-    {
-     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/China_edcp_relief_location_map.jpg/1280px-China_edcp_relief_location_map.jpg",
-     "credit": "Uwe Dedering",
-     "license": "CC BY-SA 3.0",
-     "link": "https://commons.wikimedia.org/wiki/File:China_edcp_relief_location_map.jpg"
+     "link": "https://commons.wikimedia.org/wiki/File:Buddhist_temple_on_Red_Clouds_Golden_Summit,_Mount_Fanjing,_31_March_2020h.jpg",
+     "remote": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Buddhist_temple_on_Red_Clouds_Golden_Summit%2C_Mount_Fanjing%2C_31_March_2020h.jpg/1280px-Buddhist_temple_on_Red_Clouds_Golden_Summit%2C_Mount_Fanjing%2C_31_March_2020h.jpg",
+     "thumb": "photos/fanjingshan-2-thumb.jpg"
     }
    ],
    "links": [
