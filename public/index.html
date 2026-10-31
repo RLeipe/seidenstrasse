@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Seidenstrasse · China April trip planner</title>
+  <meta name="description" content="Interactive planning map for a 3.5-week China trip: high-speed rail, altitude, disease risk, April climate and hand-picked places.">
+  <meta name="theme-color" content="#14213d">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="vendor/maplibre-gl/maplibre-gl.css">
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+  <div id="map" aria-label="Map of China"></div>
+
+  <!-- ───────────── Left: layers, filters, place list ───────────── -->
+  <aside id="sidebar" class="panel">
+    <header class="brand">
+      <button id="sidebar-toggle" class="icon-btn" title="Collapse panel" aria-label="Collapse panel">☰</button>
+      <div>
+        <h1>Seidenstrasse</h1>
+        <p class="subtitle">China · April 2027 · trip planner</p>
+      </div>
+    </header>
+
+    <div class="sidebar-body">
+      <nav class="tabs" role="tablist">
+        <button class="tab active" data-tab="layers" role="tab">Layers</button>
+        <button class="tab" data-tab="places" role="tab">Places</button>
+        <button class="tab" data-tab="about" role="tab">About</button>
+      </nav>
+
+      <!-- Layers -->
+      <section class="tab-panel active" data-panel="layers">
+        <h2>Base map</h2>
+        <div class="segmented" id="basemap-switch">
+          <button data-basemap="map" class="active">Map</button>
+          <button data-basemap="satellite">Satellite</button>
+        </div>
+        <label class="toggle"><input type="checkbox" id="lyr-hillshade" checked><span>Terrain shading</span></label>
+        <label class="toggle"><input type="checkbox" id="lyr-3d"><span>3D terrain <small>(tilt with right-drag / two fingers)</small></span></label>
+
+        <h2>Overlays</h2>
+
+        <div class="layer-group" data-layer="rail">
+          <label class="toggle"><input type="checkbox" id="lyr-rail" checked><span>Railways &amp; stations</span></label>
+          <div class="legend">
+            <div><i class="ln" style="--c:#d7263d;--w:4px"></i>High-speed (G/D trains, 200–350 km/h)</div>
+            <div><i class="ln" style="--c:#f28f3b;--w:3px"></i>Fast conventional (D/C trains, 140–200 km/h)</div>
+            <div><i class="ln dashed" style="--c:#d7263d;--w:3px"></i>HSR under construction</div>
+            <div class="sub"><label><input type="checkbox" id="lyr-rail-conv" checked> Other passenger lines</label></div>
+            <div class="sub"><label><input type="checkbox" id="lyr-stations" checked> Stations</label>
+              <span class="dots"><i class="dot" style="--c:#d7263d"></i>HSR <i class="dot" style="--c:#f28f3b"></i>fast <i class="dot small" style="--c:#6c7a89"></i>other</span></div>
+          </div>
+        </div>
+
+        <div class="layer-group" data-layer="altitude">
+          <label class="toggle"><input type="checkbox" id="lyr-altitude" checked><span>High altitude (&gt; 2,500 m)</span></label>
+          <div class="legend ramp">
+            <div><i class="sw" style="--c:#ffd166"></i>2,500–3,000 m</div>
+            <div><i class="sw" style="--c:#f3722c"></i>3,000–3,500 m</div>
+            <div><i class="sw" style="--c:#d00000"></i>3,500–4,500 m</div>
+            <div><i class="sw" style="--c:#6a040f"></i>&gt; 4,500 m</div>
+            <p class="note">Many obstetric &amp; travel-medicine guidelines advise pregnant travellers not to <em>sleep</em> above ~2,500 m. Hover anywhere for the elevation at the cursor.</p>
+          </div>
+        </div>
+
+        <div class="layer-group" data-layer="disease">
+          <label class="toggle"><input type="checkbox" id="lyr-disease"><span>Health &amp; disease risk</span></label>
+          <div class="legend" id="disease-legend"></div>
+        </div>
+
+        <div class="layer-group" data-layer="climate">
+          <label class="toggle"><input type="checkbox" id="lyr-climate"><span>April climate</span></label>
+          <div class="legend">
+            <div class="segmented small" id="climate-switch">
+              <button data-var="tmax" class="active">Avg high</button>
+              <button data-var="tmin">Avg low</button>
+              <button data-var="prec">Rain</button>
+            </div>
+            <div id="climate-ramp" class="ramp-bar"></div>
+            <p class="note">WorldClim 1970–2000 April normals (~9 km grid). Hover for local values.</p>
+          </div>
+        </div>
+
+        <div class="layer-group" data-layer="places">
+          <label class="toggle"><input type="checkbox" id="lyr-places" checked><span>Places &amp; areas</span></label>
+          <div class="legend" id="category-legend"></div>
+        </div>
+      </section>
+
+      <!-- Places -->
+      <section class="tab-panel" data-panel="places">
+        <div class="filters">
+          <label>Min. wow factor <output id="f-wow-out">1</output>
+            <input type="range" id="f-wow" min="1" max="5" step="1" value="1"></label>
+          <label>Max. crowds <output id="f-crowd-out">5</output>
+            <input type="range" id="f-crowd" min="1" max="5" step="1" value="5"></label>
+          <label class="toggle"><input type="checkbox" id="f-pregnancy"><span>Hide places above 2,500 m</span></label>
+          <input type="search" id="f-search" placeholder="Search places…">
+          <div class="chips" id="f-categories"></div>
+        </div>
+        <ul id="place-list" class="place-list"></ul>
+      </section>
+
+      <!-- About -->
+      <section class="tab-panel about" data-panel="about">
+        <p>A planning map for our China trip next April: Hong Kong / Shenzhen → the south-west (Guizhou, Guangxi, Hunan) → <strong>Yunnan</strong> → <strong>Chengdu</strong> &amp; the Sichuan mountains → <strong>Chongqing</strong>.</p>
+        <h3>Ratings</h3>
+        <p><strong>Wow</strong> ★1–5: how memorable it is. 5 = once-in-a-lifetime.<br>
+           <strong>Crowds</strong> 👥1–5: how busy it typically gets in late April, outside the 1–5 May holiday. 1 = you may be alone; 5 = shoulder-to-shoulder.</p>
+        <h3>Avoid</h3>
+        <p>🚫 <strong>Qingming</strong> (≈ 5 Apr) and especially the <strong>Labour Day holiday (1–5 May)</strong>: domestic travel peaks, trains sell out, top sights get overwhelmed.</p>
+        <h3>Data sources</h3>
+        <ul class="sources">
+          <li>Base map: <a href="https://openfreemap.org">OpenFreeMap</a> / © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors</li>
+          <li>Satellite: Esri World Imagery (Esri, Maxar, Earthstar Geographics)</li>
+          <li>Railways &amp; stations: © OpenStreetMap contributors (ODbL), extracted Oct 2026</li>
+          <li>Elevation: <a href="https://registry.opendata.aws/terrain-tiles/">AWS Terrain Tiles</a> (SRTM, GMTED, ETOPO1 …)</li>
+          <li>Climate: <a href="https://www.worldclim.org">WorldClim 2.1</a> (Fick &amp; Hijmans 2017)</li>
+          <li>Health: CDC Travelers' Health, WHO, China CDC Weekly, published literature. Curated summary, <em>not medical advice</em>.</li>
+          <li>Photos: Wikimedia Commons (credits in each panel)</li>
+        </ul>
+      </section>
+    </div>
+  </aside>
+
+  <!-- ───────────── Right: detail panel ───────────── -->
+  <aside id="detail" class="panel" aria-hidden="true">
+    <button id="detail-close" class="icon-btn close" title="Close" aria-label="Close">✕</button>
+    <div id="detail-content"></div>
+  </aside>
+
+  <!-- Cursor read-out -->
+  <div id="readout" class="readout" hidden></div>
+
+  <script src="vendor/maplibre-gl/maplibre-gl.js"></script>
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

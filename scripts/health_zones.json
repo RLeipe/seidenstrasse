@@ -1,0 +1,122 @@
+{
+  "as_of": "October 2026",
+  "general_note": "Everywhere on the route: dogs carry rabies (consider pre-exposure vaccination for rural hiking), hepatitis A/typhoid via food &amp; water, and freshwater schistosomiasis in parts of the Yangtze basin and Yunnan lakes, so don't wade or swim in lakes and rivers. Altitude is covered by its own layer. Curated summary, not medical advice.",
+  "groups": [
+    {"id": "aedes", "label": "Dengue · chikungunya · Zika vector (Aedes mosquitoes)", "color": "#d92d20"},
+    {"id": "malaria", "label": "Rare malaria (Myanmar/Laos border)", "color": "#7a2e0e", "dashed": true},
+    {"id": "je", "label": "Japanese encephalitis (rural, seasonal)", "color": "#7f56d9", "default": false}
+  ],
+  "zones": [
+    {
+      "id": "yunnan-tropics",
+      "group": "aedes",
+      "title": "Southern Yunnan border tropics",
+      "level": 3,
+      "level_label": "Elevated: the main mosquito-borne hotspot on your route",
+      "color": "#b42318",
+      "opacity": 0.42,
+      "icon": "🦟",
+      "members": ["西双版纳傣族自治州", "德宏傣族景颇族自治州", "临沧市", "普洱市"],
+      "summary": [
+        "Xishuangbanna, Dehong (Ruili, Mangshi), Lincang and Pu'er are China's tropical border lowlands. **Dengue** comes back almost every year, imported across the Myanmar/Laos border, with large local outbreaks in Jinghong (Xishuangbanna) in 2013 and 2019 and in Ruili in 2015 and 2019. Ruili also had a local **chikungunya** outbreak in 2019.",
+        "*Aedes aegypti* is established here. It is the most efficient vector for dengue and **Zika**, first found at Ruili in 2002 and now in several border cities. No locally acquired Zika has been confirmed in mainland China so far. All reported cases were imported, but the vector and the traffic from Zika-endemic Southeast Asia are both present.",
+        "Highlands in the same prefectures, such as the tea mountains above roughly 1,500 m, carry much less mosquito risk than the river valleys and cities (Jinghong, Ruili, Menglun)."
+      ],
+      "april": "April is the hot, dry pre-monsoon season, often 30–35 °C in Jinghong. Transmission is usually lower than in the rainy season (June–November), but *Aedes* bite during the day and breed in water containers all year. Water-Splashing Festival (mid-April) brings big crowds to Jinghong.",
+      "pregnancy": "CDC advises pregnant travellers to avoid areas with *current* Zika outbreaks. None are reported in China as of late 2026, but this is the zone where it would most plausibly appear, and dengue during pregnancy is more dangerous for both mother and baby. If pregnant, the conservative choice is to **skip the tropical lowlands** or keep to strict bite avoidance and check outbreak news shortly before travel.",
+      "prevention": "- DEET (20–50 %) or icaridin repellent, reapplied; long, light-coloured clothing\n- Permethrin-treated clothes; air-conditioned or screened rooms\n- Day-biting mosquitoes: most important at dawn, dusk and in shaded urban areas",
+      "sources": [
+        {"label": "CDC: China travel health", "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/china"},
+        {"label": "CDC: Zika & pregnancy", "url": "https://www.cdc.gov/zika/hc-providers/pregnant-woman.html"},
+        {"label": "Ae. aegypti in Yunnan (Parasites & Vectors 2019)", "url": "https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-019-3818-8"},
+        {"label": "Zika & imported cases in China (EID 2017)", "url": "https://wwwnc.cdc.gov/eid/article/23/7/16-1528"}
+      ]
+    },
+    {
+      "id": "pearl-river-delta",
+      "group": "aedes",
+      "title": "Pearl River Delta (Guangzhou, Foshan, Shenzhen, Hong Kong …)",
+      "level": 2,
+      "level_label": "Moderate and strongly seasonal, low in April",
+      "color": "#f04438",
+      "opacity": 0.3,
+      "icon": "🦟",
+      "members": ["广州市", "佛山市", "深圳市", "东莞市", "中山市", "江门市", "珠海市", "肇庆市", "清远市", "惠州市", "香港", "澳門"],
+      "summary": [
+        "Guangdong is China's dengue heartland. The 2014 Guangzhou epidemic had more than 40,000 cases, and outbreaks happen most years. In **summer 2025, Foshan (Shunde)** had China's largest-ever **chikungunya** outbreak, with several thousand cases, which led to a CDC Level 2 travel notice. The vector here is mainly the Asian tiger mosquito *Aedes albopictus*.",
+        "Hong Kong sees sporadic locally acquired dengue cases most summers."
+      ],
+      "april": "Transmission season is roughly **June–November**, peaking in September–October. In April, mosquito numbers are rising but local outbreaks are uncommon. Risk for a few days in Hong Kong/Shenzhen in April is low, so normal bite precautions are enough.",
+      "pregnancy": "Low risk in April. Use repellent (DEET and icaridin are considered safe in pregnancy). Check for any active chikungunya or dengue notice for Guangdong before departure.",
+      "prevention": "- Repellent in parks and on trails (MacLehose Trail, Wutong Shan)\n- No vaccination needed for this risk level",
+      "sources": [
+        {"label": "CDC: Travel notices", "url": "https://wwwnc.cdc.gov/travel/notices"},
+        {"label": "China CDC Weekly: chikungunya Foshan 2025", "url": "https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2025.172"},
+        {"label": "HK CHP: dengue", "url": "https://www.chp.gov.hk/en/healthtopics/content/24/19.html"}
+      ]
+    },
+    {
+      "id": "south-china-seasonal",
+      "group": "aedes",
+      "title": "Rest of the subtropical south (Guangdong, Guangxi, Hainan, SE Yunnan)",
+      "level": 1,
+      "level_label": "Low-moderate: sporadic summer outbreaks",
+      "color": "#fdb022",
+      "opacity": 0.24,
+      "icon": "🦟",
+      "members": ["广东省", "广西壮族自治区", "海口市", "三亚市", "儋州市", "红河哈尼族彝族自治州", "文山壮族苗族自治州"],
+      "minus": ["广州市", "佛山市", "深圳市", "东莞市", "中山市", "江门市", "珠海市", "肇庆市", "清远市", "惠州市"],
+      "summary": [
+        "Dengue and chikungunya appear sporadically in summer and autumn, mostly seeded by imported cases. *Aedes albopictus* is everywhere in southern China, including Guizhou, Hunan, Sichuan and Chongqing, which aren't shaded here because local outbreaks there are rare. Hainan and the Leizhou peninsula also have *Ae. aegypti*.",
+        "The Honghe/Wenshan valleys of south-east Yunnan (Yuanyang's lower river valley, Hekou) are hot lowlands near Vietnam. The terraces themselves sit at 1,400–2,000 m, where mosquito risk is much lower."
+      ],
+      "april": "Early season, so risk is low. Standard repellent use.",
+      "pregnancy": "Low risk in April with bite avoidance.",
+      "sources": [
+        {"label": "CDC: China travel health", "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/china"}
+      ]
+    },
+    {
+      "id": "malaria-border",
+      "group": "malaria",
+      "title": "Yunnan's Myanmar/Laos border prefectures",
+      "level": 1,
+      "level_label": "Very low: rare imported/border cases",
+      "color": "#7a2e0e",
+      "opacity": 0.06,
+      "dashed": true,
+      "icon": "🦟",
+      "members": ["怒江傈僳族自治州", "保山市", "德宏傣族景颇族自治州", "临沧市", "普洱市", "西双版纳傣族自治州"],
+      "summary": [
+        "WHO certified China **malaria-free in 2021**. CDC still lists rare cases in the counties along the China-Myanmar border in Yunnan (mostly *P. vivax*, some *P. falciparum*), nearly all linked to cross-border travel. Motuo County in Tibet is the other historic focus.",
+        "CDC's recommendation for these areas has been **mosquito avoidance only, with no chemoprophylaxis**."
+      ],
+      "april": "Pre-monsoon, low vector activity.",
+      "pregnancy": "Malaria is much more dangerous in pregnancy, but the risk here is extremely low. Discuss with a travel clinic if planning nights in remote border villages.",
+      "sources": [
+        {"label": "WHO: China certified malaria-free (2021)", "url": "https://www.who.int/news/item/30-06-2021-from-30-million-cases-to-zero-china-is-certified-malaria-free-by-who"},
+        {"label": "CDC: China travel health", "url": "https://wwwnc.cdc.gov/travel/destinations/traveler/none/china"}
+      ]
+    },
+    {
+      "id": "japanese-encephalitis",
+      "group": "je",
+      "title": "Japanese encephalitis: rural south & south-west China",
+      "level": 1,
+      "level_label": "Low for short trips; vaccine worth discussing for rural hiking",
+      "color": "#7f56d9",
+      "opacity": 0.12,
+      "icon": "🌾",
+      "members": ["广东省", "广西壮族自治区", "贵州省", "湖南省", "云南省", "四川省", "重庆市", "香港"],
+      "summary": [
+        "JE is a mosquito-borne (*Culex*) viral encephalitis of rural, rice-paddy and pig-farming areas. It occurs across almost all of China except Xinjiang, Qinghai and Tibet. Infection is rare in travellers but severe.",
+        "CDC: consider the vaccine for travellers with **extended outdoor exposure in rural areas**, such as hiking, rice-terrace villages and homestays without screens. It is not recommended for city-only trips."
+      ],
+      "april": "Transmission season in southern China runs roughly May–October, peaking in July–August, so April is at the very start. Tropical Yunnan can see cases earlier.",
+      "pregnancy": "Ixiaro (the inactivated JE vaccine) has limited pregnancy data. If you want it, ideally get both doses before a pregnancy, otherwise decide with a travel-medicine doctor.",
+      "sources": [
+        {"label": "CDC: Japanese encephalitis", "url": "https://www.cdc.gov/japanese-encephalitis/hcp/vaccine/index.html"}
+      ]
+    }
+  ]
+}

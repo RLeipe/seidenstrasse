@@ -1,0 +1,5 @@
+build/
+*.osm.pbf
+__pycache__/
+.DS_Store
+node_modules/
