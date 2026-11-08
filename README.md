@@ -85,6 +85,10 @@ In the Pages project → **Custom domains** → **Set up a custom domain** → e
 
   Then click **Check DNS records** in Cloudflare. Activation usually takes 5–30 minutes. Add the domain in the Pages UI *before or together with* the CNAME, otherwise Cloudflare answers with a 522 error.
 
+### Troubleshooting: pushes don't deploy
+
+If the Pages project shows a **"disconnected from Git"** banner, Cloudflare's GitHub app has lost access to the repo. Click **Manage** and add `rleipe/seidenstrasse` to the repositories the Cloudflare Workers & Pages GitHub app may access, then push any commit to `main` to trigger a deploy.
+
 ### 4. Optional: keep it private
 
 The site is public by default. To restrict it to the two of you, use **Cloudflare Zero Trust → Access → Applications → Add → Self-hosted**, domain `seidenstrasse.romanleipe.com`, with a policy "Allow, emails: you + your wife". You then log in with a one-time code by email. It's free for up to 50 users.
